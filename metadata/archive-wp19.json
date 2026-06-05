@@ -1,0 +1,662 @@
+{
+  "wp": 19,
+  "built": "2026-06-01T18:17:00",
+  "sessions": [
+    {
+      "session_id": "19001",
+      "period": 19,
+      "sitzung": 1,
+      "tagungsabschnitt": 1,
+      "date": "2022-11-08",
+      "meeting_id": "4a230abe-2d7d-4693-8fa0-b1d487e04fed"
+    },
+    {
+      "session_id": "19002",
+      "period": 19,
+      "sitzung": 2,
+      "tagungsabschnitt": 1,
+      "date": "2022-11-09",
+      "meeting_id": "66754fef-1756-4158-a71f-07132dc95f6a"
+    },
+    {
+      "session_id": "19003",
+      "period": 19,
+      "sitzung": 3,
+      "tagungsabschnitt": 2,
+      "date": "2022-11-30",
+      "meeting_id": "3d9e1bcc-8ac1-4851-b427-9eb1b7b16e90"
+    },
+    {
+      "session_id": "19004",
+      "period": 19,
+      "sitzung": 4,
+      "tagungsabschnitt": 3,
+      "date": "2022-12-13",
+      "meeting_id": "57b70b91-465e-45ce-90dc-e9b5790f56ec"
+    },
+    {
+      "session_id": "19005",
+      "period": 19,
+      "sitzung": 5,
+      "tagungsabschnitt": 3,
+      "date": "2022-12-14",
+      "meeting_id": "cda973f1-9498-4d65-b08c-0f7e358bddc5"
+    },
+    {
+      "session_id": "19006",
+      "period": 19,
+      "sitzung": 6,
+      "tagungsabschnitt": 4,
+      "date": "2023-01-25",
+      "meeting_id": "727736c6-c5de-42b3-b9d6-872768900a48"
+    },
+    {
+      "session_id": "19007",
+      "period": 19,
+      "sitzung": 7,
+      "tagungsabschnitt": 4,
+      "date": "2023-01-26",
+      "meeting_id": "7c43ca8b-b427-4531-9416-6459892cc090"
+    },
+    {
+      "session_id": "19008",
+      "period": 19,
+      "sitzung": 8,
+      "tagungsabschnitt": 4,
+      "date": "2023-01-27",
+      "meeting_id": "8c569ba1-06c8-40c6-8b49-4005ffbed810"
+    },
+    {
+      "session_id": "19009",
+      "period": 19,
+      "sitzung": 9,
+      "tagungsabschnitt": 5,
+      "date": "2023-02-22",
+      "meeting_id": "18de2210-3d39-42cc-a61d-07922f971a01"
+    },
+    {
+      "session_id": "19010",
+      "period": 19,
+      "sitzung": 10,
+      "tagungsabschnitt": 5,
+      "date": "2023-02-23",
+      "meeting_id": "603fa2c8-0c81-4a3d-b233-abb4c7676ac2"
+    },
+    {
+      "session_id": "19011",
+      "period": 19,
+      "sitzung": 11,
+      "tagungsabschnitt": 6,
+      "date": "2023-03-22",
+      "meeting_id": "10adf493-b418-4406-a6f0-6e71d1ee7e88"
+    },
+    {
+      "session_id": "19012",
+      "period": 19,
+      "sitzung": 12,
+      "tagungsabschnitt": 6,
+      "date": "2023-03-23",
+      "meeting_id": "ee4e7f7b-26b9-4d17-899e-becff7c65b12"
+    },
+    {
+      "session_id": "19013",
+      "period": 19,
+      "sitzung": 13,
+      "tagungsabschnitt": 7,
+      "date": "2023-05-03",
+      "meeting_id": "f1a4750c-79af-4819-886e-bd3dd7884501"
+    },
+    {
+      "session_id": "19014",
+      "period": 19,
+      "sitzung": 14,
+      "tagungsabschnitt": 7,
+      "date": "2023-05-04",
+      "meeting_id": "467010f0-c4f2-4beb-a026-ee6ac3d16d20"
+    },
+    {
+      "session_id": "19015",
+      "period": 19,
+      "sitzung": 15,
+      "tagungsabschnitt": 8,
+      "date": "2023-06-20",
+      "meeting_id": "372ca074-f702-4a9e-8085-b5e52389b42c"
+    },
+    {
+      "session_id": "19016",
+      "period": 19,
+      "sitzung": 16,
+      "tagungsabschnitt": 8,
+      "date": "2023-06-21",
+      "meeting_id": "6249af5b-50a5-4d91-9001-c34b9491731d"
+    },
+    {
+      "session_id": "19017",
+      "period": 19,
+      "sitzung": 17,
+      "tagungsabschnitt": 8,
+      "date": "2023-06-22",
+      "meeting_id": "fd6aff45-8c4c-4385-880e-381e3eda5ba1"
+    },
+    {
+      "session_id": "19018",
+      "period": 19,
+      "sitzung": 18,
+      "tagungsabschnitt": 8,
+      "date": "2023-06-23",
+      "meeting_id": "94c96e92-62fd-4a3d-9949-e795e7134fab"
+    },
+    {
+      "session_id": "19019",
+      "period": 19,
+      "sitzung": 19,
+      "tagungsabschnitt": 9,
+      "date": "2023-09-13",
+      "meeting_id": "55b52bf1-7d50-4b3a-8e80-3eb677bb6976"
+    },
+    {
+      "session_id": "19020",
+      "period": 19,
+      "sitzung": 20,
+      "tagungsabschnitt": 9,
+      "date": "2023-09-14",
+      "meeting_id": "9bdb29a2-faeb-4915-ba09-8e68aa579544"
+    },
+    {
+      "session_id": "19021",
+      "period": 19,
+      "sitzung": 21,
+      "tagungsabschnitt": 9,
+      "date": "2023-09-15",
+      "meeting_id": "1eb56eb6-0530-4e88-b6fe-1c1150ef9747"
+    },
+    {
+      "session_id": "19022",
+      "period": 19,
+      "sitzung": 22,
+      "tagungsabschnitt": 10,
+      "date": "2023-10-11",
+      "meeting_id": "a0e7cfaf-6d29-4e01-859f-441efbc9a23c"
+    },
+    {
+      "session_id": "19023",
+      "period": 19,
+      "sitzung": 23,
+      "tagungsabschnitt": 10,
+      "date": "2023-10-12",
+      "meeting_id": "a36d20e6-2581-4092-a22e-d8f085d4a04d"
+    },
+    {
+      "session_id": "19024",
+      "period": 19,
+      "sitzung": 24,
+      "tagungsabschnitt": 11,
+      "date": "2023-11-08",
+      "meeting_id": "adf867bc-ba17-487d-9f9a-81524f37ee41"
+    },
+    {
+      "session_id": "19025",
+      "period": 19,
+      "sitzung": 25,
+      "tagungsabschnitt": 11,
+      "date": "2023-11-09",
+      "meeting_id": "021c2856-f1f1-43b1-8250-b9c7b6dc218a"
+    },
+    {
+      "session_id": "19026",
+      "period": 19,
+      "sitzung": 26,
+      "tagungsabschnitt": 11,
+      "date": "2023-11-10",
+      "meeting_id": "834e5c78-501d-4e27-bc11-5f243494731b"
+    },
+    {
+      "session_id": "19027",
+      "period": 19,
+      "sitzung": 27,
+      "tagungsabschnitt": 12,
+      "date": "2023-12-11",
+      "meeting_id": "a60aefff-bf17-4ec8-be4f-c442bd3f5bb8"
+    },
+    {
+      "session_id": "19028",
+      "period": 19,
+      "sitzung": 28,
+      "tagungsabschnitt": 12,
+      "date": "2023-12-12",
+      "meeting_id": "361c7ab1-4d01-46ca-abf4-c0197fc4d073"
+    },
+    {
+      "session_id": "19029",
+      "period": 19,
+      "sitzung": 29,
+      "tagungsabschnitt": 12,
+      "date": "2023-12-13",
+      "meeting_id": "e67fb062-0e6b-4867-ad49-579689bccc0d"
+    },
+    {
+      "session_id": "19030",
+      "period": 19,
+      "sitzung": 30,
+      "tagungsabschnitt": 12,
+      "date": "2023-12-14",
+      "meeting_id": "8b7f6224-8fb1-4fa8-9cb7-850287fc1781"
+    },
+    {
+      "session_id": "19031",
+      "period": 19,
+      "sitzung": 31,
+      "tagungsabschnitt": 13,
+      "date": "2024-02-07",
+      "meeting_id": "0cc24913-4be5-4fa3-99fc-381194ddc424"
+    },
+    {
+      "session_id": "19032",
+      "period": 19,
+      "sitzung": 32,
+      "tagungsabschnitt": 13,
+      "date": "2024-02-08",
+      "meeting_id": "7233a1b6-57a8-4c6d-9159-a0d92abbfac7"
+    },
+    {
+      "session_id": "19033",
+      "period": 19,
+      "sitzung": 33,
+      "tagungsabschnitt": 13,
+      "date": "2024-02-09",
+      "meeting_id": "c0d7a9ad-af93-4f3d-80bd-4f3978fd6c0b"
+    },
+    {
+      "session_id": "19034",
+      "period": 19,
+      "sitzung": 34,
+      "tagungsabschnitt": 14,
+      "date": "2024-03-13",
+      "meeting_id": "56a1df48-3751-4527-aacb-959d5eb4ca90"
+    },
+    {
+      "session_id": "19035",
+      "period": 19,
+      "sitzung": 35,
+      "tagungsabschnitt": 14,
+      "date": "2024-03-14",
+      "meeting_id": "7d22b044-765d-4d2a-b667-f20fe7c3489a"
+    },
+    {
+      "session_id": "19036",
+      "period": 19,
+      "sitzung": 36,
+      "tagungsabschnitt": 14,
+      "date": "2024-03-15",
+      "meeting_id": "be1a0589-5920-4a6b-858c-0dbbee5fcd89"
+    },
+    {
+      "session_id": "19037",
+      "period": 19,
+      "sitzung": 37,
+      "tagungsabschnitt": 15,
+      "date": "2024-04-17",
+      "meeting_id": "96c9a071-ff25-45f6-a52a-ba698b8868dc"
+    },
+    {
+      "session_id": "19038",
+      "period": 19,
+      "sitzung": 38,
+      "tagungsabschnitt": 15,
+      "date": "2024-04-18",
+      "meeting_id": "a1b1b496-71ae-4789-a0fc-c68693694241"
+    },
+    {
+      "session_id": "19039",
+      "period": 19,
+      "sitzung": 39,
+      "tagungsabschnitt": 16,
+      "date": "2024-05-15",
+      "meeting_id": "e985ba3b-703b-48ba-8781-93a3407b10ff"
+    },
+    {
+      "session_id": "19040",
+      "period": 19,
+      "sitzung": 40,
+      "tagungsabschnitt": 16,
+      "date": "2024-05-16",
+      "meeting_id": "63827f61-0f5e-4b43-b5b3-a877df6686a8"
+    },
+    {
+      "session_id": "19041",
+      "period": 19,
+      "sitzung": 41,
+      "tagungsabschnitt": 16,
+      "date": "2024-05-17",
+      "meeting_id": "8f236593-4790-4694-9bab-e7a5f922079c"
+    },
+    {
+      "session_id": "19042",
+      "period": 19,
+      "sitzung": 42,
+      "tagungsabschnitt": 17,
+      "date": "2024-06-17",
+      "meeting_id": "efc49d02-98fc-4139-936a-4561bfe54ea2"
+    },
+    {
+      "session_id": "19043",
+      "period": 19,
+      "sitzung": 43,
+      "tagungsabschnitt": 17,
+      "date": "2024-06-18",
+      "meeting_id": "3b6310aa-8952-41b9-82c2-524b0909c6c9"
+    },
+    {
+      "session_id": "19044",
+      "period": 19,
+      "sitzung": 44,
+      "tagungsabschnitt": 17,
+      "date": "2024-06-19",
+      "meeting_id": "c8c411dd-b4ac-4da8-85ef-af48ffeb84c4"
+    },
+    {
+      "session_id": "19045",
+      "period": 19,
+      "sitzung": 45,
+      "tagungsabschnitt": 18,
+      "date": "2024-08-28",
+      "meeting_id": "e627e9c9-be85-4ea0-b5d0-96cb52027040"
+    },
+    {
+      "session_id": "19046",
+      "period": 19,
+      "sitzung": 46,
+      "tagungsabschnitt": 18,
+      "date": "2024-08-29",
+      "meeting_id": "559c605a-2aef-498f-b737-c5323478d2a5"
+    },
+    {
+      "session_id": "19047",
+      "period": 19,
+      "sitzung": 47,
+      "tagungsabschnitt": 19,
+      "date": "2024-09-25",
+      "meeting_id": "f1061b97-d9a7-4dc5-86ce-705f1ba401cb"
+    },
+    {
+      "session_id": "19048",
+      "period": 19,
+      "sitzung": 48,
+      "tagungsabschnitt": 19,
+      "date": "2024-09-26",
+      "meeting_id": "64eebb40-32d9-477e-baa5-209aa7376959"
+    },
+    {
+      "session_id": "19049",
+      "period": 19,
+      "sitzung": 49,
+      "tagungsabschnitt": 19,
+      "date": "2024-09-27",
+      "meeting_id": "de56c770-be6d-4d3a-9206-fa99d8fa6b76"
+    },
+    {
+      "session_id": "19050",
+      "period": 19,
+      "sitzung": 50,
+      "tagungsabschnitt": 20,
+      "date": "2024-11-06",
+      "meeting_id": "3716d61b-4392-44c9-8d50-906746d8614a"
+    },
+    {
+      "session_id": "19051",
+      "period": 19,
+      "sitzung": 51,
+      "tagungsabschnitt": 20,
+      "date": "2024-11-07",
+      "meeting_id": "245f542d-6286-4c4c-a1b3-3fcd40724541"
+    },
+    {
+      "session_id": "19052",
+      "period": 19,
+      "sitzung": 52,
+      "tagungsabschnitt": 20,
+      "date": "2024-11-08",
+      "meeting_id": "3edb6556-84dc-4508-aa6e-50e271c0bbaa"
+    },
+    {
+      "session_id": "19053",
+      "period": 19,
+      "sitzung": 53,
+      "tagungsabschnitt": 21,
+      "date": "2024-12-10",
+      "meeting_id": "fa7c85bb-ee53-4ed8-bfb5-3162a0aafc4b"
+    },
+    {
+      "session_id": "19054",
+      "period": 19,
+      "sitzung": 54,
+      "tagungsabschnitt": 21,
+      "date": "2024-12-11",
+      "meeting_id": "0030371e-009e-402d-b6f7-8cfb920212a7"
+    },
+    {
+      "session_id": "19055",
+      "period": 19,
+      "sitzung": 55,
+      "tagungsabschnitt": 21,
+      "date": "2024-12-12",
+      "meeting_id": "37838219-f4fb-48b6-9bde-3186be5d8b13"
+    },
+    {
+      "session_id": "19056",
+      "period": 19,
+      "sitzung": 56,
+      "tagungsabschnitt": 21,
+      "date": "2024-12-13",
+      "meeting_id": "fafad1d6-577b-4af7-8070-4210e9b1b05b"
+    },
+    {
+      "session_id": "19057",
+      "period": 19,
+      "sitzung": 57,
+      "tagungsabschnitt": 22,
+      "date": "2025-01-29",
+      "meeting_id": "30f661b4-2a21-424c-b2a0-10e95012f4a8"
+    },
+    {
+      "session_id": "19058",
+      "period": 19,
+      "sitzung": 58,
+      "tagungsabschnitt": 22,
+      "date": "2025-01-30",
+      "meeting_id": "2945b35c-e5bd-489b-bcf7-f50d4118ef8b"
+    },
+    {
+      "session_id": "19059",
+      "period": 19,
+      "sitzung": 59,
+      "tagungsabschnitt": 22,
+      "date": "2025-01-31",
+      "meeting_id": "ca0391ea-b2f3-49ab-9aa0-e1992fda0d55"
+    },
+    {
+      "session_id": "19060",
+      "period": 19,
+      "sitzung": 60,
+      "tagungsabschnitt": 23,
+      "date": "2025-02-26",
+      "meeting_id": "245ce563-2e7f-45bf-9145-3a99432d4e9b"
+    },
+    {
+      "session_id": "19061",
+      "period": 19,
+      "sitzung": 61,
+      "tagungsabschnitt": 23,
+      "date": "2025-02-27",
+      "meeting_id": "0ad8af18-3c06-4f3f-a69b-8573cf136b1f"
+    },
+    {
+      "session_id": "19062",
+      "period": 19,
+      "sitzung": 62,
+      "tagungsabschnitt": 24,
+      "date": "2025-03-26",
+      "meeting_id": "1ca205ba-c0c9-43db-807b-676af3fc917f"
+    },
+    {
+      "session_id": "19063",
+      "period": 19,
+      "sitzung": 63,
+      "tagungsabschnitt": 24,
+      "date": "2025-03-27",
+      "meeting_id": "a9be6b25-462c-4467-9f38-8ee4781a8b89"
+    },
+    {
+      "session_id": "19064",
+      "period": 19,
+      "sitzung": 64,
+      "tagungsabschnitt": 25,
+      "date": "2025-05-20",
+      "meeting_id": "f46aa425-f7ec-4513-8b92-3a6d5e4bd17a"
+    },
+    {
+      "session_id": "19065",
+      "period": 19,
+      "sitzung": 65,
+      "tagungsabschnitt": 25,
+      "date": "2025-05-21",
+      "meeting_id": "6fa85250-38b2-4a17-a147-33880ef06dc6"
+    },
+    {
+      "session_id": "19066",
+      "period": 19,
+      "sitzung": 66,
+      "tagungsabschnitt": 25,
+      "date": "2025-05-22",
+      "meeting_id": "6461d0cf-951a-4c6a-9074-d56866b4844b"
+    },
+    {
+      "session_id": "19067",
+      "period": 19,
+      "sitzung": 67,
+      "tagungsabschnitt": 26,
+      "date": "2025-06-24",
+      "meeting_id": "9de2968c-8a60-4ac2-a902-e348446d6c62"
+    },
+    {
+      "session_id": "19068",
+      "period": 19,
+      "sitzung": 68,
+      "tagungsabschnitt": 26,
+      "date": "2025-06-25",
+      "meeting_id": "dd457b68-868e-4079-a3a4-baf969b70f41"
+    },
+    {
+      "session_id": "19069",
+      "period": 19,
+      "sitzung": 69,
+      "tagungsabschnitt": 26,
+      "date": "2025-06-26",
+      "meeting_id": "6cee7b40-ceac-419c-86a7-243eba227aa9"
+    },
+    {
+      "session_id": "19070",
+      "period": 19,
+      "sitzung": 70,
+      "tagungsabschnitt": 27,
+      "date": "2025-09-10",
+      "meeting_id": "22b34936-2be4-4811-ae22-eaf2e66a2a8a"
+    },
+    {
+      "session_id": "19071",
+      "period": 19,
+      "sitzung": 71,
+      "tagungsabschnitt": 27,
+      "date": "2025-09-11",
+      "meeting_id": "9927c11b-0888-4ea5-b247-c0cee14cb578"
+    },
+    {
+      "session_id": "19072",
+      "period": 19,
+      "sitzung": 72,
+      "tagungsabschnitt": 27,
+      "date": "2025-09-12",
+      "meeting_id": "c0c8c784-c760-4388-a4fd-f1d134ad33cb"
+    },
+    {
+      "session_id": "19073",
+      "period": 19,
+      "sitzung": 73,
+      "tagungsabschnitt": 28,
+      "date": "2025-10-08",
+      "meeting_id": "d09e943a-e20a-47fa-9ef9-e5ba9a57ffb9"
+    },
+    {
+      "session_id": "19074",
+      "period": 19,
+      "sitzung": 74,
+      "tagungsabschnitt": 28,
+      "date": "2025-10-09",
+      "meeting_id": "3b8a8a0d-4cdf-46d6-9b2b-533f65ac5b1d"
+    },
+    {
+      "session_id": "19075",
+      "period": 19,
+      "sitzung": 75,
+      "tagungsabschnitt": 28,
+      "date": "2025-10-10",
+      "meeting_id": "46d96449-4255-4e8a-8343-af631aa9cd83"
+    },
+    {
+      "session_id": "19076",
+      "period": 19,
+      "sitzung": 76,
+      "tagungsabschnitt": 29,
+      "date": "2025-11-18",
+      "meeting_id": "9892f1ee-9c69-46b7-a911-b6481f6be97e"
+    },
+    {
+      "session_id": "19077",
+      "period": 19,
+      "sitzung": 77,
+      "tagungsabschnitt": 29,
+      "date": "2025-11-19",
+      "meeting_id": "cc644a9e-cbcf-4095-b2eb-a5bd709cbe87"
+    },
+    {
+      "session_id": "19078",
+      "period": 19,
+      "sitzung": 78,
+      "tagungsabschnitt": 29,
+      "date": "2025-11-20",
+      "meeting_id": "18558f65-ff1e-4dc0-a7d1-35870a1f5ba1"
+    },
+    {
+      "session_id": "19079",
+      "period": 19,
+      "sitzung": 79,
+      "tagungsabschnitt": 30,
+      "date": "2025-12-15",
+      "meeting_id": "87c422d0-0d5f-42b1-906c-610af4b47741"
+    },
+    {
+      "session_id": "19080",
+      "period": 19,
+      "sitzung": 80,
+      "tagungsabschnitt": 30,
+      "date": "2025-12-16",
+      "meeting_id": "0362a4dd-b619-4ea0-9add-0233cf437284"
+    },
+    {
+      "session_id": "19081",
+      "period": 19,
+      "sitzung": 81,
+      "tagungsabschnitt": 30,
+      "date": "2025-12-17",
+      "meeting_id": "a31ca506-0cf8-443c-9dae-4dab09a1d436"
+    },
+    {
+      "session_id": "19082",
+      "period": 19,
+      "sitzung": 82,
+      "tagungsabschnitt": 30,
+      "date": "2025-12-18",
+      "meeting_id": "9574d6eb-896b-431b-9c7b-460386cedf06"
+    }
+  ]
+}

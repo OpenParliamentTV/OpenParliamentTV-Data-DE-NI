@@ -1,0 +1,4360 @@
+{
+  "meta": {
+    "schemaVersion": "1.0",
+    "parliament": "DE-NI",
+    "electoralPeriod": {
+      "number": 19
+    },
+    "session": "19079",
+    "tagungsabschnitt": 30,
+    "dateStart": "2025-12-15T12:32:48Z",
+    "dateEnd": "2025-12-15T16:48:03Z",
+    "sourceURI": "https://plenartv.de/tagungsabschnitt/19-30?sitzung=79",
+    "processing": {
+      "parse_media": "2026-06-02T11:13:34",
+      "merge": "2026-06-02T11:13:34",
+      "nel": "2026-06-02T11:13:34"
+    },
+    "lastUpdate": "2026-06-02T11:13:34"
+  },
+  "data": [
+    {
+      "parliament": "DE-NI",
+      "electoralPeriod": {
+        "number": 19
+      },
+      "session": {
+        "number": 79,
+        "dateStart": "2025-12-15T12:32:48Z",
+        "dateEnd": "2025-12-15T16:48:03Z"
+      },
+      "dateStart": "2025-12-15T12:32:48Z",
+      "dateEnd": "2025-12-15T12:38:22Z",
+      "speechIndex": 1,
+      "originID": "b2536ca5-fc47-4c19-a926-b30a22301ef0",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 1: Mitteilungen der Präsidentin",
+        "title": "Mitteilungen der Präsidentin",
+        "id": "TOP-1-1",
+        "nativeType": "DE-NI-announcements",
+        "type": "procedural"
+      },
+      "people": [
+        {
+          "label": "Hanna Naber",
+          "context": "president",
+          "firstname": "Hanna",
+          "lastname": "Naber",
+          "faction": {
+            "label": "SPD",
+            "wid": "Q49768"
+          },
+          "originPersonID": "202787",
+          "wid": "Q42115482",
+          "wtype": "PERSON"
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://vod.plenartv.de/stream/session30_meeting79_132650/index.m3u8?start=358&end=692",
+        "sourcePage": "https://plenartv.de/tagungsabschnitt/19-30?sitzung=79#rede-b2536ca5-fc47-4c19-a926-b30a22301ef0",
+        "creator": "Niedersächsischer Landtag",
+        "license": "Niedersächsischer Landtag – Plenar-TV. Die Aufzeichnungen dürfen unter Angabe der Quelle \"Niedersächsischer Landtag\" genutzt werden; Nutzungsbedingungen: https://www.landtag-niedersachsen.de/plenar-tv-nutzungsbedingungen/",
+        "originMediaID": "b2536ca5-fc47-4c19-a926-b30a22301ef0",
+        "additionalInformation": {
+          "startInStreamSecs": 358.0,
+          "stopInStreamSecs": 692.0,
+          "streamFileName": "session30_meeting79_132650",
+          "subtitleVttURI": "https://api.plenartv.de/vtt/81f07a54-95f6-4cb5-97e5-233c7cbc4952"
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "plenartv-api",
+        "tagungsabschnitt": 30,
+        "subjectId": "81f07a54-95f6-4cb5-97e5-233c7cbc4952",
+        "subjectNumber": 1,
+        "itemNumber": 1.0,
+        "abgId": 202787,
+        "speechType": "Mitteilungen",
+        "rednerRaw": "Hanna Naber",
+        "fraktionRaw": "SPD",
+        "streamFileName": "session30_meeting79_132650",
+        "startInStreamSecs": 358.0,
+        "stopInStreamSecs": 692.0,
+        "timesAreVideoRelative": false
+      }
+    },
+    {
+      "parliament": "DE-NI",
+      "electoralPeriod": {
+        "number": 19
+      },
+      "session": {
+        "number": 79,
+        "dateStart": "2025-12-15T12:32:48Z",
+        "dateEnd": "2025-12-15T16:48:03Z"
+      },
+      "dateStart": "2025-12-15T12:39:52Z",
+      "dateEnd": "2025-12-15T12:47:55Z",
+      "speechIndex": 2,
+      "originID": "7a96d844-1cb1-45f9-bdca-9bcb2907877d",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 3: Handlungsfähigkeit des Verfassungsschutzes stärken - Verfassungsschutzgesetz grundlegend reformieren",
+        "title": "Handlungsfähigkeit des Verfassungsschutzes stärken - Verfassungsschutzgesetz grundlegend reformieren",
+        "id": "TOP-3-1",
+        "nativeType": "DE-NI-antrag",
+        "type": "regular"
+      },
+      "people": [
+        {
+          "label": "Sebastian Zinke",
+          "context": "main-speaker",
+          "firstname": "Sebastian",
+          "lastname": "Zinke",
+          "faction": {
+            "label": "SPD",
+            "wid": "Q49768"
+          },
+          "originPersonID": "202808",
+          "wid": "Q42293771",
+          "wtype": "PERSON"
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://vod.plenartv.de/stream/session30_meeting79_132650/index.m3u8?start=782&end=1265",
+        "sourcePage": "https://plenartv.de/tagungsabschnitt/19-30?sitzung=79#rede-7a96d844-1cb1-45f9-bdca-9bcb2907877d",
+        "creator": "Niedersächsischer Landtag",
+        "license": "Niedersächsischer Landtag – Plenar-TV. Die Aufzeichnungen dürfen unter Angabe der Quelle \"Niedersächsischer Landtag\" genutzt werden; Nutzungsbedingungen: https://www.landtag-niedersachsen.de/plenar-tv-nutzungsbedingungen/",
+        "originMediaID": "7a96d844-1cb1-45f9-bdca-9bcb2907877d",
+        "additionalInformation": {
+          "startInStreamSecs": 782.0,
+          "stopInStreamSecs": 1265.0,
+          "streamFileName": "session30_meeting79_132650",
+          "subtitleVttURI": "https://api.plenartv.de/vtt/c0d462b8-a6fe-4d1b-9a38-071d1b23e389"
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "plenartv-api",
+        "tagungsabschnitt": 30,
+        "subjectId": "c0d462b8-a6fe-4d1b-9a38-071d1b23e389",
+        "subjectNumber": 1,
+        "itemNumber": 3.0,
+        "abgId": 202808,
+        "speechType": "RZ",
+        "rednerRaw": "Sebastian Zinke",
+        "fraktionRaw": "SPD",
+        "streamFileName": "session30_meeting79_132650",
+        "startInStreamSecs": 782.0,
+        "stopInStreamSecs": 1265.0,
+        "timesAreVideoRelative": false
+      }
+    },
+    {
+      "parliament": "DE-NI",
+      "electoralPeriod": {
+        "number": 19
+      },
+      "session": {
+        "number": 79,
+        "dateStart": "2025-12-15T12:32:48Z",
+        "dateEnd": "2025-12-15T16:48:03Z"
+      },
+      "dateStart": "2025-12-15T12:48:31Z",
+      "dateEnd": "2025-12-15T12:56:38Z",
+      "speechIndex": 3,
+      "originID": "ac285e47-0530-4b14-a327-c5cccce08fae",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 3: Handlungsfähigkeit des Verfassungsschutzes stärken - Verfassungsschutzgesetz grundlegend reformieren",
+        "title": "Handlungsfähigkeit des Verfassungsschutzes stärken - Verfassungsschutzgesetz grundlegend reformieren",
+        "id": "TOP-3-1",
+        "nativeType": "DE-NI-antrag",
+        "type": "regular"
+      },
+      "people": [
+        {
+          "label": "Christoph Plett",
+          "context": "main-speaker",
+          "firstname": "Christoph",
+          "lastname": "Plett",
+          "faction": {
+            "label": "CDU",
+            "wid": "Q49762"
+          },
+          "originPersonID": "202760",
+          "wid": "Q42532253",
+          "wtype": "PERSON"
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://vod.plenartv.de/stream/session30_meeting79_132650/index.m3u8?start=1301&end=1788",
+        "sourcePage": "https://plenartv.de/tagungsabschnitt/19-30?sitzung=79#rede-ac285e47-0530-4b14-a327-c5cccce08fae",
+        "creator": "Niedersächsischer Landtag",
+        "license": "Niedersächsischer Landtag – Plenar-TV. Die Aufzeichnungen dürfen unter Angabe der Quelle \"Niedersächsischer Landtag\" genutzt werden; Nutzungsbedingungen: https://www.landtag-niedersachsen.de/plenar-tv-nutzungsbedingungen/",
+        "originMediaID": "ac285e47-0530-4b14-a327-c5cccce08fae",
+        "additionalInformation": {
+          "startInStreamSecs": 1301.0,
+          "stopInStreamSecs": 1788.0,
+          "streamFileName": "session30_meeting79_132650",
+          "subtitleVttURI": "https://api.plenartv.de/vtt/c0d462b8-a6fe-4d1b-9a38-071d1b23e389"
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "plenartv-api",
+        "tagungsabschnitt": 30,
+        "subjectId": "c0d462b8-a6fe-4d1b-9a38-071d1b23e389",
+        "subjectNumber": 1,
+        "itemNumber": 3.0,
+        "abgId": 202760,
+        "speechType": "RZ",
+        "rednerRaw": "Christoph Plett",
+        "fraktionRaw": "CDU",
+        "streamFileName": "session30_meeting79_132650",
+        "startInStreamSecs": 1301.0,
+        "stopInStreamSecs": 1788.0,
+        "timesAreVideoRelative": false
+      }
+    },
+    {
+      "parliament": "DE-NI",
+      "electoralPeriod": {
+        "number": 19
+      },
+      "session": {
+        "number": 79,
+        "dateStart": "2025-12-15T12:32:48Z",
+        "dateEnd": "2025-12-15T16:48:03Z"
+      },
+      "dateStart": "2025-12-15T12:57:16Z",
+      "dateEnd": "2025-12-15T13:01:54Z",
+      "speechIndex": 4,
+      "originID": "00263a84-4859-4e63-bd49-6f69a00878e6",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 3: Handlungsfähigkeit des Verfassungsschutzes stärken - Verfassungsschutzgesetz grundlegend reformieren",
+        "title": "Handlungsfähigkeit des Verfassungsschutzes stärken - Verfassungsschutzgesetz grundlegend reformieren",
+        "id": "TOP-3-1",
+        "nativeType": "DE-NI-antrag",
+        "type": "regular"
+      },
+      "people": [
+        {
+          "label": "Evrim Camuz",
+          "context": "main-speaker",
+          "firstname": "Evrim",
+          "lastname": "Camuz",
+          "faction": {
+            "label": "Bündnis 90/Die Grünen",
+            "wid": "Q49766"
+          },
+          "originPersonID": "203264",
+          "wid": "Q111372421",
+          "wtype": "PERSON"
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://vod.plenartv.de/stream/session30_meeting79_132650/index.m3u8?start=1826&end=2104",
+        "sourcePage": "https://plenartv.de/tagungsabschnitt/19-30?sitzung=79#rede-00263a84-4859-4e63-bd49-6f69a00878e6",
+        "creator": "Niedersächsischer Landtag",
+        "license": "Niedersächsischer Landtag – Plenar-TV. Die Aufzeichnungen dürfen unter Angabe der Quelle \"Niedersächsischer Landtag\" genutzt werden; Nutzungsbedingungen: https://www.landtag-niedersachsen.de/plenar-tv-nutzungsbedingungen/",
+        "originMediaID": "00263a84-4859-4e63-bd49-6f69a00878e6",
+        "additionalInformation": {
+          "startInStreamSecs": 1826.0,
+          "stopInStreamSecs": 2104.0,
+          "streamFileName": "session30_meeting79_132650",
+          "subtitleVttURI": "https://api.plenartv.de/vtt/c0d462b8-a6fe-4d1b-9a38-071d1b23e389"
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "plenartv-api",
+        "tagungsabschnitt": 30,
+        "subjectId": "c0d462b8-a6fe-4d1b-9a38-071d1b23e389",
+        "subjectNumber": 1,
+        "itemNumber": 3.0,
+        "abgId": 203264,
+        "speechType": "RZ",
+        "rednerRaw": "Evrim Camuz",
+        "fraktionRaw": "Bündnis 90/Die Grünen",
+        "streamFileName": "session30_meeting79_132650",
+        "startInStreamSecs": 1826.0,
+        "stopInStreamSecs": 2104.0,
+        "timesAreVideoRelative": false
+      }
+    },
+    {
+      "parliament": "DE-NI",
+      "electoralPeriod": {
+        "number": 19
+      },
+      "session": {
+        "number": 79,
+        "dateStart": "2025-12-15T12:32:48Z",
+        "dateEnd": "2025-12-15T16:48:03Z"
+      },
+      "dateStart": "2025-12-15T13:02:11Z",
+      "dateEnd": "2025-12-15T13:03:33Z",
+      "speechIndex": 5,
+      "originID": "ae506b05-274f-4625-b9f0-13a507bed4de",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 3: Handlungsfähigkeit des Verfassungsschutzes stärken - Verfassungsschutzgesetz grundlegend reformieren",
+        "title": "Handlungsfähigkeit des Verfassungsschutzes stärken - Verfassungsschutzgesetz grundlegend reformieren",
+        "id": "TOP-3-1",
+        "nativeType": "DE-NI-antrag",
+        "type": "regular"
+      },
+      "people": [
+        {
+          "label": "Klaus Wichmann",
+          "context": "main-speaker",
+          "firstname": "Klaus",
+          "lastname": "Wichmann",
+          "faction": {
+            "label": "AfD",
+            "wid": "Q6721203"
+          },
+          "originPersonID": "202777",
+          "wid": "Q42379794",
+          "wtype": "PERSON"
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://vod.plenartv.de/stream/session30_meeting79_132650/index.m3u8?start=2121&end=2203",
+        "sourcePage": "https://plenartv.de/tagungsabschnitt/19-30?sitzung=79#rede-ae506b05-274f-4625-b9f0-13a507bed4de",
+        "creator": "Niedersächsischer Landtag",
+        "license": "Niedersächsischer Landtag – Plenar-TV. Die Aufzeichnungen dürfen unter Angabe der Quelle \"Niedersächsischer Landtag\" genutzt werden; Nutzungsbedingungen: https://www.landtag-niedersachsen.de/plenar-tv-nutzungsbedingungen/",
+        "originMediaID": "ae506b05-274f-4625-b9f0-13a507bed4de",
+        "additionalInformation": {
+          "startInStreamSecs": 2121.0,
+          "stopInStreamSecs": 2203.0,
+          "streamFileName": "session30_meeting79_132650",
+          "subtitleVttURI": "https://api.plenartv.de/vtt/c0d462b8-a6fe-4d1b-9a38-071d1b23e389"
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "plenartv-api",
+        "tagungsabschnitt": 30,
+        "subjectId": "c0d462b8-a6fe-4d1b-9a38-071d1b23e389",
+        "subjectNumber": 1,
+        "itemNumber": 3.0,
+        "abgId": 202777,
+        "speechType": "RZ",
+        "rednerRaw": "Klaus Wichmann",
+        "fraktionRaw": "AfD",
+        "streamFileName": "session30_meeting79_132650",
+        "startInStreamSecs": 2121.0,
+        "stopInStreamSecs": 2203.0,
+        "timesAreVideoRelative": false
+      }
+    },
+    {
+      "parliament": "DE-NI",
+      "electoralPeriod": {
+        "number": 19
+      },
+      "session": {
+        "number": 79,
+        "dateStart": "2025-12-15T12:32:48Z",
+        "dateEnd": "2025-12-15T16:48:03Z"
+      },
+      "dateStart": "2025-12-15T13:03:44Z",
+      "dateEnd": "2025-12-15T13:09:47Z",
+      "speechIndex": 6,
+      "originID": "a90fd2e5-a360-4fad-aebc-ae65977708c5",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 3: Handlungsfähigkeit des Verfassungsschutzes stärken - Verfassungsschutzgesetz grundlegend reformieren",
+        "title": "Handlungsfähigkeit des Verfassungsschutzes stärken - Verfassungsschutzgesetz grundlegend reformieren",
+        "id": "TOP-3-1",
+        "nativeType": "DE-NI-antrag",
+        "type": "regular"
+      },
+      "people": [
+        {
+          "label": "Daniela Behrens",
+          "context": "main-speaker",
+          "firstname": "Daniela",
+          "lastname": "Behrens",
+          "faction": {
+            "label": "SPD",
+            "wid": "Q49768"
+          },
+          "originPersonID": "202134",
+          "wid": "Q1163338",
+          "wtype": "PERSON"
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://vod.plenartv.de/stream/session30_meeting79_132650/index.m3u8?start=2214&end=2577",
+        "sourcePage": "https://plenartv.de/tagungsabschnitt/19-30?sitzung=79#rede-a90fd2e5-a360-4fad-aebc-ae65977708c5",
+        "creator": "Niedersächsischer Landtag",
+        "license": "Niedersächsischer Landtag – Plenar-TV. Die Aufzeichnungen dürfen unter Angabe der Quelle \"Niedersächsischer Landtag\" genutzt werden; Nutzungsbedingungen: https://www.landtag-niedersachsen.de/plenar-tv-nutzungsbedingungen/",
+        "originMediaID": "a90fd2e5-a360-4fad-aebc-ae65977708c5",
+        "additionalInformation": {
+          "startInStreamSecs": 2214.0,
+          "stopInStreamSecs": 2577.0,
+          "streamFileName": "session30_meeting79_132650",
+          "subtitleVttURI": "https://api.plenartv.de/vtt/c0d462b8-a6fe-4d1b-9a38-071d1b23e389"
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "plenartv-api",
+        "tagungsabschnitt": 30,
+        "subjectId": "c0d462b8-a6fe-4d1b-9a38-071d1b23e389",
+        "subjectNumber": 1,
+        "itemNumber": 3.0,
+        "abgId": 202134,
+        "speechType": "RZ",
+        "rednerRaw": "Daniela Behrens",
+        "fraktionRaw": "SPD",
+        "streamFileName": "session30_meeting79_132650",
+        "startInStreamSecs": 2214.0,
+        "stopInStreamSecs": 2577.0,
+        "timesAreVideoRelative": false
+      }
+    },
+    {
+      "parliament": "DE-NI",
+      "electoralPeriod": {
+        "number": 19
+      },
+      "session": {
+        "number": 79,
+        "dateStart": "2025-12-15T12:32:48Z",
+        "dateEnd": "2025-12-15T16:48:03Z"
+      },
+      "dateStart": "2025-12-15T13:12:43Z",
+      "dateEnd": "2025-12-15T13:16:56Z",
+      "speechIndex": 7,
+      "originID": "51acdd31-45d7-47ba-a9d1-65f886091637",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 4: Entwurf eines Gesetzes zur Einrichtung eines Parlamentarischen Kontrollgremiums in Angelegenheiten des Verfassungsschutzes",
+        "title": "Entwurf eines Gesetzes zur Einrichtung eines Parlamentarischen Kontrollgremiums in Angelegenheiten des Verfassungsschutzes",
+        "id": "TOP-4-1",
+        "nativeType": "DE-NI-gesetzentwurf",
+        "type": "regular"
+      },
+      "people": [
+        {
+          "label": "Sebastian Zinke",
+          "context": "main-speaker",
+          "firstname": "Sebastian",
+          "lastname": "Zinke",
+          "faction": {
+            "label": "SPD",
+            "wid": "Q49768"
+          },
+          "originPersonID": "202808",
+          "wid": "Q42293771",
+          "wtype": "PERSON"
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://vod.plenartv.de/stream/session30_meeting79_132650/index.m3u8?start=2753&end=3006",
+        "sourcePage": "https://plenartv.de/tagungsabschnitt/19-30?sitzung=79#rede-51acdd31-45d7-47ba-a9d1-65f886091637",
+        "creator": "Niedersächsischer Landtag",
+        "license": "Niedersächsischer Landtag – Plenar-TV. Die Aufzeichnungen dürfen unter Angabe der Quelle \"Niedersächsischer Landtag\" genutzt werden; Nutzungsbedingungen: https://www.landtag-niedersachsen.de/plenar-tv-nutzungsbedingungen/",
+        "originMediaID": "51acdd31-45d7-47ba-a9d1-65f886091637",
+        "additionalInformation": {
+          "startInStreamSecs": 2753.0,
+          "stopInStreamSecs": 3006.0,
+          "streamFileName": "session30_meeting79_132650",
+          "subtitleVttURI": "https://api.plenartv.de/vtt/c3999e3c-067f-43b1-8562-1e3950aada34"
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "plenartv-api",
+        "tagungsabschnitt": 30,
+        "subjectId": "c3999e3c-067f-43b1-8562-1e3950aada34",
+        "subjectNumber": 1,
+        "itemNumber": 4.0,
+        "abgId": 202808,
+        "speechType": "RZ",
+        "rednerRaw": "Sebastian Zinke",
+        "fraktionRaw": "SPD",
+        "streamFileName": "session30_meeting79_132650",
+        "startInStreamSecs": 2753.0,
+        "stopInStreamSecs": 3006.0,
+        "timesAreVideoRelative": false
+      }
+    },
+    {
+      "parliament": "DE-NI",
+      "electoralPeriod": {
+        "number": 19
+      },
+      "session": {
+        "number": 79,
+        "dateStart": "2025-12-15T12:32:48Z",
+        "dateEnd": "2025-12-15T16:48:03Z"
+      },
+      "dateStart": "2025-12-15T13:17:22Z",
+      "dateEnd": "2025-12-15T13:24:00Z",
+      "speechIndex": 8,
+      "originID": "e0247ea9-dd42-40b4-a17c-3c7e709cac4d",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 4: Entwurf eines Gesetzes zur Einrichtung eines Parlamentarischen Kontrollgremiums in Angelegenheiten des Verfassungsschutzes",
+        "title": "Entwurf eines Gesetzes zur Einrichtung eines Parlamentarischen Kontrollgremiums in Angelegenheiten des Verfassungsschutzes",
+        "id": "TOP-4-1",
+        "nativeType": "DE-NI-gesetzentwurf",
+        "type": "regular"
+      },
+      "people": [
+        {
+          "label": "Carina Hermann",
+          "context": "main-speaker",
+          "firstname": "Carina",
+          "lastname": "Hermann",
+          "faction": {
+            "label": "CDU",
+            "wid": "Q49762"
+          },
+          "originPersonID": "203223",
+          "wid": "Q115204037",
+          "wtype": "PERSON"
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://vod.plenartv.de/stream/session30_meeting79_132650/index.m3u8?start=3032&end=3430",
+        "sourcePage": "https://plenartv.de/tagungsabschnitt/19-30?sitzung=79#rede-e0247ea9-dd42-40b4-a17c-3c7e709cac4d",
+        "creator": "Niedersächsischer Landtag",
+        "license": "Niedersächsischer Landtag – Plenar-TV. Die Aufzeichnungen dürfen unter Angabe der Quelle \"Niedersächsischer Landtag\" genutzt werden; Nutzungsbedingungen: https://www.landtag-niedersachsen.de/plenar-tv-nutzungsbedingungen/",
+        "originMediaID": "e0247ea9-dd42-40b4-a17c-3c7e709cac4d",
+        "additionalInformation": {
+          "startInStreamSecs": 3032.0,
+          "stopInStreamSecs": 3430.0,
+          "streamFileName": "session30_meeting79_132650",
+          "subtitleVttURI": "https://api.plenartv.de/vtt/c3999e3c-067f-43b1-8562-1e3950aada34"
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "plenartv-api",
+        "tagungsabschnitt": 30,
+        "subjectId": "c3999e3c-067f-43b1-8562-1e3950aada34",
+        "subjectNumber": 1,
+        "itemNumber": 4.0,
+        "abgId": 203223,
+        "speechType": "RZ",
+        "rednerRaw": "Carina Hermann",
+        "fraktionRaw": "CDU",
+        "streamFileName": "session30_meeting79_132650",
+        "startInStreamSecs": 3032.0,
+        "stopInStreamSecs": 3430.0,
+        "timesAreVideoRelative": false
+      }
+    },
+    {
+      "parliament": "DE-NI",
+      "electoralPeriod": {
+        "number": 19
+      },
+      "session": {
+        "number": 79,
+        "dateStart": "2025-12-15T12:32:48Z",
+        "dateEnd": "2025-12-15T16:48:03Z"
+      },
+      "dateStart": "2025-12-15T13:24:18Z",
+      "dateEnd": "2025-12-15T13:33:59Z",
+      "speechIndex": 9,
+      "originID": "3c9cdc50-e432-4ff5-8b94-959a74f9748e",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 4: Entwurf eines Gesetzes zur Einrichtung eines Parlamentarischen Kontrollgremiums in Angelegenheiten des Verfassungsschutzes",
+        "title": "Entwurf eines Gesetzes zur Einrichtung eines Parlamentarischen Kontrollgremiums in Angelegenheiten des Verfassungsschutzes",
+        "id": "TOP-4-1",
+        "nativeType": "DE-NI-gesetzentwurf",
+        "type": "regular"
+      },
+      "people": [
+        {
+          "label": "Klaus Wichmann",
+          "context": "main-speaker",
+          "firstname": "Klaus",
+          "lastname": "Wichmann",
+          "faction": {
+            "label": "AfD",
+            "wid": "Q6721203"
+          },
+          "originPersonID": "202777",
+          "wid": "Q42379794",
+          "wtype": "PERSON"
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://vod.plenartv.de/stream/session30_meeting79_132650/index.m3u8?start=3448&end=4029",
+        "sourcePage": "https://plenartv.de/tagungsabschnitt/19-30?sitzung=79#rede-3c9cdc50-e432-4ff5-8b94-959a74f9748e",
+        "creator": "Niedersächsischer Landtag",
+        "license": "Niedersächsischer Landtag – Plenar-TV. Die Aufzeichnungen dürfen unter Angabe der Quelle \"Niedersächsischer Landtag\" genutzt werden; Nutzungsbedingungen: https://www.landtag-niedersachsen.de/plenar-tv-nutzungsbedingungen/",
+        "originMediaID": "3c9cdc50-e432-4ff5-8b94-959a74f9748e",
+        "additionalInformation": {
+          "startInStreamSecs": 3448.0,
+          "stopInStreamSecs": 4029.0,
+          "streamFileName": "session30_meeting79_132650",
+          "subtitleVttURI": "https://api.plenartv.de/vtt/c3999e3c-067f-43b1-8562-1e3950aada34"
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "plenartv-api",
+        "tagungsabschnitt": 30,
+        "subjectId": "c3999e3c-067f-43b1-8562-1e3950aada34",
+        "subjectNumber": 1,
+        "itemNumber": 4.0,
+        "abgId": 202777,
+        "speechType": "RZ",
+        "rednerRaw": "Klaus Wichmann",
+        "fraktionRaw": "AfD",
+        "streamFileName": "session30_meeting79_132650",
+        "startInStreamSecs": 3448.0,
+        "stopInStreamSecs": 4029.0,
+        "timesAreVideoRelative": false
+      }
+    },
+    {
+      "parliament": "DE-NI",
+      "electoralPeriod": {
+        "number": 19
+      },
+      "session": {
+        "number": 79,
+        "dateStart": "2025-12-15T12:32:48Z",
+        "dateEnd": "2025-12-15T16:48:03Z"
+      },
+      "dateStart": "2025-12-15T13:34:54Z",
+      "dateEnd": "2025-12-15T13:39:48Z",
+      "speechIndex": 10,
+      "originID": "031c0ede-01aa-4422-8edf-57994579a15a",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 4: Entwurf eines Gesetzes zur Einrichtung eines Parlamentarischen Kontrollgremiums in Angelegenheiten des Verfassungsschutzes",
+        "title": "Entwurf eines Gesetzes zur Einrichtung eines Parlamentarischen Kontrollgremiums in Angelegenheiten des Verfassungsschutzes",
+        "id": "TOP-4-1",
+        "nativeType": "DE-NI-gesetzentwurf",
+        "type": "regular"
+      },
+      "people": [
+        {
+          "label": "Evrim Camuz",
+          "context": "main-speaker",
+          "firstname": "Evrim",
+          "lastname": "Camuz",
+          "faction": {
+            "label": "Bündnis 90/Die Grünen",
+            "wid": "Q49766"
+          },
+          "originPersonID": "203264",
+          "wid": "Q111372421",
+          "wtype": "PERSON"
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://vod.plenartv.de/stream/session30_meeting79_132650/index.m3u8?start=4084&end=4378",
+        "sourcePage": "https://plenartv.de/tagungsabschnitt/19-30?sitzung=79#rede-031c0ede-01aa-4422-8edf-57994579a15a",
+        "creator": "Niedersächsischer Landtag",
+        "license": "Niedersächsischer Landtag – Plenar-TV. Die Aufzeichnungen dürfen unter Angabe der Quelle \"Niedersächsischer Landtag\" genutzt werden; Nutzungsbedingungen: https://www.landtag-niedersachsen.de/plenar-tv-nutzungsbedingungen/",
+        "originMediaID": "031c0ede-01aa-4422-8edf-57994579a15a",
+        "additionalInformation": {
+          "startInStreamSecs": 4084.0,
+          "stopInStreamSecs": 4378.0,
+          "streamFileName": "session30_meeting79_132650",
+          "subtitleVttURI": "https://api.plenartv.de/vtt/c3999e3c-067f-43b1-8562-1e3950aada34"
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "plenartv-api",
+        "tagungsabschnitt": 30,
+        "subjectId": "c3999e3c-067f-43b1-8562-1e3950aada34",
+        "subjectNumber": 1,
+        "itemNumber": 4.0,
+        "abgId": 203264,
+        "speechType": "RZ",
+        "rednerRaw": "Evrim Camuz",
+        "fraktionRaw": "Bündnis 90/Die Grünen",
+        "streamFileName": "session30_meeting79_132650",
+        "startInStreamSecs": 4084.0,
+        "stopInStreamSecs": 4378.0,
+        "timesAreVideoRelative": false
+      }
+    },
+    {
+      "parliament": "DE-NI",
+      "electoralPeriod": {
+        "number": 19
+      },
+      "session": {
+        "number": 79,
+        "dateStart": "2025-12-15T12:32:48Z",
+        "dateEnd": "2025-12-15T16:48:03Z"
+      },
+      "dateStart": "2025-12-15T13:40:11Z",
+      "dateEnd": "2025-12-15T13:45:36Z",
+      "speechIndex": 11,
+      "originID": "85cab3b2-2f43-4562-ba79-cd444821bc6c",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 4: Entwurf eines Gesetzes zur Einrichtung eines Parlamentarischen Kontrollgremiums in Angelegenheiten des Verfassungsschutzes",
+        "title": "Entwurf eines Gesetzes zur Einrichtung eines Parlamentarischen Kontrollgremiums in Angelegenheiten des Verfassungsschutzes",
+        "id": "TOP-4-1",
+        "nativeType": "DE-NI-gesetzentwurf",
+        "type": "regular"
+      },
+      "people": [
+        {
+          "label": "Sebastian Zinke",
+          "context": "main-speaker",
+          "firstname": "Sebastian",
+          "lastname": "Zinke",
+          "faction": {
+            "label": "SPD",
+            "wid": "Q49768"
+          },
+          "originPersonID": "202808",
+          "wid": "Q42293771",
+          "wtype": "PERSON"
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://vod.plenartv.de/stream/session30_meeting79_132650/index.m3u8?start=4401&end=4726",
+        "sourcePage": "https://plenartv.de/tagungsabschnitt/19-30?sitzung=79#rede-85cab3b2-2f43-4562-ba79-cd444821bc6c",
+        "creator": "Niedersächsischer Landtag",
+        "license": "Niedersächsischer Landtag – Plenar-TV. Die Aufzeichnungen dürfen unter Angabe der Quelle \"Niedersächsischer Landtag\" genutzt werden; Nutzungsbedingungen: https://www.landtag-niedersachsen.de/plenar-tv-nutzungsbedingungen/",
+        "originMediaID": "85cab3b2-2f43-4562-ba79-cd444821bc6c",
+        "additionalInformation": {
+          "startInStreamSecs": 4401.0,
+          "stopInStreamSecs": 4726.0,
+          "streamFileName": "session30_meeting79_132650",
+          "subtitleVttURI": "https://api.plenartv.de/vtt/c3999e3c-067f-43b1-8562-1e3950aada34"
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "plenartv-api",
+        "tagungsabschnitt": 30,
+        "subjectId": "c3999e3c-067f-43b1-8562-1e3950aada34",
+        "subjectNumber": 1,
+        "itemNumber": 4.0,
+        "abgId": 202808,
+        "speechType": "RZ",
+        "rednerRaw": "Sebastian Zinke",
+        "fraktionRaw": "SPD",
+        "streamFileName": "session30_meeting79_132650",
+        "startInStreamSecs": 4401.0,
+        "stopInStreamSecs": 4726.0,
+        "timesAreVideoRelative": false
+      }
+    },
+    {
+      "parliament": "DE-NI",
+      "electoralPeriod": {
+        "number": 19
+      },
+      "session": {
+        "number": 79,
+        "dateStart": "2025-12-15T12:32:48Z",
+        "dateEnd": "2025-12-15T16:48:03Z"
+      },
+      "dateStart": "2025-12-15T13:45:55Z",
+      "dateEnd": "2025-12-15T13:46:40Z",
+      "speechIndex": 12,
+      "originID": "8c8dcbcc-ed9b-4122-b5d9-0c63e5818581",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 4: Entwurf eines Gesetzes zur Einrichtung eines Parlamentarischen Kontrollgremiums in Angelegenheiten des Verfassungsschutzes",
+        "title": "Entwurf eines Gesetzes zur Einrichtung eines Parlamentarischen Kontrollgremiums in Angelegenheiten des Verfassungsschutzes",
+        "id": "TOP-4-1",
+        "nativeType": "DE-NI-gesetzentwurf",
+        "type": "regular"
+      },
+      "people": [
+        {
+          "label": "Klaus Wichmann",
+          "context": "speaker",
+          "firstname": "Klaus",
+          "lastname": "Wichmann",
+          "faction": {
+            "label": "AfD",
+            "wid": "Q6721203"
+          },
+          "originPersonID": "202777",
+          "wid": "Q42379794",
+          "wtype": "PERSON"
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://vod.plenartv.de/stream/session30_meeting79_132650/index.m3u8?start=4745&end=4790",
+        "sourcePage": "https://plenartv.de/tagungsabschnitt/19-30?sitzung=79#rede-8c8dcbcc-ed9b-4122-b5d9-0c63e5818581",
+        "creator": "Niedersächsischer Landtag",
+        "license": "Niedersächsischer Landtag – Plenar-TV. Die Aufzeichnungen dürfen unter Angabe der Quelle \"Niedersächsischer Landtag\" genutzt werden; Nutzungsbedingungen: https://www.landtag-niedersachsen.de/plenar-tv-nutzungsbedingungen/",
+        "originMediaID": "8c8dcbcc-ed9b-4122-b5d9-0c63e5818581",
+        "additionalInformation": {
+          "startInStreamSecs": 4745.0,
+          "stopInStreamSecs": 4790.0,
+          "streamFileName": "session30_meeting79_132650",
+          "subtitleVttURI": "https://api.plenartv.de/vtt/c3999e3c-067f-43b1-8562-1e3950aada34"
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "plenartv-api",
+        "tagungsabschnitt": 30,
+        "subjectId": "c3999e3c-067f-43b1-8562-1e3950aada34",
+        "subjectNumber": 1,
+        "itemNumber": 4.0,
+        "abgId": 202777,
+        "speechType": "KI",
+        "rednerRaw": "Klaus Wichmann",
+        "fraktionRaw": "AfD",
+        "streamFileName": "session30_meeting79_132650",
+        "startInStreamSecs": 4745.0,
+        "stopInStreamSecs": 4790.0,
+        "timesAreVideoRelative": false
+      }
+    },
+    {
+      "parliament": "DE-NI",
+      "electoralPeriod": {
+        "number": 19
+      },
+      "session": {
+        "number": 79,
+        "dateStart": "2025-12-15T12:32:48Z",
+        "dateEnd": "2025-12-15T16:48:03Z"
+      },
+      "dateStart": "2025-12-15T13:46:44Z",
+      "dateEnd": "2025-12-15T13:47:57Z",
+      "speechIndex": 13,
+      "originID": "08b36463-eb05-4779-a143-c97fd9fcfc45",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 4: Entwurf eines Gesetzes zur Einrichtung eines Parlamentarischen Kontrollgremiums in Angelegenheiten des Verfassungsschutzes",
+        "title": "Entwurf eines Gesetzes zur Einrichtung eines Parlamentarischen Kontrollgremiums in Angelegenheiten des Verfassungsschutzes",
+        "id": "TOP-4-1",
+        "nativeType": "DE-NI-gesetzentwurf",
+        "type": "regular"
+      },
+      "people": [
+        {
+          "label": "Sebastian Zinke",
+          "context": "speaker",
+          "firstname": "Sebastian",
+          "lastname": "Zinke",
+          "faction": {
+            "label": "SPD",
+            "wid": "Q49768"
+          },
+          "originPersonID": "202808",
+          "wid": "Q42293771",
+          "wtype": "PERSON"
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://vod.plenartv.de/stream/session30_meeting79_132650/index.m3u8?start=4794&end=4867",
+        "sourcePage": "https://plenartv.de/tagungsabschnitt/19-30?sitzung=79#rede-08b36463-eb05-4779-a143-c97fd9fcfc45",
+        "creator": "Niedersächsischer Landtag",
+        "license": "Niedersächsischer Landtag – Plenar-TV. Die Aufzeichnungen dürfen unter Angabe der Quelle \"Niedersächsischer Landtag\" genutzt werden; Nutzungsbedingungen: https://www.landtag-niedersachsen.de/plenar-tv-nutzungsbedingungen/",
+        "originMediaID": "08b36463-eb05-4779-a143-c97fd9fcfc45",
+        "additionalInformation": {
+          "startInStreamSecs": 4794.0,
+          "stopInStreamSecs": 4867.0,
+          "streamFileName": "session30_meeting79_132650",
+          "subtitleVttURI": "https://api.plenartv.de/vtt/c3999e3c-067f-43b1-8562-1e3950aada34"
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "plenartv-api",
+        "tagungsabschnitt": 30,
+        "subjectId": "c3999e3c-067f-43b1-8562-1e3950aada34",
+        "subjectNumber": 1,
+        "itemNumber": 4.0,
+        "abgId": 202808,
+        "speechType": "KI",
+        "rednerRaw": "Sebastian Zinke",
+        "fraktionRaw": "SPD",
+        "streamFileName": "session30_meeting79_132650",
+        "startInStreamSecs": 4794.0,
+        "stopInStreamSecs": 4867.0,
+        "timesAreVideoRelative": false
+      }
+    },
+    {
+      "parliament": "DE-NI",
+      "electoralPeriod": {
+        "number": 19
+      },
+      "session": {
+        "number": 79,
+        "dateStart": "2025-12-15T12:32:48Z",
+        "dateEnd": "2025-12-15T16:48:03Z"
+      },
+      "dateStart": "2025-12-15T14:02:35Z",
+      "dateEnd": "2025-12-15T14:06:56Z",
+      "speechIndex": 14,
+      "originID": "494527d5-6384-4781-9dae-a8f771f7bfc6",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 5: Entwurf eines Gesetzes zur Änderung des Niedersächsischen Gesetzes über den Finanzausgleich",
+        "title": "Entwurf eines Gesetzes zur Änderung des Niedersächsischen Gesetzes über den Finanzausgleich",
+        "id": "TOP-5-1",
+        "nativeType": "DE-NI-gesetzentwurf",
+        "type": "regular"
+      },
+      "people": [
+        {
+          "label": "Julius Schneider",
+          "context": "main-speaker",
+          "firstname": "Julius",
+          "lastname": "Schneider",
+          "faction": {
+            "label": "SPD",
+            "wid": "Q49768"
+          },
+          "originPersonID": "203199",
+          "wid": "Q114598338",
+          "wtype": "PERSON"
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://vod.plenartv.de/stream/session30_meeting79_132650/index.m3u8?start=5745&end=6006",
+        "sourcePage": "https://plenartv.de/tagungsabschnitt/19-30?sitzung=79#rede-494527d5-6384-4781-9dae-a8f771f7bfc6",
+        "creator": "Niedersächsischer Landtag",
+        "license": "Niedersächsischer Landtag – Plenar-TV. Die Aufzeichnungen dürfen unter Angabe der Quelle \"Niedersächsischer Landtag\" genutzt werden; Nutzungsbedingungen: https://www.landtag-niedersachsen.de/plenar-tv-nutzungsbedingungen/",
+        "originMediaID": "494527d5-6384-4781-9dae-a8f771f7bfc6",
+        "additionalInformation": {
+          "startInStreamSecs": 5745.0,
+          "stopInStreamSecs": 6006.0,
+          "streamFileName": "session30_meeting79_132650",
+          "subtitleVttURI": "https://api.plenartv.de/vtt/35415765-f25c-4998-a21b-c217d93efbf8"
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "plenartv-api",
+        "tagungsabschnitt": 30,
+        "subjectId": "35415765-f25c-4998-a21b-c217d93efbf8",
+        "subjectNumber": 1,
+        "itemNumber": 5.0,
+        "abgId": 203199,
+        "speechType": "RZ",
+        "rednerRaw": "Julius Schneider",
+        "fraktionRaw": "SPD",
+        "streamFileName": "session30_meeting79_132650",
+        "startInStreamSecs": 5745.0,
+        "stopInStreamSecs": 6006.0,
+        "timesAreVideoRelative": false
+      }
+    },
+    {
+      "parliament": "DE-NI",
+      "electoralPeriod": {
+        "number": 19
+      },
+      "session": {
+        "number": 79,
+        "dateStart": "2025-12-15T12:32:48Z",
+        "dateEnd": "2025-12-15T16:48:03Z"
+      },
+      "dateStart": "2025-12-15T14:07:11Z",
+      "dateEnd": "2025-12-15T14:10:05Z",
+      "speechIndex": 15,
+      "originID": "621ff632-a2c4-4c2a-932e-b7ff5acf3b57",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 5: Entwurf eines Gesetzes zur Änderung des Niedersächsischen Gesetzes über den Finanzausgleich",
+        "title": "Entwurf eines Gesetzes zur Änderung des Niedersächsischen Gesetzes über den Finanzausgleich",
+        "id": "TOP-5-1",
+        "nativeType": "DE-NI-gesetzentwurf",
+        "type": "regular"
+      },
+      "people": [
+        {
+          "label": "Stefan Marzischewski-Drewes",
+          "context": "main-speaker",
+          "firstname": "Stefan",
+          "lastname": "Marzischewski-Drewes",
+          "faction": {
+            "label": "AfD",
+            "wid": "Q6721203"
+          },
+          "originPersonID": "203273",
+          "wid": "Q114570304",
+          "wtype": "PERSON"
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://vod.plenartv.de/stream/session30_meeting79_132650/index.m3u8?start=6021&end=6195",
+        "sourcePage": "https://plenartv.de/tagungsabschnitt/19-30?sitzung=79#rede-621ff632-a2c4-4c2a-932e-b7ff5acf3b57",
+        "creator": "Niedersächsischer Landtag",
+        "license": "Niedersächsischer Landtag – Plenar-TV. Die Aufzeichnungen dürfen unter Angabe der Quelle \"Niedersächsischer Landtag\" genutzt werden; Nutzungsbedingungen: https://www.landtag-niedersachsen.de/plenar-tv-nutzungsbedingungen/",
+        "originMediaID": "621ff632-a2c4-4c2a-932e-b7ff5acf3b57",
+        "additionalInformation": {
+          "startInStreamSecs": 6021.0,
+          "stopInStreamSecs": 6195.0,
+          "streamFileName": "session30_meeting79_132650",
+          "subtitleVttURI": "https://api.plenartv.de/vtt/35415765-f25c-4998-a21b-c217d93efbf8"
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "plenartv-api",
+        "tagungsabschnitt": 30,
+        "subjectId": "35415765-f25c-4998-a21b-c217d93efbf8",
+        "subjectNumber": 1,
+        "itemNumber": 5.0,
+        "abgId": 203273,
+        "speechType": "RZ",
+        "rednerRaw": "Stefan Marzischewski-Drewes",
+        "fraktionRaw": "AfD",
+        "streamFileName": "session30_meeting79_132650",
+        "startInStreamSecs": 6021.0,
+        "stopInStreamSecs": 6195.0,
+        "timesAreVideoRelative": false
+      }
+    },
+    {
+      "parliament": "DE-NI",
+      "electoralPeriod": {
+        "number": 19
+      },
+      "session": {
+        "number": 79,
+        "dateStart": "2025-12-15T12:32:48Z",
+        "dateEnd": "2025-12-15T16:48:03Z"
+      },
+      "dateStart": "2025-12-15T14:10:41Z",
+      "dateEnd": "2025-12-15T14:14:10Z",
+      "speechIndex": 16,
+      "originID": "38f84198-704e-478b-af03-22d58f9e5097",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 5: Entwurf eines Gesetzes zur Änderung des Niedersächsischen Gesetzes über den Finanzausgleich",
+        "title": "Entwurf eines Gesetzes zur Änderung des Niedersächsischen Gesetzes über den Finanzausgleich",
+        "id": "TOP-5-1",
+        "nativeType": "DE-NI-gesetzentwurf",
+        "type": "regular"
+      },
+      "people": [
+        {
+          "label": "Nadja Weippert",
+          "context": "main-speaker",
+          "firstname": "Nadja",
+          "lastname": "Weippert",
+          "faction": {
+            "label": "Bündnis 90/Die Grünen",
+            "wid": "Q49766"
+          },
+          "originPersonID": "203270",
+          "wid": "Q107429665",
+          "wtype": "PERSON"
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://vod.plenartv.de/stream/session30_meeting79_132650/index.m3u8?start=6231&end=6440",
+        "sourcePage": "https://plenartv.de/tagungsabschnitt/19-30?sitzung=79#rede-38f84198-704e-478b-af03-22d58f9e5097",
+        "creator": "Niedersächsischer Landtag",
+        "license": "Niedersächsischer Landtag – Plenar-TV. Die Aufzeichnungen dürfen unter Angabe der Quelle \"Niedersächsischer Landtag\" genutzt werden; Nutzungsbedingungen: https://www.landtag-niedersachsen.de/plenar-tv-nutzungsbedingungen/",
+        "originMediaID": "38f84198-704e-478b-af03-22d58f9e5097",
+        "additionalInformation": {
+          "startInStreamSecs": 6231.0,
+          "stopInStreamSecs": 6440.0,
+          "streamFileName": "session30_meeting79_132650",
+          "subtitleVttURI": "https://api.plenartv.de/vtt/35415765-f25c-4998-a21b-c217d93efbf8"
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "plenartv-api",
+        "tagungsabschnitt": 30,
+        "subjectId": "35415765-f25c-4998-a21b-c217d93efbf8",
+        "subjectNumber": 1,
+        "itemNumber": 5.0,
+        "abgId": 203270,
+        "speechType": "RZ",
+        "rednerRaw": "Nadja Weippert",
+        "fraktionRaw": "Bündnis 90/Die Grünen",
+        "streamFileName": "session30_meeting79_132650",
+        "startInStreamSecs": 6231.0,
+        "stopInStreamSecs": 6440.0,
+        "timesAreVideoRelative": false
+      }
+    },
+    {
+      "parliament": "DE-NI",
+      "electoralPeriod": {
+        "number": 19
+      },
+      "session": {
+        "number": 79,
+        "dateStart": "2025-12-15T12:32:48Z",
+        "dateEnd": "2025-12-15T16:48:03Z"
+      },
+      "dateStart": "2025-12-15T14:14:31Z",
+      "dateEnd": "2025-12-15T14:20:07Z",
+      "speechIndex": 17,
+      "originID": "a031ba9a-54c8-44b8-8908-45df986cc443",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 5: Entwurf eines Gesetzes zur Änderung des Niedersächsischen Gesetzes über den Finanzausgleich",
+        "title": "Entwurf eines Gesetzes zur Änderung des Niedersächsischen Gesetzes über den Finanzausgleich",
+        "id": "TOP-5-1",
+        "nativeType": "DE-NI-gesetzentwurf",
+        "type": "regular"
+      },
+      "people": [
+        {
+          "label": "Birgit Butter",
+          "context": "main-speaker",
+          "firstname": "Birgit",
+          "lastname": "Butter",
+          "faction": {
+            "label": "CDU",
+            "wid": "Q49762"
+          },
+          "originPersonID": "203234",
+          "wid": "Q115269107",
+          "wtype": "PERSON"
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://vod.plenartv.de/stream/session30_meeting79_132650/index.m3u8?start=6461&end=6797",
+        "sourcePage": "https://plenartv.de/tagungsabschnitt/19-30?sitzung=79#rede-a031ba9a-54c8-44b8-8908-45df986cc443",
+        "creator": "Niedersächsischer Landtag",
+        "license": "Niedersächsischer Landtag – Plenar-TV. Die Aufzeichnungen dürfen unter Angabe der Quelle \"Niedersächsischer Landtag\" genutzt werden; Nutzungsbedingungen: https://www.landtag-niedersachsen.de/plenar-tv-nutzungsbedingungen/",
+        "originMediaID": "a031ba9a-54c8-44b8-8908-45df986cc443",
+        "additionalInformation": {
+          "startInStreamSecs": 6461.0,
+          "stopInStreamSecs": 6797.0,
+          "streamFileName": "session30_meeting79_132650",
+          "subtitleVttURI": "https://api.plenartv.de/vtt/35415765-f25c-4998-a21b-c217d93efbf8"
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "plenartv-api",
+        "tagungsabschnitt": 30,
+        "subjectId": "35415765-f25c-4998-a21b-c217d93efbf8",
+        "subjectNumber": 1,
+        "itemNumber": 5.0,
+        "abgId": 203234,
+        "speechType": "RZ",
+        "rednerRaw": "Birgit Butter",
+        "fraktionRaw": "CDU",
+        "streamFileName": "session30_meeting79_132650",
+        "startInStreamSecs": 6461.0,
+        "stopInStreamSecs": 6797.0,
+        "timesAreVideoRelative": false
+      }
+    },
+    {
+      "parliament": "DE-NI",
+      "electoralPeriod": {
+        "number": 19
+      },
+      "session": {
+        "number": 79,
+        "dateStart": "2025-12-15T12:32:48Z",
+        "dateEnd": "2025-12-15T16:48:03Z"
+      },
+      "dateStart": "2025-12-15T14:20:20Z",
+      "dateEnd": "2025-12-15T14:25:02Z",
+      "speechIndex": 18,
+      "originID": "91bd4fcd-ec8c-4ce8-9ac0-4de2ca118845",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 5: Entwurf eines Gesetzes zur Änderung des Niedersächsischen Gesetzes über den Finanzausgleich",
+        "title": "Entwurf eines Gesetzes zur Änderung des Niedersächsischen Gesetzes über den Finanzausgleich",
+        "id": "TOP-5-1",
+        "nativeType": "DE-NI-gesetzentwurf",
+        "type": "regular"
+      },
+      "people": [
+        {
+          "label": "Daniela Behrens",
+          "context": "main-speaker",
+          "firstname": "Daniela",
+          "lastname": "Behrens",
+          "faction": {
+            "label": "SPD",
+            "wid": "Q49768"
+          },
+          "originPersonID": "202134",
+          "wid": "Q1163338",
+          "wtype": "PERSON"
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://vod.plenartv.de/stream/session30_meeting79_132650/index.m3u8?start=6810&end=7092",
+        "sourcePage": "https://plenartv.de/tagungsabschnitt/19-30?sitzung=79#rede-91bd4fcd-ec8c-4ce8-9ac0-4de2ca118845",
+        "creator": "Niedersächsischer Landtag",
+        "license": "Niedersächsischer Landtag – Plenar-TV. Die Aufzeichnungen dürfen unter Angabe der Quelle \"Niedersächsischer Landtag\" genutzt werden; Nutzungsbedingungen: https://www.landtag-niedersachsen.de/plenar-tv-nutzungsbedingungen/",
+        "originMediaID": "91bd4fcd-ec8c-4ce8-9ac0-4de2ca118845",
+        "additionalInformation": {
+          "startInStreamSecs": 6810.0,
+          "stopInStreamSecs": 7092.0,
+          "streamFileName": "session30_meeting79_132650",
+          "subtitleVttURI": "https://api.plenartv.de/vtt/35415765-f25c-4998-a21b-c217d93efbf8"
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "plenartv-api",
+        "tagungsabschnitt": 30,
+        "subjectId": "35415765-f25c-4998-a21b-c217d93efbf8",
+        "subjectNumber": 1,
+        "itemNumber": 5.0,
+        "abgId": 202134,
+        "speechType": "RZ",
+        "rednerRaw": "Daniela Behrens",
+        "fraktionRaw": "SPD",
+        "streamFileName": "session30_meeting79_132650",
+        "startInStreamSecs": 6810.0,
+        "stopInStreamSecs": 7092.0,
+        "timesAreVideoRelative": false
+      }
+    },
+    {
+      "parliament": "DE-NI",
+      "electoralPeriod": {
+        "number": 19
+      },
+      "session": {
+        "number": 79,
+        "dateStart": "2025-12-15T12:32:48Z",
+        "dateEnd": "2025-12-15T16:48:03Z"
+      },
+      "dateStart": "2025-12-15T14:27:09Z",
+      "dateEnd": "2025-12-15T14:29:01Z",
+      "speechIndex": 19,
+      "originID": "65baf9db-49c8-4d8e-9eb5-6e2699837fb4",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 6: Änderung der Geschäftsordnung des Niedersächsischen Landtages",
+        "title": "Änderung der Geschäftsordnung des Niedersächsischen Landtages",
+        "id": "TOP-6-1",
+        "nativeType": "DE-NI-antrag",
+        "type": "regular"
+      },
+      "people": [
+        {
+          "label": "Wiard Siebels",
+          "context": "main-speaker",
+          "firstname": "Wiard",
+          "lastname": "Siebels",
+          "faction": {
+            "label": "SPD",
+            "wid": "Q49768"
+          },
+          "originPersonID": "202221",
+          "wid": "Q2567313",
+          "wtype": "PERSON"
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://vod.plenartv.de/stream/session30_meeting79_132650/index.m3u8?start=7219&end=7331",
+        "sourcePage": "https://plenartv.de/tagungsabschnitt/19-30?sitzung=79#rede-65baf9db-49c8-4d8e-9eb5-6e2699837fb4",
+        "creator": "Niedersächsischer Landtag",
+        "license": "Niedersächsischer Landtag – Plenar-TV. Die Aufzeichnungen dürfen unter Angabe der Quelle \"Niedersächsischer Landtag\" genutzt werden; Nutzungsbedingungen: https://www.landtag-niedersachsen.de/plenar-tv-nutzungsbedingungen/",
+        "originMediaID": "65baf9db-49c8-4d8e-9eb5-6e2699837fb4",
+        "additionalInformation": {
+          "startInStreamSecs": 7219.0,
+          "stopInStreamSecs": 7331.0,
+          "streamFileName": "session30_meeting79_132650",
+          "subtitleVttURI": "https://api.plenartv.de/vtt/fd50368c-e0f1-416a-bf31-cb7f81289269"
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "plenartv-api",
+        "tagungsabschnitt": 30,
+        "subjectId": "fd50368c-e0f1-416a-bf31-cb7f81289269",
+        "subjectNumber": 1,
+        "itemNumber": 6.0,
+        "abgId": 202221,
+        "speechType": "RZ",
+        "rednerRaw": "Wiard Siebels",
+        "fraktionRaw": "SPD",
+        "streamFileName": "session30_meeting79_132650",
+        "startInStreamSecs": 7219.0,
+        "stopInStreamSecs": 7331.0,
+        "timesAreVideoRelative": false
+      }
+    },
+    {
+      "parliament": "DE-NI",
+      "electoralPeriod": {
+        "number": 19
+      },
+      "session": {
+        "number": 79,
+        "dateStart": "2025-12-15T12:32:48Z",
+        "dateEnd": "2025-12-15T16:48:03Z"
+      },
+      "dateStart": "2025-12-15T14:29:09Z",
+      "dateEnd": "2025-12-15T14:31:32Z",
+      "speechIndex": 20,
+      "originID": "8677fd36-7e3f-45b2-afb3-99b81978c5d7",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 6: Änderung der Geschäftsordnung des Niedersächsischen Landtages",
+        "title": "Änderung der Geschäftsordnung des Niedersächsischen Landtages",
+        "id": "TOP-6-1",
+        "nativeType": "DE-NI-antrag",
+        "type": "regular"
+      },
+      "people": [
+        {
+          "label": "Carina Hermann",
+          "context": "main-speaker",
+          "firstname": "Carina",
+          "lastname": "Hermann",
+          "faction": {
+            "label": "CDU",
+            "wid": "Q49762"
+          },
+          "originPersonID": "203223",
+          "wid": "Q115204037",
+          "wtype": "PERSON"
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://vod.plenartv.de/stream/session30_meeting79_132650/index.m3u8?start=7339&end=7482",
+        "sourcePage": "https://plenartv.de/tagungsabschnitt/19-30?sitzung=79#rede-8677fd36-7e3f-45b2-afb3-99b81978c5d7",
+        "creator": "Niedersächsischer Landtag",
+        "license": "Niedersächsischer Landtag – Plenar-TV. Die Aufzeichnungen dürfen unter Angabe der Quelle \"Niedersächsischer Landtag\" genutzt werden; Nutzungsbedingungen: https://www.landtag-niedersachsen.de/plenar-tv-nutzungsbedingungen/",
+        "originMediaID": "8677fd36-7e3f-45b2-afb3-99b81978c5d7",
+        "additionalInformation": {
+          "startInStreamSecs": 7339.0,
+          "stopInStreamSecs": 7482.0,
+          "streamFileName": "session30_meeting79_132650",
+          "subtitleVttURI": "https://api.plenartv.de/vtt/fd50368c-e0f1-416a-bf31-cb7f81289269"
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "plenartv-api",
+        "tagungsabschnitt": 30,
+        "subjectId": "fd50368c-e0f1-416a-bf31-cb7f81289269",
+        "subjectNumber": 1,
+        "itemNumber": 6.0,
+        "abgId": 203223,
+        "speechType": "RZ",
+        "rednerRaw": "Carina Hermann",
+        "fraktionRaw": "CDU",
+        "streamFileName": "session30_meeting79_132650",
+        "startInStreamSecs": 7339.0,
+        "stopInStreamSecs": 7482.0,
+        "timesAreVideoRelative": false
+      }
+    },
+    {
+      "parliament": "DE-NI",
+      "electoralPeriod": {
+        "number": 19
+      },
+      "session": {
+        "number": 79,
+        "dateStart": "2025-12-15T12:32:48Z",
+        "dateEnd": "2025-12-15T16:48:03Z"
+      },
+      "dateStart": "2025-12-15T14:31:46Z",
+      "dateEnd": "2025-12-15T14:33:59Z",
+      "speechIndex": 21,
+      "originID": "06390bf9-d276-4238-b7a4-a75c0dddffeb",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 6: Änderung der Geschäftsordnung des Niedersächsischen Landtages",
+        "title": "Änderung der Geschäftsordnung des Niedersächsischen Landtages",
+        "id": "TOP-6-1",
+        "nativeType": "DE-NI-antrag",
+        "type": "regular"
+      },
+      "people": [
+        {
+          "label": "Volker Bajus",
+          "context": "main-speaker",
+          "firstname": "Volker",
+          "lastname": "Bajus",
+          "faction": {
+            "label": "Bündnis 90/Die Grünen",
+            "wid": "Q49766"
+          },
+          "originPersonID": "202301",
+          "wid": "Q14906380",
+          "wtype": "PERSON"
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://vod.plenartv.de/stream/session30_meeting79_132650/index.m3u8?start=7496&end=7629",
+        "sourcePage": "https://plenartv.de/tagungsabschnitt/19-30?sitzung=79#rede-06390bf9-d276-4238-b7a4-a75c0dddffeb",
+        "creator": "Niedersächsischer Landtag",
+        "license": "Niedersächsischer Landtag – Plenar-TV. Die Aufzeichnungen dürfen unter Angabe der Quelle \"Niedersächsischer Landtag\" genutzt werden; Nutzungsbedingungen: https://www.landtag-niedersachsen.de/plenar-tv-nutzungsbedingungen/",
+        "originMediaID": "06390bf9-d276-4238-b7a4-a75c0dddffeb",
+        "additionalInformation": {
+          "startInStreamSecs": 7496.0,
+          "stopInStreamSecs": 7629.0,
+          "streamFileName": "session30_meeting79_132650",
+          "subtitleVttURI": "https://api.plenartv.de/vtt/fd50368c-e0f1-416a-bf31-cb7f81289269"
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "plenartv-api",
+        "tagungsabschnitt": 30,
+        "subjectId": "fd50368c-e0f1-416a-bf31-cb7f81289269",
+        "subjectNumber": 1,
+        "itemNumber": 6.0,
+        "abgId": 202301,
+        "speechType": "RZ",
+        "rednerRaw": "Volker Bajus",
+        "fraktionRaw": "Bündnis 90/Die Grünen",
+        "streamFileName": "session30_meeting79_132650",
+        "startInStreamSecs": 7496.0,
+        "stopInStreamSecs": 7629.0,
+        "timesAreVideoRelative": false
+      }
+    },
+    {
+      "parliament": "DE-NI",
+      "electoralPeriod": {
+        "number": 19
+      },
+      "session": {
+        "number": 79,
+        "dateStart": "2025-12-15T12:32:48Z",
+        "dateEnd": "2025-12-15T16:48:03Z"
+      },
+      "dateStart": "2025-12-15T14:34:11Z",
+      "dateEnd": "2025-12-15T14:36:04Z",
+      "speechIndex": 22,
+      "originID": "81960094-1fbd-4290-817e-e1a21c626d7b",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 6: Änderung der Geschäftsordnung des Niedersächsischen Landtages",
+        "title": "Änderung der Geschäftsordnung des Niedersächsischen Landtages",
+        "id": "TOP-6-1",
+        "nativeType": "DE-NI-antrag",
+        "type": "regular"
+      },
+      "people": [
+        {
+          "label": "Jens-Christoph Brockmann",
+          "context": "main-speaker",
+          "firstname": "Jens-Christoph",
+          "lastname": "Brockmann",
+          "faction": {
+            "label": "AfD",
+            "wid": "Q6721203"
+          },
+          "originPersonID": "203241",
+          "wid": "Q115625131",
+          "wtype": "PERSON"
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://vod.plenartv.de/stream/session30_meeting79_132650/index.m3u8?start=7641&end=7754",
+        "sourcePage": "https://plenartv.de/tagungsabschnitt/19-30?sitzung=79#rede-81960094-1fbd-4290-817e-e1a21c626d7b",
+        "creator": "Niedersächsischer Landtag",
+        "license": "Niedersächsischer Landtag – Plenar-TV. Die Aufzeichnungen dürfen unter Angabe der Quelle \"Niedersächsischer Landtag\" genutzt werden; Nutzungsbedingungen: https://www.landtag-niedersachsen.de/plenar-tv-nutzungsbedingungen/",
+        "originMediaID": "81960094-1fbd-4290-817e-e1a21c626d7b",
+        "additionalInformation": {
+          "startInStreamSecs": 7641.0,
+          "stopInStreamSecs": 7754.0,
+          "streamFileName": "session30_meeting79_132650",
+          "subtitleVttURI": "https://api.plenartv.de/vtt/fd50368c-e0f1-416a-bf31-cb7f81289269"
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "plenartv-api",
+        "tagungsabschnitt": 30,
+        "subjectId": "fd50368c-e0f1-416a-bf31-cb7f81289269",
+        "subjectNumber": 1,
+        "itemNumber": 6.0,
+        "abgId": 203241,
+        "speechType": "RZ",
+        "rednerRaw": "Jens-Christoph Brockmann",
+        "fraktionRaw": "AfD",
+        "streamFileName": "session30_meeting79_132650",
+        "startInStreamSecs": 7641.0,
+        "stopInStreamSecs": 7754.0,
+        "timesAreVideoRelative": false
+      }
+    },
+    {
+      "parliament": "DE-NI",
+      "electoralPeriod": {
+        "number": 19
+      },
+      "session": {
+        "number": 79,
+        "dateStart": "2025-12-15T12:32:48Z",
+        "dateEnd": "2025-12-15T16:48:03Z"
+      },
+      "dateStart": "2025-12-15T14:36:25Z",
+      "dateEnd": "2025-12-15T14:37:26Z",
+      "speechIndex": 23,
+      "originID": "a1d2e6ca-3e7b-44cc-b6b3-87f5818e6f24",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 6: Änderung der Geschäftsordnung des Niedersächsischen Landtages",
+        "title": "Änderung der Geschäftsordnung des Niedersächsischen Landtages",
+        "id": "TOP-6-1",
+        "nativeType": "DE-NI-antrag",
+        "type": "regular"
+      },
+      "people": [
+        {
+          "label": "Wiard Siebels",
+          "context": "main-speaker",
+          "firstname": "Wiard",
+          "lastname": "Siebels",
+          "faction": {
+            "label": "SPD",
+            "wid": "Q49768"
+          },
+          "originPersonID": "202221",
+          "wid": "Q2567313",
+          "wtype": "PERSON"
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://vod.plenartv.de/stream/session30_meeting79_132650/index.m3u8?start=7775&end=7836",
+        "sourcePage": "https://plenartv.de/tagungsabschnitt/19-30?sitzung=79#rede-a1d2e6ca-3e7b-44cc-b6b3-87f5818e6f24",
+        "creator": "Niedersächsischer Landtag",
+        "license": "Niedersächsischer Landtag – Plenar-TV. Die Aufzeichnungen dürfen unter Angabe der Quelle \"Niedersächsischer Landtag\" genutzt werden; Nutzungsbedingungen: https://www.landtag-niedersachsen.de/plenar-tv-nutzungsbedingungen/",
+        "originMediaID": "a1d2e6ca-3e7b-44cc-b6b3-87f5818e6f24",
+        "additionalInformation": {
+          "startInStreamSecs": 7775.0,
+          "stopInStreamSecs": 7836.0,
+          "streamFileName": "session30_meeting79_132650",
+          "subtitleVttURI": "https://api.plenartv.de/vtt/fd50368c-e0f1-416a-bf31-cb7f81289269"
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "plenartv-api",
+        "tagungsabschnitt": 30,
+        "subjectId": "fd50368c-e0f1-416a-bf31-cb7f81289269",
+        "subjectNumber": 1,
+        "itemNumber": 6.0,
+        "abgId": 202221,
+        "speechType": "RZ",
+        "rednerRaw": "Wiard Siebels",
+        "fraktionRaw": "SPD",
+        "streamFileName": "session30_meeting79_132650",
+        "startInStreamSecs": 7775.0,
+        "stopInStreamSecs": 7836.0,
+        "timesAreVideoRelative": false
+      }
+    },
+    {
+      "parliament": "DE-NI",
+      "electoralPeriod": {
+        "number": 19
+      },
+      "session": {
+        "number": 79,
+        "dateStart": "2025-12-15T12:32:48Z",
+        "dateEnd": "2025-12-15T16:48:03Z"
+      },
+      "dateStart": "2025-12-15T14:37:43Z",
+      "dateEnd": "2025-12-15T14:39:02Z",
+      "speechIndex": 24,
+      "originID": "7b734657-74c6-4819-88c2-a41dc89491d6",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 6: Änderung der Geschäftsordnung des Niedersächsischen Landtages",
+        "title": "Änderung der Geschäftsordnung des Niedersächsischen Landtages",
+        "id": "TOP-6-1",
+        "nativeType": "DE-NI-antrag",
+        "type": "regular"
+      },
+      "people": [
+        {
+          "label": "Jens-Christoph Brockmann",
+          "context": "speaker",
+          "firstname": "Jens-Christoph",
+          "lastname": "Brockmann",
+          "faction": {
+            "label": "AfD",
+            "wid": "Q6721203"
+          },
+          "originPersonID": "203241",
+          "wid": "Q115625131",
+          "wtype": "PERSON"
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://vod.plenartv.de/stream/session30_meeting79_132650/index.m3u8?start=7853&end=7932",
+        "sourcePage": "https://plenartv.de/tagungsabschnitt/19-30?sitzung=79#rede-7b734657-74c6-4819-88c2-a41dc89491d6",
+        "creator": "Niedersächsischer Landtag",
+        "license": "Niedersächsischer Landtag – Plenar-TV. Die Aufzeichnungen dürfen unter Angabe der Quelle \"Niedersächsischer Landtag\" genutzt werden; Nutzungsbedingungen: https://www.landtag-niedersachsen.de/plenar-tv-nutzungsbedingungen/",
+        "originMediaID": "7b734657-74c6-4819-88c2-a41dc89491d6",
+        "additionalInformation": {
+          "startInStreamSecs": 7853.0,
+          "stopInStreamSecs": 7932.0,
+          "streamFileName": "session30_meeting79_132650",
+          "subtitleVttURI": "https://api.plenartv.de/vtt/fd50368c-e0f1-416a-bf31-cb7f81289269"
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "plenartv-api",
+        "tagungsabschnitt": 30,
+        "subjectId": "fd50368c-e0f1-416a-bf31-cb7f81289269",
+        "subjectNumber": 1,
+        "itemNumber": 6.0,
+        "abgId": 203241,
+        "speechType": "KI",
+        "rednerRaw": "Jens-Christoph Brockmann",
+        "fraktionRaw": "AfD",
+        "streamFileName": "session30_meeting79_132650",
+        "startInStreamSecs": 7853.0,
+        "stopInStreamSecs": 7932.0,
+        "timesAreVideoRelative": false
+      }
+    },
+    {
+      "parliament": "DE-NI",
+      "electoralPeriod": {
+        "number": 19
+      },
+      "session": {
+        "number": 79,
+        "dateStart": "2025-12-15T12:32:48Z",
+        "dateEnd": "2025-12-15T16:48:03Z"
+      },
+      "dateStart": "2025-12-15T14:39:05Z",
+      "dateEnd": "2025-12-15T14:39:53Z",
+      "speechIndex": 25,
+      "originID": "b11410c4-39c6-4530-a736-666812ee9aae",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 6: Änderung der Geschäftsordnung des Niedersächsischen Landtages",
+        "title": "Änderung der Geschäftsordnung des Niedersächsischen Landtages",
+        "id": "TOP-6-1",
+        "nativeType": "DE-NI-antrag",
+        "type": "regular"
+      },
+      "people": [
+        {
+          "label": "Wiard Siebels",
+          "context": "speaker",
+          "firstname": "Wiard",
+          "lastname": "Siebels",
+          "faction": {
+            "label": "SPD",
+            "wid": "Q49768"
+          },
+          "originPersonID": "202221",
+          "wid": "Q2567313",
+          "wtype": "PERSON"
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://vod.plenartv.de/stream/session30_meeting79_132650/index.m3u8?start=7935&end=7983",
+        "sourcePage": "https://plenartv.de/tagungsabschnitt/19-30?sitzung=79#rede-b11410c4-39c6-4530-a736-666812ee9aae",
+        "creator": "Niedersächsischer Landtag",
+        "license": "Niedersächsischer Landtag – Plenar-TV. Die Aufzeichnungen dürfen unter Angabe der Quelle \"Niedersächsischer Landtag\" genutzt werden; Nutzungsbedingungen: https://www.landtag-niedersachsen.de/plenar-tv-nutzungsbedingungen/",
+        "originMediaID": "b11410c4-39c6-4530-a736-666812ee9aae",
+        "additionalInformation": {
+          "startInStreamSecs": 7935.0,
+          "stopInStreamSecs": 7983.0,
+          "streamFileName": "session30_meeting79_132650",
+          "subtitleVttURI": "https://api.plenartv.de/vtt/fd50368c-e0f1-416a-bf31-cb7f81289269"
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "plenartv-api",
+        "tagungsabschnitt": 30,
+        "subjectId": "fd50368c-e0f1-416a-bf31-cb7f81289269",
+        "subjectNumber": 1,
+        "itemNumber": 6.0,
+        "abgId": 202221,
+        "speechType": "KI",
+        "rednerRaw": "Wiard Siebels",
+        "fraktionRaw": "SPD",
+        "streamFileName": "session30_meeting79_132650",
+        "startInStreamSecs": 7935.0,
+        "stopInStreamSecs": 7983.0,
+        "timesAreVideoRelative": false
+      }
+    },
+    {
+      "parliament": "DE-NI",
+      "electoralPeriod": {
+        "number": 19
+      },
+      "session": {
+        "number": 79,
+        "dateStart": "2025-12-15T12:32:48Z",
+        "dateEnd": "2025-12-15T16:48:03Z"
+      },
+      "dateStart": "2025-12-15T14:40:51Z",
+      "dateEnd": "2025-12-15T14:47:26Z",
+      "speechIndex": 26,
+      "originID": "15061ad8-98dd-4205-9f64-e3d32b32760f",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 7: Entwurf eines Gesetzes zur Änderung des Niedersächsischen Wassergesetzes, anderer Gesetze und einer Verordnung",
+        "title": "Entwurf eines Gesetzes zur Änderung des Niedersächsischen Wassergesetzes, anderer Gesetze und einer Verordnung",
+        "id": "TOP-7-1",
+        "nativeType": "DE-NI-gesetzentwurf",
+        "type": "regular"
+      },
+      "people": [
+        {
+          "label": "Christian Meyer",
+          "context": "main-speaker",
+          "firstname": "Christian",
+          "lastname": "Meyer",
+          "originPersonID": "202209",
+          "wid": "Q97450",
+          "wtype": "PERSON"
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://vod.plenartv.de/stream/session30_meeting79_132650/index.m3u8?start=8041&end=8436",
+        "sourcePage": "https://plenartv.de/tagungsabschnitt/19-30?sitzung=79#rede-15061ad8-98dd-4205-9f64-e3d32b32760f",
+        "creator": "Niedersächsischer Landtag",
+        "license": "Niedersächsischer Landtag – Plenar-TV. Die Aufzeichnungen dürfen unter Angabe der Quelle \"Niedersächsischer Landtag\" genutzt werden; Nutzungsbedingungen: https://www.landtag-niedersachsen.de/plenar-tv-nutzungsbedingungen/",
+        "originMediaID": "15061ad8-98dd-4205-9f64-e3d32b32760f",
+        "additionalInformation": {
+          "startInStreamSecs": 8041.0,
+          "stopInStreamSecs": 8436.0,
+          "streamFileName": "session30_meeting79_132650",
+          "subtitleVttURI": "https://api.plenartv.de/vtt/f218964c-ac95-4b85-a42f-bc6383f5bb91"
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "plenartv-api",
+        "tagungsabschnitt": 30,
+        "subjectId": "f218964c-ac95-4b85-a42f-bc6383f5bb91",
+        "subjectNumber": 1,
+        "itemNumber": 7.0,
+        "abgId": 202209,
+        "speechType": "RZ",
+        "rednerRaw": "Christian Meyer",
+        "fraktionRaw": "",
+        "streamFileName": "session30_meeting79_132650",
+        "startInStreamSecs": 8041.0,
+        "stopInStreamSecs": 8436.0,
+        "timesAreVideoRelative": false
+      }
+    },
+    {
+      "parliament": "DE-NI",
+      "electoralPeriod": {
+        "number": 19
+      },
+      "session": {
+        "number": 79,
+        "dateStart": "2025-12-15T12:32:48Z",
+        "dateEnd": "2025-12-15T16:48:03Z"
+      },
+      "dateStart": "2025-12-15T14:47:44Z",
+      "dateEnd": "2025-12-15T14:50:48Z",
+      "speechIndex": 27,
+      "originID": "1dbde4e5-4b83-4404-aaba-752f0e80a1e2",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 7: Entwurf eines Gesetzes zur Änderung des Niedersächsischen Wassergesetzes, anderer Gesetze und einer Verordnung",
+        "title": "Entwurf eines Gesetzes zur Änderung des Niedersächsischen Wassergesetzes, anderer Gesetze und einer Verordnung",
+        "id": "TOP-7-1",
+        "nativeType": "DE-NI-gesetzentwurf",
+        "type": "regular"
+      },
+      "people": [
+        {
+          "label": "Ansgar Georg Schledde",
+          "context": "main-speaker",
+          "firstname": "Ansgar Georg",
+          "lastname": "Schledde",
+          "faction": {
+            "label": "AfD",
+            "wid": "Q6721203"
+          },
+          "originPersonID": "203213"
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://vod.plenartv.de/stream/session30_meeting79_132650/index.m3u8?start=8454&end=8638",
+        "sourcePage": "https://plenartv.de/tagungsabschnitt/19-30?sitzung=79#rede-1dbde4e5-4b83-4404-aaba-752f0e80a1e2",
+        "creator": "Niedersächsischer Landtag",
+        "license": "Niedersächsischer Landtag – Plenar-TV. Die Aufzeichnungen dürfen unter Angabe der Quelle \"Niedersächsischer Landtag\" genutzt werden; Nutzungsbedingungen: https://www.landtag-niedersachsen.de/plenar-tv-nutzungsbedingungen/",
+        "originMediaID": "1dbde4e5-4b83-4404-aaba-752f0e80a1e2",
+        "additionalInformation": {
+          "startInStreamSecs": 8454.0,
+          "stopInStreamSecs": 8638.0,
+          "streamFileName": "session30_meeting79_132650",
+          "subtitleVttURI": "https://api.plenartv.de/vtt/f218964c-ac95-4b85-a42f-bc6383f5bb91"
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "plenartv-api",
+        "tagungsabschnitt": 30,
+        "subjectId": "f218964c-ac95-4b85-a42f-bc6383f5bb91",
+        "subjectNumber": 1,
+        "itemNumber": 7.0,
+        "abgId": 203213,
+        "speechType": "RZ",
+        "rednerRaw": "Ansgar Georg Schledde",
+        "fraktionRaw": "AfD",
+        "streamFileName": "session30_meeting79_132650",
+        "startInStreamSecs": 8454.0,
+        "stopInStreamSecs": 8638.0,
+        "timesAreVideoRelative": false
+      }
+    },
+    {
+      "parliament": "DE-NI",
+      "electoralPeriod": {
+        "number": 19
+      },
+      "session": {
+        "number": 79,
+        "dateStart": "2025-12-15T12:32:48Z",
+        "dateEnd": "2025-12-15T16:48:03Z"
+      },
+      "dateStart": "2025-12-15T14:51:04Z",
+      "dateEnd": "2025-12-15T14:53:55Z",
+      "speechIndex": 28,
+      "originID": "aab25709-eae3-4f79-98dd-fc77c90ef635",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 7: Entwurf eines Gesetzes zur Änderung des Niedersächsischen Wassergesetzes, anderer Gesetze und einer Verordnung",
+        "title": "Entwurf eines Gesetzes zur Änderung des Niedersächsischen Wassergesetzes, anderer Gesetze und einer Verordnung",
+        "id": "TOP-7-1",
+        "nativeType": "DE-NI-gesetzentwurf",
+        "type": "regular"
+      },
+      "people": [
+        {
+          "label": "Gerd Hujahn",
+          "context": "main-speaker",
+          "firstname": "Gerd",
+          "lastname": "Hujahn",
+          "faction": {
+            "label": "SPD",
+            "wid": "Q49768"
+          },
+          "originPersonID": "202804",
+          "wid": "Q42303121",
+          "wtype": "PERSON"
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://vod.plenartv.de/stream/session30_meeting79_132650/index.m3u8?start=8654&end=8825",
+        "sourcePage": "https://plenartv.de/tagungsabschnitt/19-30?sitzung=79#rede-aab25709-eae3-4f79-98dd-fc77c90ef635",
+        "creator": "Niedersächsischer Landtag",
+        "license": "Niedersächsischer Landtag – Plenar-TV. Die Aufzeichnungen dürfen unter Angabe der Quelle \"Niedersächsischer Landtag\" genutzt werden; Nutzungsbedingungen: https://www.landtag-niedersachsen.de/plenar-tv-nutzungsbedingungen/",
+        "originMediaID": "aab25709-eae3-4f79-98dd-fc77c90ef635",
+        "additionalInformation": {
+          "startInStreamSecs": 8654.0,
+          "stopInStreamSecs": 8825.0,
+          "streamFileName": "session30_meeting79_132650",
+          "subtitleVttURI": "https://api.plenartv.de/vtt/f218964c-ac95-4b85-a42f-bc6383f5bb91"
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "plenartv-api",
+        "tagungsabschnitt": 30,
+        "subjectId": "f218964c-ac95-4b85-a42f-bc6383f5bb91",
+        "subjectNumber": 1,
+        "itemNumber": 7.0,
+        "abgId": 202804,
+        "speechType": "RZ",
+        "rednerRaw": "Gerd Hujahn",
+        "fraktionRaw": "SPD",
+        "streamFileName": "session30_meeting79_132650",
+        "startInStreamSecs": 8654.0,
+        "stopInStreamSecs": 8825.0,
+        "timesAreVideoRelative": false
+      }
+    },
+    {
+      "parliament": "DE-NI",
+      "electoralPeriod": {
+        "number": 19
+      },
+      "session": {
+        "number": 79,
+        "dateStart": "2025-12-15T12:32:48Z",
+        "dateEnd": "2025-12-15T16:48:03Z"
+      },
+      "dateStart": "2025-12-15T14:54:20Z",
+      "dateEnd": "2025-12-15T15:02:03Z",
+      "speechIndex": 29,
+      "originID": "23acee10-5bf2-4937-b14c-bb500904a11e",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 7: Entwurf eines Gesetzes zur Änderung des Niedersächsischen Wassergesetzes, anderer Gesetze und einer Verordnung",
+        "title": "Entwurf eines Gesetzes zur Änderung des Niedersächsischen Wassergesetzes, anderer Gesetze und einer Verordnung",
+        "id": "TOP-7-1",
+        "nativeType": "DE-NI-gesetzentwurf",
+        "type": "regular"
+      },
+      "people": [
+        {
+          "label": "Frank Schmädeke",
+          "context": "main-speaker",
+          "firstname": "Frank",
+          "lastname": "Schmädeke",
+          "faction": {
+            "label": "CDU",
+            "wid": "Q49762"
+          },
+          "originPersonID": "202763",
+          "wid": "Q42586439",
+          "wtype": "PERSON"
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://vod.plenartv.de/stream/session30_meeting79_132650/index.m3u8?start=8850&end=9313",
+        "sourcePage": "https://plenartv.de/tagungsabschnitt/19-30?sitzung=79#rede-23acee10-5bf2-4937-b14c-bb500904a11e",
+        "creator": "Niedersächsischer Landtag",
+        "license": "Niedersächsischer Landtag – Plenar-TV. Die Aufzeichnungen dürfen unter Angabe der Quelle \"Niedersächsischer Landtag\" genutzt werden; Nutzungsbedingungen: https://www.landtag-niedersachsen.de/plenar-tv-nutzungsbedingungen/",
+        "originMediaID": "23acee10-5bf2-4937-b14c-bb500904a11e",
+        "additionalInformation": {
+          "startInStreamSecs": 8850.0,
+          "stopInStreamSecs": 9313.0,
+          "streamFileName": "session30_meeting79_132650",
+          "subtitleVttURI": "https://api.plenartv.de/vtt/f218964c-ac95-4b85-a42f-bc6383f5bb91"
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "plenartv-api",
+        "tagungsabschnitt": 30,
+        "subjectId": "f218964c-ac95-4b85-a42f-bc6383f5bb91",
+        "subjectNumber": 1,
+        "itemNumber": 7.0,
+        "abgId": 202763,
+        "speechType": "RZ",
+        "rednerRaw": "Frank Schmädeke",
+        "fraktionRaw": "CDU",
+        "streamFileName": "session30_meeting79_132650",
+        "startInStreamSecs": 8850.0,
+        "stopInStreamSecs": 9313.0,
+        "timesAreVideoRelative": false
+      }
+    },
+    {
+      "parliament": "DE-NI",
+      "electoralPeriod": {
+        "number": 19
+      },
+      "session": {
+        "number": 79,
+        "dateStart": "2025-12-15T12:32:48Z",
+        "dateEnd": "2025-12-15T16:48:03Z"
+      },
+      "dateStart": "2025-12-15T15:02:23Z",
+      "dateEnd": "2025-12-15T15:05:46Z",
+      "speechIndex": 30,
+      "originID": "cea4692e-e84b-480c-86f8-fb5fb3db0ea5",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 7: Entwurf eines Gesetzes zur Änderung des Niedersächsischen Wassergesetzes, anderer Gesetze und einer Verordnung",
+        "title": "Entwurf eines Gesetzes zur Änderung des Niedersächsischen Wassergesetzes, anderer Gesetze und einer Verordnung",
+        "id": "TOP-7-1",
+        "nativeType": "DE-NI-gesetzentwurf",
+        "type": "regular"
+      },
+      "people": [
+        {
+          "label": "Britta Kellermann",
+          "context": "main-speaker",
+          "firstname": "Britta",
+          "lastname": "Kellermann",
+          "faction": {
+            "label": "Bündnis 90/Die Grünen",
+            "wid": "Q49766"
+          },
+          "originPersonID": "203301",
+          "wid": "Q115536453",
+          "wtype": "PERSON"
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://vod.plenartv.de/stream/session30_meeting79_132650/index.m3u8?start=9333&end=9536",
+        "sourcePage": "https://plenartv.de/tagungsabschnitt/19-30?sitzung=79#rede-cea4692e-e84b-480c-86f8-fb5fb3db0ea5",
+        "creator": "Niedersächsischer Landtag",
+        "license": "Niedersächsischer Landtag – Plenar-TV. Die Aufzeichnungen dürfen unter Angabe der Quelle \"Niedersächsischer Landtag\" genutzt werden; Nutzungsbedingungen: https://www.landtag-niedersachsen.de/plenar-tv-nutzungsbedingungen/",
+        "originMediaID": "cea4692e-e84b-480c-86f8-fb5fb3db0ea5",
+        "additionalInformation": {
+          "startInStreamSecs": 9333.0,
+          "stopInStreamSecs": 9536.0,
+          "streamFileName": "session30_meeting79_132650",
+          "subtitleVttURI": "https://api.plenartv.de/vtt/f218964c-ac95-4b85-a42f-bc6383f5bb91"
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "plenartv-api",
+        "tagungsabschnitt": 30,
+        "subjectId": "f218964c-ac95-4b85-a42f-bc6383f5bb91",
+        "subjectNumber": 1,
+        "itemNumber": 7.0,
+        "abgId": 203301,
+        "speechType": "RZ",
+        "rednerRaw": "Britta Kellermann",
+        "fraktionRaw": "Bündnis 90/Die Grünen",
+        "streamFileName": "session30_meeting79_132650",
+        "startInStreamSecs": 9333.0,
+        "stopInStreamSecs": 9536.0,
+        "timesAreVideoRelative": false
+      }
+    },
+    {
+      "parliament": "DE-NI",
+      "electoralPeriod": {
+        "number": 19
+      },
+      "session": {
+        "number": 79,
+        "dateStart": "2025-12-15T12:32:48Z",
+        "dateEnd": "2025-12-15T16:48:03Z"
+      },
+      "dateStart": "2025-12-15T15:07:07Z",
+      "dateEnd": "2025-12-15T15:12:53Z",
+      "speechIndex": 31,
+      "originID": "3d7d35ba-0945-481d-93ec-bc2c5dee75b0",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 8: Entwurf eines Gesetzes zur Änderung des Niedersächsischen Spielhallengesetzes",
+        "title": "Entwurf eines Gesetzes zur Änderung des Niedersächsischen Spielhallengesetzes",
+        "id": "TOP-8-1",
+        "nativeType": "DE-NI-gesetzentwurf",
+        "type": "regular"
+      },
+      "people": [
+        {
+          "label": "Uwe Dorendorf",
+          "context": "main-speaker",
+          "firstname": "Uwe",
+          "lastname": "Dorendorf",
+          "faction": {
+            "label": "CDU",
+            "wid": "Q49762"
+          },
+          "originPersonID": "202767",
+          "wid": "Q42379798",
+          "wtype": "PERSON"
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://vod.plenartv.de/stream/session30_meeting79_132650/index.m3u8?start=9617&end=9963",
+        "sourcePage": "https://plenartv.de/tagungsabschnitt/19-30?sitzung=79#rede-3d7d35ba-0945-481d-93ec-bc2c5dee75b0",
+        "creator": "Niedersächsischer Landtag",
+        "license": "Niedersächsischer Landtag – Plenar-TV. Die Aufzeichnungen dürfen unter Angabe der Quelle \"Niedersächsischer Landtag\" genutzt werden; Nutzungsbedingungen: https://www.landtag-niedersachsen.de/plenar-tv-nutzungsbedingungen/",
+        "originMediaID": "3d7d35ba-0945-481d-93ec-bc2c5dee75b0",
+        "additionalInformation": {
+          "startInStreamSecs": 9617.0,
+          "stopInStreamSecs": 9963.0,
+          "streamFileName": "session30_meeting79_132650",
+          "subtitleVttURI": "https://api.plenartv.de/vtt/b8da85a6-c67e-4839-97ed-b76061cc75fa"
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "plenartv-api",
+        "tagungsabschnitt": 30,
+        "subjectId": "b8da85a6-c67e-4839-97ed-b76061cc75fa",
+        "subjectNumber": 1,
+        "itemNumber": 8.0,
+        "abgId": 202767,
+        "speechType": "RZ",
+        "rednerRaw": "Uwe Dorendorf",
+        "fraktionRaw": "CDU",
+        "streamFileName": "session30_meeting79_132650",
+        "startInStreamSecs": 9617.0,
+        "stopInStreamSecs": 9963.0,
+        "timesAreVideoRelative": false
+      }
+    },
+    {
+      "parliament": "DE-NI",
+      "electoralPeriod": {
+        "number": 19
+      },
+      "session": {
+        "number": 79,
+        "dateStart": "2025-12-15T12:32:48Z",
+        "dateEnd": "2025-12-15T16:48:03Z"
+      },
+      "dateStart": "2025-12-15T15:12:52Z",
+      "dateEnd": "2025-12-15T15:13:29Z",
+      "speechIndex": 32,
+      "originID": "a3f6070b-458c-4048-9059-a6848bf20899",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 8: Entwurf eines Gesetzes zur Änderung des Niedersächsischen Spielhallengesetzes",
+        "title": "Entwurf eines Gesetzes zur Änderung des Niedersächsischen Spielhallengesetzes",
+        "id": "TOP-8-1",
+        "nativeType": "DE-NI-gesetzentwurf",
+        "type": "regular"
+      },
+      "people": [
+        {
+          "label": "Wiard Siebels",
+          "context": "speaker",
+          "firstname": "Wiard",
+          "lastname": "Siebels",
+          "faction": {
+            "label": "SPD",
+            "wid": "Q49768"
+          },
+          "originPersonID": "202221",
+          "wid": "Q2567313",
+          "wtype": "PERSON"
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://vod.plenartv.de/stream/session30_meeting79_132650/index.m3u8?start=9962&end=9999",
+        "sourcePage": "https://plenartv.de/tagungsabschnitt/19-30?sitzung=79#rede-a3f6070b-458c-4048-9059-a6848bf20899",
+        "creator": "Niedersächsischer Landtag",
+        "license": "Niedersächsischer Landtag – Plenar-TV. Die Aufzeichnungen dürfen unter Angabe der Quelle \"Niedersächsischer Landtag\" genutzt werden; Nutzungsbedingungen: https://www.landtag-niedersachsen.de/plenar-tv-nutzungsbedingungen/",
+        "originMediaID": "a3f6070b-458c-4048-9059-a6848bf20899",
+        "additionalInformation": {
+          "startInStreamSecs": 9962.0,
+          "stopInStreamSecs": 9999.0,
+          "streamFileName": "session30_meeting79_132650",
+          "subtitleVttURI": "https://api.plenartv.de/vtt/b8da85a6-c67e-4839-97ed-b76061cc75fa"
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "plenartv-api",
+        "tagungsabschnitt": 30,
+        "subjectId": "b8da85a6-c67e-4839-97ed-b76061cc75fa",
+        "subjectNumber": 1,
+        "itemNumber": 8.0,
+        "abgId": 202221,
+        "speechType": "Zwischenfrage",
+        "rednerRaw": "Wiard Siebels",
+        "fraktionRaw": "SPD",
+        "streamFileName": "session30_meeting79_132650",
+        "startInStreamSecs": 9962.0,
+        "stopInStreamSecs": 9999.0,
+        "timesAreVideoRelative": false
+      }
+    },
+    {
+      "parliament": "DE-NI",
+      "electoralPeriod": {
+        "number": 19
+      },
+      "session": {
+        "number": 79,
+        "dateStart": "2025-12-15T12:32:48Z",
+        "dateEnd": "2025-12-15T16:48:03Z"
+      },
+      "dateStart": "2025-12-15T15:13:22Z",
+      "dateEnd": "2025-12-15T15:13:56Z",
+      "speechIndex": 33,
+      "originID": "48593fb2-4afc-40e2-96f2-55fc7ae09c12",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 8: Entwurf eines Gesetzes zur Änderung des Niedersächsischen Spielhallengesetzes",
+        "title": "Entwurf eines Gesetzes zur Änderung des Niedersächsischen Spielhallengesetzes",
+        "id": "TOP-8-1",
+        "nativeType": "DE-NI-gesetzentwurf",
+        "type": "regular"
+      },
+      "people": [
+        {
+          "label": "Uwe Dorendorf",
+          "context": "main-speaker",
+          "firstname": "Uwe",
+          "lastname": "Dorendorf",
+          "faction": {
+            "label": "CDU",
+            "wid": "Q49762"
+          },
+          "originPersonID": "202767",
+          "wid": "Q42379798",
+          "wtype": "PERSON"
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://vod.plenartv.de/stream/session30_meeting79_132650/index.m3u8?start=9992&end=10026",
+        "sourcePage": "https://plenartv.de/tagungsabschnitt/19-30?sitzung=79#rede-48593fb2-4afc-40e2-96f2-55fc7ae09c12",
+        "creator": "Niedersächsischer Landtag",
+        "license": "Niedersächsischer Landtag – Plenar-TV. Die Aufzeichnungen dürfen unter Angabe der Quelle \"Niedersächsischer Landtag\" genutzt werden; Nutzungsbedingungen: https://www.landtag-niedersachsen.de/plenar-tv-nutzungsbedingungen/",
+        "originMediaID": "48593fb2-4afc-40e2-96f2-55fc7ae09c12",
+        "additionalInformation": {
+          "startInStreamSecs": 9992.0,
+          "stopInStreamSecs": 10026.0,
+          "streamFileName": "session30_meeting79_132650",
+          "subtitleVttURI": "https://api.plenartv.de/vtt/b8da85a6-c67e-4839-97ed-b76061cc75fa"
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "plenartv-api",
+        "tagungsabschnitt": 30,
+        "subjectId": "b8da85a6-c67e-4839-97ed-b76061cc75fa",
+        "subjectNumber": 1,
+        "itemNumber": 8.0,
+        "abgId": 202767,
+        "speechType": "Antwort",
+        "rednerRaw": "Uwe Dorendorf",
+        "fraktionRaw": "CDU",
+        "streamFileName": "session30_meeting79_132650",
+        "startInStreamSecs": 9992.0,
+        "stopInStreamSecs": 10026.0,
+        "timesAreVideoRelative": false
+      }
+    },
+    {
+      "parliament": "DE-NI",
+      "electoralPeriod": {
+        "number": 19
+      },
+      "session": {
+        "number": 79,
+        "dateStart": "2025-12-15T12:32:48Z",
+        "dateEnd": "2025-12-15T16:48:03Z"
+      },
+      "dateStart": "2025-12-15T15:13:48Z",
+      "dateEnd": "2025-12-15T15:18:31Z",
+      "speechIndex": 34,
+      "originID": "018829c7-783f-4a82-aaf5-536b9da7bc2f",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 8: Entwurf eines Gesetzes zur Änderung des Niedersächsischen Spielhallengesetzes",
+        "title": "Entwurf eines Gesetzes zur Änderung des Niedersächsischen Spielhallengesetzes",
+        "id": "TOP-8-1",
+        "nativeType": "DE-NI-gesetzentwurf",
+        "type": "regular"
+      },
+      "people": [
+        {
+          "label": "Uwe Dorendorf",
+          "context": "main-speaker",
+          "firstname": "Uwe",
+          "lastname": "Dorendorf",
+          "faction": {
+            "label": "CDU",
+            "wid": "Q49762"
+          },
+          "originPersonID": "202767",
+          "wid": "Q42379798",
+          "wtype": "PERSON"
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://vod.plenartv.de/stream/session30_meeting79_132650/index.m3u8?start=10018&end=10301",
+        "sourcePage": "https://plenartv.de/tagungsabschnitt/19-30?sitzung=79#rede-018829c7-783f-4a82-aaf5-536b9da7bc2f",
+        "creator": "Niedersächsischer Landtag",
+        "license": "Niedersächsischer Landtag – Plenar-TV. Die Aufzeichnungen dürfen unter Angabe der Quelle \"Niedersächsischer Landtag\" genutzt werden; Nutzungsbedingungen: https://www.landtag-niedersachsen.de/plenar-tv-nutzungsbedingungen/",
+        "originMediaID": "018829c7-783f-4a82-aaf5-536b9da7bc2f",
+        "additionalInformation": {
+          "startInStreamSecs": 10018.0,
+          "stopInStreamSecs": 10301.0,
+          "streamFileName": "session30_meeting79_132650",
+          "subtitleVttURI": "https://api.plenartv.de/vtt/b8da85a6-c67e-4839-97ed-b76061cc75fa"
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "plenartv-api",
+        "tagungsabschnitt": 30,
+        "subjectId": "b8da85a6-c67e-4839-97ed-b76061cc75fa",
+        "subjectNumber": 1,
+        "itemNumber": 8.0,
+        "abgId": 202767,
+        "speechType": "RZ",
+        "rednerRaw": "Uwe Dorendorf",
+        "fraktionRaw": "CDU",
+        "streamFileName": "session30_meeting79_132650",
+        "startInStreamSecs": 10018.0,
+        "stopInStreamSecs": 10301.0,
+        "timesAreVideoRelative": false
+      }
+    },
+    {
+      "parliament": "DE-NI",
+      "electoralPeriod": {
+        "number": 19
+      },
+      "session": {
+        "number": 79,
+        "dateStart": "2025-12-15T12:32:48Z",
+        "dateEnd": "2025-12-15T16:48:03Z"
+      },
+      "dateStart": "2025-12-15T15:18:57Z",
+      "dateEnd": "2025-12-15T15:22:55Z",
+      "speechIndex": 35,
+      "originID": "8ac90039-b0af-4b73-b597-ecab753a66c4",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 8: Entwurf eines Gesetzes zur Änderung des Niedersächsischen Spielhallengesetzes",
+        "title": "Entwurf eines Gesetzes zur Änderung des Niedersächsischen Spielhallengesetzes",
+        "id": "TOP-8-1",
+        "nativeType": "DE-NI-gesetzentwurf",
+        "type": "regular"
+      },
+      "people": [
+        {
+          "label": "Heiko Sachtleben",
+          "context": "main-speaker",
+          "firstname": "Heiko",
+          "lastname": "Sachtleben",
+          "faction": {
+            "label": "Bündnis 90/Die Grünen",
+            "wid": "Q49766"
+          },
+          "originPersonID": "203225",
+          "wid": "Q111372469",
+          "wtype": "PERSON"
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://vod.plenartv.de/stream/session30_meeting79_132650/index.m3u8?start=10327&end=10565",
+        "sourcePage": "https://plenartv.de/tagungsabschnitt/19-30?sitzung=79#rede-8ac90039-b0af-4b73-b597-ecab753a66c4",
+        "creator": "Niedersächsischer Landtag",
+        "license": "Niedersächsischer Landtag – Plenar-TV. Die Aufzeichnungen dürfen unter Angabe der Quelle \"Niedersächsischer Landtag\" genutzt werden; Nutzungsbedingungen: https://www.landtag-niedersachsen.de/plenar-tv-nutzungsbedingungen/",
+        "originMediaID": "8ac90039-b0af-4b73-b597-ecab753a66c4",
+        "additionalInformation": {
+          "startInStreamSecs": 10327.0,
+          "stopInStreamSecs": 10565.0,
+          "streamFileName": "session30_meeting79_132650",
+          "subtitleVttURI": "https://api.plenartv.de/vtt/b8da85a6-c67e-4839-97ed-b76061cc75fa"
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "plenartv-api",
+        "tagungsabschnitt": 30,
+        "subjectId": "b8da85a6-c67e-4839-97ed-b76061cc75fa",
+        "subjectNumber": 1,
+        "itemNumber": 8.0,
+        "abgId": 203225,
+        "speechType": "RZ",
+        "rednerRaw": "Heiko Sachtleben",
+        "fraktionRaw": "Bündnis 90/Die Grünen",
+        "streamFileName": "session30_meeting79_132650",
+        "startInStreamSecs": 10327.0,
+        "stopInStreamSecs": 10565.0,
+        "timesAreVideoRelative": false
+      }
+    },
+    {
+      "parliament": "DE-NI",
+      "electoralPeriod": {
+        "number": 19
+      },
+      "session": {
+        "number": 79,
+        "dateStart": "2025-12-15T12:32:48Z",
+        "dateEnd": "2025-12-15T16:48:03Z"
+      },
+      "dateStart": "2025-12-15T15:23:07Z",
+      "dateEnd": "2025-12-15T15:24:41Z",
+      "speechIndex": 36,
+      "originID": "8d730613-5438-4e2e-8aed-2e1fa462a143",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 8: Entwurf eines Gesetzes zur Änderung des Niedersächsischen Spielhallengesetzes",
+        "title": "Entwurf eines Gesetzes zur Änderung des Niedersächsischen Spielhallengesetzes",
+        "id": "TOP-8-1",
+        "nativeType": "DE-NI-gesetzentwurf",
+        "type": "regular"
+      },
+      "people": [
+        {
+          "label": "Uwe Dorendorf",
+          "context": "speaker",
+          "firstname": "Uwe",
+          "lastname": "Dorendorf",
+          "faction": {
+            "label": "CDU",
+            "wid": "Q49762"
+          },
+          "originPersonID": "202767",
+          "wid": "Q42379798",
+          "wtype": "PERSON"
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://vod.plenartv.de/stream/session30_meeting79_132650/index.m3u8?start=10577&end=10671",
+        "sourcePage": "https://plenartv.de/tagungsabschnitt/19-30?sitzung=79#rede-8d730613-5438-4e2e-8aed-2e1fa462a143",
+        "creator": "Niedersächsischer Landtag",
+        "license": "Niedersächsischer Landtag – Plenar-TV. Die Aufzeichnungen dürfen unter Angabe der Quelle \"Niedersächsischer Landtag\" genutzt werden; Nutzungsbedingungen: https://www.landtag-niedersachsen.de/plenar-tv-nutzungsbedingungen/",
+        "originMediaID": "8d730613-5438-4e2e-8aed-2e1fa462a143",
+        "additionalInformation": {
+          "startInStreamSecs": 10577.0,
+          "stopInStreamSecs": 10671.0,
+          "streamFileName": "session30_meeting79_132650",
+          "subtitleVttURI": "https://api.plenartv.de/vtt/b8da85a6-c67e-4839-97ed-b76061cc75fa"
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "plenartv-api",
+        "tagungsabschnitt": 30,
+        "subjectId": "b8da85a6-c67e-4839-97ed-b76061cc75fa",
+        "subjectNumber": 1,
+        "itemNumber": 8.0,
+        "abgId": 202767,
+        "speechType": "KI",
+        "rednerRaw": "Uwe Dorendorf",
+        "fraktionRaw": "CDU",
+        "streamFileName": "session30_meeting79_132650",
+        "startInStreamSecs": 10577.0,
+        "stopInStreamSecs": 10671.0,
+        "timesAreVideoRelative": false
+      }
+    },
+    {
+      "parliament": "DE-NI",
+      "electoralPeriod": {
+        "number": 19
+      },
+      "session": {
+        "number": 79,
+        "dateStart": "2025-12-15T12:32:48Z",
+        "dateEnd": "2025-12-15T16:48:03Z"
+      },
+      "dateStart": "2025-12-15T15:25:11Z",
+      "dateEnd": "2025-12-15T15:32:00Z",
+      "speechIndex": 37,
+      "originID": "a076df1d-c209-414d-ac87-e975bfb5bd2c",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 8: Entwurf eines Gesetzes zur Änderung des Niedersächsischen Spielhallengesetzes",
+        "title": "Entwurf eines Gesetzes zur Änderung des Niedersächsischen Spielhallengesetzes",
+        "id": "TOP-8-1",
+        "nativeType": "DE-NI-gesetzentwurf",
+        "type": "regular"
+      },
+      "people": [
+        {
+          "label": "Oliver Ebken",
+          "context": "main-speaker",
+          "firstname": "Oliver",
+          "lastname": "Ebken",
+          "faction": {
+            "label": "SPD",
+            "wid": "Q49768"
+          },
+          "originPersonID": "203209",
+          "wid": "Q114598530",
+          "wtype": "PERSON"
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://vod.plenartv.de/stream/session30_meeting79_132650/index.m3u8?start=10701&end=11110",
+        "sourcePage": "https://plenartv.de/tagungsabschnitt/19-30?sitzung=79#rede-a076df1d-c209-414d-ac87-e975bfb5bd2c",
+        "creator": "Niedersächsischer Landtag",
+        "license": "Niedersächsischer Landtag – Plenar-TV. Die Aufzeichnungen dürfen unter Angabe der Quelle \"Niedersächsischer Landtag\" genutzt werden; Nutzungsbedingungen: https://www.landtag-niedersachsen.de/plenar-tv-nutzungsbedingungen/",
+        "originMediaID": "a076df1d-c209-414d-ac87-e975bfb5bd2c",
+        "additionalInformation": {
+          "startInStreamSecs": 10701.0,
+          "stopInStreamSecs": 11110.0,
+          "streamFileName": "session30_meeting79_132650",
+          "subtitleVttURI": "https://api.plenartv.de/vtt/b8da85a6-c67e-4839-97ed-b76061cc75fa"
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "plenartv-api",
+        "tagungsabschnitt": 30,
+        "subjectId": "b8da85a6-c67e-4839-97ed-b76061cc75fa",
+        "subjectNumber": 1,
+        "itemNumber": 8.0,
+        "abgId": 203209,
+        "speechType": "RZ",
+        "rednerRaw": "Oliver Ebken",
+        "fraktionRaw": "SPD",
+        "streamFileName": "session30_meeting79_132650",
+        "startInStreamSecs": 10701.0,
+        "stopInStreamSecs": 11110.0,
+        "timesAreVideoRelative": false
+      }
+    },
+    {
+      "parliament": "DE-NI",
+      "electoralPeriod": {
+        "number": 19
+      },
+      "session": {
+        "number": 79,
+        "dateStart": "2025-12-15T12:32:48Z",
+        "dateEnd": "2025-12-15T16:48:03Z"
+      },
+      "dateStart": "2025-12-15T15:32:11Z",
+      "dateEnd": "2025-12-15T15:33:36Z",
+      "speechIndex": 38,
+      "originID": "3010e4c1-5e91-420e-8042-48e9363a6ce1",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 8: Entwurf eines Gesetzes zur Änderung des Niedersächsischen Spielhallengesetzes",
+        "title": "Entwurf eines Gesetzes zur Änderung des Niedersächsischen Spielhallengesetzes",
+        "id": "TOP-8-1",
+        "nativeType": "DE-NI-gesetzentwurf",
+        "type": "regular"
+      },
+      "people": [
+        {
+          "label": "Uwe Dorendorf",
+          "context": "speaker",
+          "firstname": "Uwe",
+          "lastname": "Dorendorf",
+          "faction": {
+            "label": "CDU",
+            "wid": "Q49762"
+          },
+          "originPersonID": "202767",
+          "wid": "Q42379798",
+          "wtype": "PERSON"
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://vod.plenartv.de/stream/session30_meeting79_132650/index.m3u8?start=11121&end=11206",
+        "sourcePage": "https://plenartv.de/tagungsabschnitt/19-30?sitzung=79#rede-3010e4c1-5e91-420e-8042-48e9363a6ce1",
+        "creator": "Niedersächsischer Landtag",
+        "license": "Niedersächsischer Landtag – Plenar-TV. Die Aufzeichnungen dürfen unter Angabe der Quelle \"Niedersächsischer Landtag\" genutzt werden; Nutzungsbedingungen: https://www.landtag-niedersachsen.de/plenar-tv-nutzungsbedingungen/",
+        "originMediaID": "3010e4c1-5e91-420e-8042-48e9363a6ce1",
+        "additionalInformation": {
+          "startInStreamSecs": 11121.0,
+          "stopInStreamSecs": 11206.0,
+          "streamFileName": "session30_meeting79_132650",
+          "subtitleVttURI": "https://api.plenartv.de/vtt/b8da85a6-c67e-4839-97ed-b76061cc75fa"
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "plenartv-api",
+        "tagungsabschnitt": 30,
+        "subjectId": "b8da85a6-c67e-4839-97ed-b76061cc75fa",
+        "subjectNumber": 1,
+        "itemNumber": 8.0,
+        "abgId": 202767,
+        "speechType": "KI",
+        "rednerRaw": "Uwe Dorendorf",
+        "fraktionRaw": "CDU",
+        "streamFileName": "session30_meeting79_132650",
+        "startInStreamSecs": 11121.0,
+        "stopInStreamSecs": 11206.0,
+        "timesAreVideoRelative": false
+      }
+    },
+    {
+      "parliament": "DE-NI",
+      "electoralPeriod": {
+        "number": 19
+      },
+      "session": {
+        "number": 79,
+        "dateStart": "2025-12-15T12:32:48Z",
+        "dateEnd": "2025-12-15T16:48:03Z"
+      },
+      "dateStart": "2025-12-15T15:33:41Z",
+      "dateEnd": "2025-12-15T15:34:34Z",
+      "speechIndex": 39,
+      "originID": "48bc51f8-879c-47b4-b767-37a1910f4340",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 8: Entwurf eines Gesetzes zur Änderung des Niedersächsischen Spielhallengesetzes",
+        "title": "Entwurf eines Gesetzes zur Änderung des Niedersächsischen Spielhallengesetzes",
+        "id": "TOP-8-1",
+        "nativeType": "DE-NI-gesetzentwurf",
+        "type": "regular"
+      },
+      "people": [
+        {
+          "label": "Oliver Ebken",
+          "context": "speaker",
+          "firstname": "Oliver",
+          "lastname": "Ebken",
+          "faction": {
+            "label": "SPD",
+            "wid": "Q49768"
+          },
+          "originPersonID": "203209",
+          "wid": "Q114598530",
+          "wtype": "PERSON"
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://vod.plenartv.de/stream/session30_meeting79_132650/index.m3u8?start=11211&end=11264",
+        "sourcePage": "https://plenartv.de/tagungsabschnitt/19-30?sitzung=79#rede-48bc51f8-879c-47b4-b767-37a1910f4340",
+        "creator": "Niedersächsischer Landtag",
+        "license": "Niedersächsischer Landtag – Plenar-TV. Die Aufzeichnungen dürfen unter Angabe der Quelle \"Niedersächsischer Landtag\" genutzt werden; Nutzungsbedingungen: https://www.landtag-niedersachsen.de/plenar-tv-nutzungsbedingungen/",
+        "originMediaID": "48bc51f8-879c-47b4-b767-37a1910f4340",
+        "additionalInformation": {
+          "startInStreamSecs": 11211.0,
+          "stopInStreamSecs": 11264.0,
+          "streamFileName": "session30_meeting79_132650",
+          "subtitleVttURI": "https://api.plenartv.de/vtt/b8da85a6-c67e-4839-97ed-b76061cc75fa"
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "plenartv-api",
+        "tagungsabschnitt": 30,
+        "subjectId": "b8da85a6-c67e-4839-97ed-b76061cc75fa",
+        "subjectNumber": 1,
+        "itemNumber": 8.0,
+        "abgId": 203209,
+        "speechType": "KI",
+        "rednerRaw": "Oliver Ebken",
+        "fraktionRaw": "SPD",
+        "streamFileName": "session30_meeting79_132650",
+        "startInStreamSecs": 11211.0,
+        "stopInStreamSecs": 11264.0,
+        "timesAreVideoRelative": false
+      }
+    },
+    {
+      "parliament": "DE-NI",
+      "electoralPeriod": {
+        "number": 19
+      },
+      "session": {
+        "number": 79,
+        "dateStart": "2025-12-15T12:32:48Z",
+        "dateEnd": "2025-12-15T16:48:03Z"
+      },
+      "dateStart": "2025-12-15T15:34:47Z",
+      "dateEnd": "2025-12-15T15:36:03Z",
+      "speechIndex": 40,
+      "originID": "ec75ac5e-be3b-40c2-8c2e-a6c06f229c75",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 8: Entwurf eines Gesetzes zur Änderung des Niedersächsischen Spielhallengesetzes",
+        "title": "Entwurf eines Gesetzes zur Änderung des Niedersächsischen Spielhallengesetzes",
+        "id": "TOP-8-1",
+        "nativeType": "DE-NI-gesetzentwurf",
+        "type": "regular"
+      },
+      "people": [
+        {
+          "label": "Omid Najafi",
+          "context": "main-speaker",
+          "firstname": "Omid",
+          "lastname": "Najafi",
+          "faction": {
+            "label": "AfD",
+            "wid": "Q6721203"
+          },
+          "originPersonID": "203275",
+          "wid": "Q114637308",
+          "wtype": "PERSON"
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://vod.plenartv.de/stream/session30_meeting79_132650/index.m3u8?start=11277&end=11353",
+        "sourcePage": "https://plenartv.de/tagungsabschnitt/19-30?sitzung=79#rede-ec75ac5e-be3b-40c2-8c2e-a6c06f229c75",
+        "creator": "Niedersächsischer Landtag",
+        "license": "Niedersächsischer Landtag – Plenar-TV. Die Aufzeichnungen dürfen unter Angabe der Quelle \"Niedersächsischer Landtag\" genutzt werden; Nutzungsbedingungen: https://www.landtag-niedersachsen.de/plenar-tv-nutzungsbedingungen/",
+        "originMediaID": "ec75ac5e-be3b-40c2-8c2e-a6c06f229c75",
+        "additionalInformation": {
+          "startInStreamSecs": 11277.0,
+          "stopInStreamSecs": 11353.0,
+          "streamFileName": "session30_meeting79_132650",
+          "subtitleVttURI": "https://api.plenartv.de/vtt/b8da85a6-c67e-4839-97ed-b76061cc75fa"
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "plenartv-api",
+        "tagungsabschnitt": 30,
+        "subjectId": "b8da85a6-c67e-4839-97ed-b76061cc75fa",
+        "subjectNumber": 1,
+        "itemNumber": 8.0,
+        "abgId": 203275,
+        "speechType": "RZ",
+        "rednerRaw": "Omid Najafi",
+        "fraktionRaw": "AfD",
+        "streamFileName": "session30_meeting79_132650",
+        "startInStreamSecs": 11277.0,
+        "stopInStreamSecs": 11353.0,
+        "timesAreVideoRelative": false
+      }
+    },
+    {
+      "parliament": "DE-NI",
+      "electoralPeriod": {
+        "number": 19
+      },
+      "session": {
+        "number": 79,
+        "dateStart": "2025-12-15T12:32:48Z",
+        "dateEnd": "2025-12-15T16:48:03Z"
+      },
+      "dateStart": "2025-12-15T15:36:21Z",
+      "dateEnd": "2025-12-15T15:37:26Z",
+      "speechIndex": 41,
+      "originID": "1600770c-be01-4564-8539-d2ce857f99cd",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 8: Entwurf eines Gesetzes zur Änderung des Niedersächsischen Spielhallengesetzes",
+        "title": "Entwurf eines Gesetzes zur Änderung des Niedersächsischen Spielhallengesetzes",
+        "id": "TOP-8-1",
+        "nativeType": "DE-NI-gesetzentwurf",
+        "type": "regular"
+      },
+      "people": [
+        {
+          "label": "Heiko Sachtleben",
+          "context": "speaker",
+          "firstname": "Heiko",
+          "lastname": "Sachtleben",
+          "faction": {
+            "label": "Bündnis 90/Die Grünen",
+            "wid": "Q49766"
+          },
+          "originPersonID": "203225",
+          "wid": "Q111372469",
+          "wtype": "PERSON"
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://vod.plenartv.de/stream/session30_meeting79_132650/index.m3u8?start=11371&end=11436",
+        "sourcePage": "https://plenartv.de/tagungsabschnitt/19-30?sitzung=79#rede-1600770c-be01-4564-8539-d2ce857f99cd",
+        "creator": "Niedersächsischer Landtag",
+        "license": "Niedersächsischer Landtag – Plenar-TV. Die Aufzeichnungen dürfen unter Angabe der Quelle \"Niedersächsischer Landtag\" genutzt werden; Nutzungsbedingungen: https://www.landtag-niedersachsen.de/plenar-tv-nutzungsbedingungen/",
+        "originMediaID": "1600770c-be01-4564-8539-d2ce857f99cd",
+        "additionalInformation": {
+          "startInStreamSecs": 11371.0,
+          "stopInStreamSecs": 11436.0,
+          "streamFileName": "session30_meeting79_132650",
+          "subtitleVttURI": "https://api.plenartv.de/vtt/b8da85a6-c67e-4839-97ed-b76061cc75fa"
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "plenartv-api",
+        "tagungsabschnitt": 30,
+        "subjectId": "b8da85a6-c67e-4839-97ed-b76061cc75fa",
+        "subjectNumber": 1,
+        "itemNumber": 8.0,
+        "abgId": 203225,
+        "speechType": "KI",
+        "rednerRaw": "Heiko Sachtleben",
+        "fraktionRaw": "Bündnis 90/Die Grünen",
+        "streamFileName": "session30_meeting79_132650",
+        "startInStreamSecs": 11371.0,
+        "stopInStreamSecs": 11436.0,
+        "timesAreVideoRelative": false
+      }
+    },
+    {
+      "parliament": "DE-NI",
+      "electoralPeriod": {
+        "number": 19
+      },
+      "session": {
+        "number": 79,
+        "dateStart": "2025-12-15T12:32:48Z",
+        "dateEnd": "2025-12-15T16:48:03Z"
+      },
+      "dateStart": "2025-12-15T15:37:37Z",
+      "dateEnd": "2025-12-15T15:38:17Z",
+      "speechIndex": 42,
+      "originID": "2a84e23f-703e-466f-a536-0405aa5d3d9a",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 8: Entwurf eines Gesetzes zur Änderung des Niedersächsischen Spielhallengesetzes",
+        "title": "Entwurf eines Gesetzes zur Änderung des Niedersächsischen Spielhallengesetzes",
+        "id": "TOP-8-1",
+        "nativeType": "DE-NI-gesetzentwurf",
+        "type": "regular"
+      },
+      "people": [
+        {
+          "label": "Omid Najafi",
+          "context": "speaker",
+          "firstname": "Omid",
+          "lastname": "Najafi",
+          "faction": {
+            "label": "AfD",
+            "wid": "Q6721203"
+          },
+          "originPersonID": "203275",
+          "wid": "Q114637308",
+          "wtype": "PERSON"
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://vod.plenartv.de/stream/session30_meeting79_132650/index.m3u8?start=11447&end=11487",
+        "sourcePage": "https://plenartv.de/tagungsabschnitt/19-30?sitzung=79#rede-2a84e23f-703e-466f-a536-0405aa5d3d9a",
+        "creator": "Niedersächsischer Landtag",
+        "license": "Niedersächsischer Landtag – Plenar-TV. Die Aufzeichnungen dürfen unter Angabe der Quelle \"Niedersächsischer Landtag\" genutzt werden; Nutzungsbedingungen: https://www.landtag-niedersachsen.de/plenar-tv-nutzungsbedingungen/",
+        "originMediaID": "2a84e23f-703e-466f-a536-0405aa5d3d9a",
+        "additionalInformation": {
+          "startInStreamSecs": 11447.0,
+          "stopInStreamSecs": 11487.0,
+          "streamFileName": "session30_meeting79_132650",
+          "subtitleVttURI": "https://api.plenartv.de/vtt/b8da85a6-c67e-4839-97ed-b76061cc75fa"
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "plenartv-api",
+        "tagungsabschnitt": 30,
+        "subjectId": "b8da85a6-c67e-4839-97ed-b76061cc75fa",
+        "subjectNumber": 1,
+        "itemNumber": 8.0,
+        "abgId": 203275,
+        "speechType": "KI",
+        "rednerRaw": "Omid Najafi",
+        "fraktionRaw": "AfD",
+        "streamFileName": "session30_meeting79_132650",
+        "startInStreamSecs": 11447.0,
+        "stopInStreamSecs": 11487.0,
+        "timesAreVideoRelative": false
+      }
+    },
+    {
+      "parliament": "DE-NI",
+      "electoralPeriod": {
+        "number": 19
+      },
+      "session": {
+        "number": 79,
+        "dateStart": "2025-12-15T12:32:48Z",
+        "dateEnd": "2025-12-15T16:48:03Z"
+      },
+      "dateStart": "2025-12-15T15:38:37Z",
+      "dateEnd": "2025-12-15T15:41:00Z",
+      "speechIndex": 43,
+      "originID": "e929d8c5-1e17-4112-a7eb-57ae36ef5a80",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 8: Entwurf eines Gesetzes zur Änderung des Niedersächsischen Spielhallengesetzes",
+        "title": "Entwurf eines Gesetzes zur Änderung des Niedersächsischen Spielhallengesetzes",
+        "id": "TOP-8-1",
+        "nativeType": "DE-NI-gesetzentwurf",
+        "type": "regular"
+      },
+      "people": [
+        {
+          "label": "Grant Hendrik Tonne",
+          "context": "main-speaker",
+          "firstname": "Grant Hendrik",
+          "lastname": "Tonne",
+          "faction": {
+            "label": "SPD",
+            "wid": "Q49768"
+          },
+          "originPersonID": "202229",
+          "wid": "Q998585",
+          "wtype": "PERSON"
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://vod.plenartv.de/stream/session30_meeting79_132650/index.m3u8?start=11507&end=11650",
+        "sourcePage": "https://plenartv.de/tagungsabschnitt/19-30?sitzung=79#rede-e929d8c5-1e17-4112-a7eb-57ae36ef5a80",
+        "creator": "Niedersächsischer Landtag",
+        "license": "Niedersächsischer Landtag – Plenar-TV. Die Aufzeichnungen dürfen unter Angabe der Quelle \"Niedersächsischer Landtag\" genutzt werden; Nutzungsbedingungen: https://www.landtag-niedersachsen.de/plenar-tv-nutzungsbedingungen/",
+        "originMediaID": "e929d8c5-1e17-4112-a7eb-57ae36ef5a80",
+        "additionalInformation": {
+          "startInStreamSecs": 11507.0,
+          "stopInStreamSecs": 11650.0,
+          "streamFileName": "session30_meeting79_132650",
+          "subtitleVttURI": "https://api.plenartv.de/vtt/b8da85a6-c67e-4839-97ed-b76061cc75fa"
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "plenartv-api",
+        "tagungsabschnitt": 30,
+        "subjectId": "b8da85a6-c67e-4839-97ed-b76061cc75fa",
+        "subjectNumber": 1,
+        "itemNumber": 8.0,
+        "abgId": 202229,
+        "speechType": "RZ",
+        "rednerRaw": "Grant Hendrik Tonne",
+        "fraktionRaw": "SPD",
+        "streamFileName": "session30_meeting79_132650",
+        "startInStreamSecs": 11507.0,
+        "stopInStreamSecs": 11650.0,
+        "timesAreVideoRelative": false
+      }
+    },
+    {
+      "parliament": "DE-NI",
+      "electoralPeriod": {
+        "number": 19
+      },
+      "session": {
+        "number": 79,
+        "dateStart": "2025-12-15T12:32:48Z",
+        "dateEnd": "2025-12-15T16:48:03Z"
+      },
+      "dateStart": "2025-12-15T15:41:00Z",
+      "dateEnd": "2025-12-15T15:41:53Z",
+      "speechIndex": 44,
+      "originID": "14dd6479-bcb1-40e7-96ed-7172ddf4c4ef",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 8: Entwurf eines Gesetzes zur Änderung des Niedersächsischen Spielhallengesetzes",
+        "title": "Entwurf eines Gesetzes zur Änderung des Niedersächsischen Spielhallengesetzes",
+        "id": "TOP-8-1",
+        "nativeType": "DE-NI-gesetzentwurf",
+        "type": "regular"
+      },
+      "people": [
+        {
+          "label": "Marcel Scharrelmann",
+          "context": "speaker",
+          "firstname": "Marcel",
+          "lastname": "Scharrelmann",
+          "faction": {
+            "label": "CDU",
+            "wid": "Q49762"
+          },
+          "originPersonID": "202769",
+          "wid": "Q42586435",
+          "wtype": "PERSON"
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://vod.plenartv.de/stream/session30_meeting79_132650/index.m3u8?start=11650&end=11703",
+        "sourcePage": "https://plenartv.de/tagungsabschnitt/19-30?sitzung=79#rede-14dd6479-bcb1-40e7-96ed-7172ddf4c4ef",
+        "creator": "Niedersächsischer Landtag",
+        "license": "Niedersächsischer Landtag – Plenar-TV. Die Aufzeichnungen dürfen unter Angabe der Quelle \"Niedersächsischer Landtag\" genutzt werden; Nutzungsbedingungen: https://www.landtag-niedersachsen.de/plenar-tv-nutzungsbedingungen/",
+        "originMediaID": "14dd6479-bcb1-40e7-96ed-7172ddf4c4ef",
+        "additionalInformation": {
+          "startInStreamSecs": 11650.0,
+          "stopInStreamSecs": 11703.0,
+          "streamFileName": "session30_meeting79_132650",
+          "subtitleVttURI": "https://api.plenartv.de/vtt/b8da85a6-c67e-4839-97ed-b76061cc75fa"
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "plenartv-api",
+        "tagungsabschnitt": 30,
+        "subjectId": "b8da85a6-c67e-4839-97ed-b76061cc75fa",
+        "subjectNumber": 1,
+        "itemNumber": 8.0,
+        "abgId": 202769,
+        "speechType": "Zwischenfrage",
+        "rednerRaw": "Marcel Scharrelmann",
+        "fraktionRaw": "CDU",
+        "streamFileName": "session30_meeting79_132650",
+        "startInStreamSecs": 11650.0,
+        "stopInStreamSecs": 11703.0,
+        "timesAreVideoRelative": false
+      }
+    },
+    {
+      "parliament": "DE-NI",
+      "electoralPeriod": {
+        "number": 19
+      },
+      "session": {
+        "number": 79,
+        "dateStart": "2025-12-15T12:32:48Z",
+        "dateEnd": "2025-12-15T16:48:03Z"
+      },
+      "dateStart": "2025-12-15T15:41:49Z",
+      "dateEnd": "2025-12-15T15:42:22Z",
+      "speechIndex": 45,
+      "originID": "eadb9952-5848-48cf-80a1-dcaa10eebae9",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 8: Entwurf eines Gesetzes zur Änderung des Niedersächsischen Spielhallengesetzes",
+        "title": "Entwurf eines Gesetzes zur Änderung des Niedersächsischen Spielhallengesetzes",
+        "id": "TOP-8-1",
+        "nativeType": "DE-NI-gesetzentwurf",
+        "type": "regular"
+      },
+      "people": [
+        {
+          "label": "Grant Hendrik Tonne",
+          "context": "main-speaker",
+          "firstname": "Grant Hendrik",
+          "lastname": "Tonne",
+          "faction": {
+            "label": "SPD",
+            "wid": "Q49768"
+          },
+          "originPersonID": "202229",
+          "wid": "Q998585",
+          "wtype": "PERSON"
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://vod.plenartv.de/stream/session30_meeting79_132650/index.m3u8?start=11699&end=11732",
+        "sourcePage": "https://plenartv.de/tagungsabschnitt/19-30?sitzung=79#rede-eadb9952-5848-48cf-80a1-dcaa10eebae9",
+        "creator": "Niedersächsischer Landtag",
+        "license": "Niedersächsischer Landtag – Plenar-TV. Die Aufzeichnungen dürfen unter Angabe der Quelle \"Niedersächsischer Landtag\" genutzt werden; Nutzungsbedingungen: https://www.landtag-niedersachsen.de/plenar-tv-nutzungsbedingungen/",
+        "originMediaID": "eadb9952-5848-48cf-80a1-dcaa10eebae9",
+        "additionalInformation": {
+          "startInStreamSecs": 11699.0,
+          "stopInStreamSecs": 11732.0,
+          "streamFileName": "session30_meeting79_132650",
+          "subtitleVttURI": "https://api.plenartv.de/vtt/b8da85a6-c67e-4839-97ed-b76061cc75fa"
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "plenartv-api",
+        "tagungsabschnitt": 30,
+        "subjectId": "b8da85a6-c67e-4839-97ed-b76061cc75fa",
+        "subjectNumber": 1,
+        "itemNumber": 8.0,
+        "abgId": 202229,
+        "speechType": "Antwort",
+        "rednerRaw": "Grant Hendrik Tonne",
+        "fraktionRaw": "SPD",
+        "streamFileName": "session30_meeting79_132650",
+        "startInStreamSecs": 11699.0,
+        "stopInStreamSecs": 11732.0,
+        "timesAreVideoRelative": false
+      }
+    },
+    {
+      "parliament": "DE-NI",
+      "electoralPeriod": {
+        "number": 19
+      },
+      "session": {
+        "number": 79,
+        "dateStart": "2025-12-15T12:32:48Z",
+        "dateEnd": "2025-12-15T16:48:03Z"
+      },
+      "dateStart": "2025-12-15T15:45:58Z",
+      "dateEnd": "2025-12-15T15:46:32Z",
+      "speechIndex": 46,
+      "originID": "807acca2-9fed-4970-8deb-2c6dd84f5cef",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 8: Entwurf eines Gesetzes zur Änderung des Niedersächsischen Spielhallengesetzes",
+        "title": "Entwurf eines Gesetzes zur Änderung des Niedersächsischen Spielhallengesetzes",
+        "id": "TOP-8-1",
+        "nativeType": "DE-NI-gesetzentwurf",
+        "type": "regular"
+      },
+      "people": [
+        {
+          "label": "Jens Nacke",
+          "context": "speaker",
+          "firstname": "Jens",
+          "lastname": "Nacke",
+          "faction": {
+            "label": "CDU",
+            "wid": "Q49762"
+          },
+          "originPersonID": "1091",
+          "wid": "Q1687309",
+          "wtype": "PERSON"
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://vod.plenartv.de/stream/session30_meeting79_132650/index.m3u8?start=11948&end=11982",
+        "sourcePage": "https://plenartv.de/tagungsabschnitt/19-30?sitzung=79#rede-807acca2-9fed-4970-8deb-2c6dd84f5cef",
+        "creator": "Niedersächsischer Landtag",
+        "license": "Niedersächsischer Landtag – Plenar-TV. Die Aufzeichnungen dürfen unter Angabe der Quelle \"Niedersächsischer Landtag\" genutzt werden; Nutzungsbedingungen: https://www.landtag-niedersachsen.de/plenar-tv-nutzungsbedingungen/",
+        "originMediaID": "807acca2-9fed-4970-8deb-2c6dd84f5cef",
+        "additionalInformation": {
+          "startInStreamSecs": 11948.0,
+          "stopInStreamSecs": 11982.0,
+          "streamFileName": "session30_meeting79_132650",
+          "subtitleVttURI": "https://api.plenartv.de/vtt/b8da85a6-c67e-4839-97ed-b76061cc75fa"
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "plenartv-api",
+        "tagungsabschnitt": 30,
+        "subjectId": "b8da85a6-c67e-4839-97ed-b76061cc75fa",
+        "subjectNumber": 1,
+        "itemNumber": 8.0,
+        "abgId": 1091,
+        "speechType": "Zwischenfrage",
+        "rednerRaw": "Jens Nacke",
+        "fraktionRaw": "CDU",
+        "streamFileName": "session30_meeting79_132650",
+        "startInStreamSecs": 11948.0,
+        "stopInStreamSecs": 11982.0,
+        "timesAreVideoRelative": false
+      }
+    },
+    {
+      "parliament": "DE-NI",
+      "electoralPeriod": {
+        "number": 19
+      },
+      "session": {
+        "number": 79,
+        "dateStart": "2025-12-15T12:32:48Z",
+        "dateEnd": "2025-12-15T16:48:03Z"
+      },
+      "dateStart": "2025-12-15T15:46:26Z",
+      "dateEnd": "2025-12-15T15:47:25Z",
+      "speechIndex": 47,
+      "originID": "89c18672-366c-4323-971e-8ff3ddc95283",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 8: Entwurf eines Gesetzes zur Änderung des Niedersächsischen Spielhallengesetzes",
+        "title": "Entwurf eines Gesetzes zur Änderung des Niedersächsischen Spielhallengesetzes",
+        "id": "TOP-8-1",
+        "nativeType": "DE-NI-gesetzentwurf",
+        "type": "regular"
+      },
+      "people": [
+        {
+          "label": "Grant Hendrik Tonne",
+          "context": "main-speaker",
+          "firstname": "Grant Hendrik",
+          "lastname": "Tonne",
+          "faction": {
+            "label": "SPD",
+            "wid": "Q49768"
+          },
+          "originPersonID": "202229",
+          "wid": "Q998585",
+          "wtype": "PERSON"
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://vod.plenartv.de/stream/session30_meeting79_132650/index.m3u8?start=11976&end=12035",
+        "sourcePage": "https://plenartv.de/tagungsabschnitt/19-30?sitzung=79#rede-89c18672-366c-4323-971e-8ff3ddc95283",
+        "creator": "Niedersächsischer Landtag",
+        "license": "Niedersächsischer Landtag – Plenar-TV. Die Aufzeichnungen dürfen unter Angabe der Quelle \"Niedersächsischer Landtag\" genutzt werden; Nutzungsbedingungen: https://www.landtag-niedersachsen.de/plenar-tv-nutzungsbedingungen/",
+        "originMediaID": "89c18672-366c-4323-971e-8ff3ddc95283",
+        "additionalInformation": {
+          "startInStreamSecs": 11976.0,
+          "stopInStreamSecs": 12035.0,
+          "streamFileName": "session30_meeting79_132650",
+          "subtitleVttURI": "https://api.plenartv.de/vtt/b8da85a6-c67e-4839-97ed-b76061cc75fa"
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "plenartv-api",
+        "tagungsabschnitt": 30,
+        "subjectId": "b8da85a6-c67e-4839-97ed-b76061cc75fa",
+        "subjectNumber": 1,
+        "itemNumber": 8.0,
+        "abgId": 202229,
+        "speechType": "Antwort",
+        "rednerRaw": "Grant Hendrik Tonne",
+        "fraktionRaw": "SPD",
+        "streamFileName": "session30_meeting79_132650",
+        "startInStreamSecs": 11976.0,
+        "stopInStreamSecs": 12035.0,
+        "timesAreVideoRelative": false
+      }
+    },
+    {
+      "parliament": "DE-NI",
+      "electoralPeriod": {
+        "number": 19
+      },
+      "session": {
+        "number": 79,
+        "dateStart": "2025-12-15T12:32:48Z",
+        "dateEnd": "2025-12-15T16:48:03Z"
+      },
+      "dateStart": "2025-12-15T15:47:24Z",
+      "dateEnd": "2025-12-15T15:47:53Z",
+      "speechIndex": 48,
+      "originID": "df9a1c01-4bdc-46a6-ac28-2cc5fab0657b",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 8: Entwurf eines Gesetzes zur Änderung des Niedersächsischen Spielhallengesetzes",
+        "title": "Entwurf eines Gesetzes zur Änderung des Niedersächsischen Spielhallengesetzes",
+        "id": "TOP-8-1",
+        "nativeType": "DE-NI-gesetzentwurf",
+        "type": "regular"
+      },
+      "people": [
+        {
+          "label": "Carina Hermann",
+          "context": "speaker",
+          "firstname": "Carina",
+          "lastname": "Hermann",
+          "faction": {
+            "label": "CDU",
+            "wid": "Q49762"
+          },
+          "originPersonID": "203223",
+          "wid": "Q115204037",
+          "wtype": "PERSON"
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://vod.plenartv.de/stream/session30_meeting79_132650/index.m3u8?start=12034&end=12063",
+        "sourcePage": "https://plenartv.de/tagungsabschnitt/19-30?sitzung=79#rede-df9a1c01-4bdc-46a6-ac28-2cc5fab0657b",
+        "creator": "Niedersächsischer Landtag",
+        "license": "Niedersächsischer Landtag – Plenar-TV. Die Aufzeichnungen dürfen unter Angabe der Quelle \"Niedersächsischer Landtag\" genutzt werden; Nutzungsbedingungen: https://www.landtag-niedersachsen.de/plenar-tv-nutzungsbedingungen/",
+        "originMediaID": "df9a1c01-4bdc-46a6-ac28-2cc5fab0657b",
+        "additionalInformation": {
+          "startInStreamSecs": 12034.0,
+          "stopInStreamSecs": 12063.0,
+          "streamFileName": "session30_meeting79_132650",
+          "subtitleVttURI": "https://api.plenartv.de/vtt/b8da85a6-c67e-4839-97ed-b76061cc75fa"
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "plenartv-api",
+        "tagungsabschnitt": 30,
+        "subjectId": "b8da85a6-c67e-4839-97ed-b76061cc75fa",
+        "subjectNumber": 1,
+        "itemNumber": 8.0,
+        "abgId": 203223,
+        "speechType": "Zwischenfrage",
+        "rednerRaw": "Carina Hermann",
+        "fraktionRaw": "CDU",
+        "streamFileName": "session30_meeting79_132650",
+        "startInStreamSecs": 12034.0,
+        "stopInStreamSecs": 12063.0,
+        "timesAreVideoRelative": false
+      }
+    },
+    {
+      "parliament": "DE-NI",
+      "electoralPeriod": {
+        "number": 19
+      },
+      "session": {
+        "number": 79,
+        "dateStart": "2025-12-15T12:32:48Z",
+        "dateEnd": "2025-12-15T16:48:03Z"
+      },
+      "dateStart": "2025-12-15T15:47:47Z",
+      "dateEnd": "2025-12-15T15:48:11Z",
+      "speechIndex": 49,
+      "originID": "035d463c-5bc9-4a7c-96d9-9a536dcb1466",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 8: Entwurf eines Gesetzes zur Änderung des Niedersächsischen Spielhallengesetzes",
+        "title": "Entwurf eines Gesetzes zur Änderung des Niedersächsischen Spielhallengesetzes",
+        "id": "TOP-8-1",
+        "nativeType": "DE-NI-gesetzentwurf",
+        "type": "regular"
+      },
+      "people": [
+        {
+          "label": "Grant Hendrik Tonne",
+          "context": "main-speaker",
+          "firstname": "Grant Hendrik",
+          "lastname": "Tonne",
+          "faction": {
+            "label": "SPD",
+            "wid": "Q49768"
+          },
+          "originPersonID": "202229",
+          "wid": "Q998585",
+          "wtype": "PERSON"
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://vod.plenartv.de/stream/session30_meeting79_132650/index.m3u8?start=12057&end=12081",
+        "sourcePage": "https://plenartv.de/tagungsabschnitt/19-30?sitzung=79#rede-035d463c-5bc9-4a7c-96d9-9a536dcb1466",
+        "creator": "Niedersächsischer Landtag",
+        "license": "Niedersächsischer Landtag – Plenar-TV. Die Aufzeichnungen dürfen unter Angabe der Quelle \"Niedersächsischer Landtag\" genutzt werden; Nutzungsbedingungen: https://www.landtag-niedersachsen.de/plenar-tv-nutzungsbedingungen/",
+        "originMediaID": "035d463c-5bc9-4a7c-96d9-9a536dcb1466",
+        "additionalInformation": {
+          "startInStreamSecs": 12057.0,
+          "stopInStreamSecs": 12081.0,
+          "streamFileName": "session30_meeting79_132650",
+          "subtitleVttURI": "https://api.plenartv.de/vtt/b8da85a6-c67e-4839-97ed-b76061cc75fa"
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "plenartv-api",
+        "tagungsabschnitt": 30,
+        "subjectId": "b8da85a6-c67e-4839-97ed-b76061cc75fa",
+        "subjectNumber": 1,
+        "itemNumber": 8.0,
+        "abgId": 202229,
+        "speechType": "Antwort",
+        "rednerRaw": "Grant Hendrik Tonne",
+        "fraktionRaw": "SPD",
+        "streamFileName": "session30_meeting79_132650",
+        "startInStreamSecs": 12057.0,
+        "stopInStreamSecs": 12081.0,
+        "timesAreVideoRelative": false
+      }
+    },
+    {
+      "parliament": "DE-NI",
+      "electoralPeriod": {
+        "number": 19
+      },
+      "session": {
+        "number": 79,
+        "dateStart": "2025-12-15T12:32:48Z",
+        "dateEnd": "2025-12-15T16:48:03Z"
+      },
+      "dateStart": "2025-12-15T15:48:03Z",
+      "dateEnd": "2025-12-15T15:48:44Z",
+      "speechIndex": 50,
+      "originID": "cf5bf516-0755-4b7b-a16c-4f8983d98432",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 8: Entwurf eines Gesetzes zur Änderung des Niedersächsischen Spielhallengesetzes",
+        "title": "Entwurf eines Gesetzes zur Änderung des Niedersächsischen Spielhallengesetzes",
+        "id": "TOP-8-1",
+        "nativeType": "DE-NI-gesetzentwurf",
+        "type": "regular"
+      },
+      "people": [
+        {
+          "label": "Grant Hendrik Tonne",
+          "context": "main-speaker",
+          "firstname": "Grant Hendrik",
+          "lastname": "Tonne",
+          "faction": {
+            "label": "SPD",
+            "wid": "Q49768"
+          },
+          "originPersonID": "202229",
+          "wid": "Q998585",
+          "wtype": "PERSON"
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://vod.plenartv.de/stream/session30_meeting79_132650/index.m3u8?start=12073&end=12114",
+        "sourcePage": "https://plenartv.de/tagungsabschnitt/19-30?sitzung=79#rede-cf5bf516-0755-4b7b-a16c-4f8983d98432",
+        "creator": "Niedersächsischer Landtag",
+        "license": "Niedersächsischer Landtag – Plenar-TV. Die Aufzeichnungen dürfen unter Angabe der Quelle \"Niedersächsischer Landtag\" genutzt werden; Nutzungsbedingungen: https://www.landtag-niedersachsen.de/plenar-tv-nutzungsbedingungen/",
+        "originMediaID": "cf5bf516-0755-4b7b-a16c-4f8983d98432",
+        "additionalInformation": {
+          "startInStreamSecs": 12073.0,
+          "stopInStreamSecs": 12114.0,
+          "streamFileName": "session30_meeting79_132650",
+          "subtitleVttURI": "https://api.plenartv.de/vtt/b8da85a6-c67e-4839-97ed-b76061cc75fa"
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "plenartv-api",
+        "tagungsabschnitt": 30,
+        "subjectId": "b8da85a6-c67e-4839-97ed-b76061cc75fa",
+        "subjectNumber": 1,
+        "itemNumber": 8.0,
+        "abgId": 202229,
+        "speechType": "RZ",
+        "rednerRaw": "Grant Hendrik Tonne",
+        "fraktionRaw": "SPD",
+        "streamFileName": "session30_meeting79_132650",
+        "startInStreamSecs": 12073.0,
+        "stopInStreamSecs": 12114.0,
+        "timesAreVideoRelative": false
+      }
+    },
+    {
+      "parliament": "DE-NI",
+      "electoralPeriod": {
+        "number": 19
+      },
+      "session": {
+        "number": 79,
+        "dateStart": "2025-12-15T12:32:48Z",
+        "dateEnd": "2025-12-15T16:48:03Z"
+      },
+      "dateStart": "2025-12-15T15:52:51Z",
+      "dateEnd": "2025-12-15T15:56:47Z",
+      "speechIndex": 51,
+      "originID": "16802736-4106-43d3-9757-f713e4d61829",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 9: Verbesserung von Mobilfunkversorgung und regionalem Roaming in Niedersachsen",
+        "title": "Verbesserung von Mobilfunkversorgung und regionalem Roaming in Niedersachsen",
+        "id": "TOP-9-1",
+        "nativeType": "DE-NI-antrag",
+        "type": "regular"
+      },
+      "people": [
+        {
+          "label": "Omid Najafi",
+          "context": "main-speaker",
+          "firstname": "Omid",
+          "lastname": "Najafi",
+          "faction": {
+            "label": "AfD",
+            "wid": "Q6721203"
+          },
+          "originPersonID": "203275",
+          "wid": "Q114637308",
+          "wtype": "PERSON"
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://vod.plenartv.de/stream/session30_meeting79_132650/index.m3u8?start=12361&end=12597",
+        "sourcePage": "https://plenartv.de/tagungsabschnitt/19-30?sitzung=79#rede-16802736-4106-43d3-9757-f713e4d61829",
+        "creator": "Niedersächsischer Landtag",
+        "license": "Niedersächsischer Landtag – Plenar-TV. Die Aufzeichnungen dürfen unter Angabe der Quelle \"Niedersächsischer Landtag\" genutzt werden; Nutzungsbedingungen: https://www.landtag-niedersachsen.de/plenar-tv-nutzungsbedingungen/",
+        "originMediaID": "16802736-4106-43d3-9757-f713e4d61829",
+        "additionalInformation": {
+          "startInStreamSecs": 12361.0,
+          "stopInStreamSecs": 12597.0,
+          "streamFileName": "session30_meeting79_132650",
+          "subtitleVttURI": "https://api.plenartv.de/vtt/d5dc553e-2d5a-419a-b7de-67c114410f5d"
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "plenartv-api",
+        "tagungsabschnitt": 30,
+        "subjectId": "d5dc553e-2d5a-419a-b7de-67c114410f5d",
+        "subjectNumber": 1,
+        "itemNumber": 9.0,
+        "abgId": 203275,
+        "speechType": "RZ",
+        "rednerRaw": "Omid Najafi",
+        "fraktionRaw": "AfD",
+        "streamFileName": "session30_meeting79_132650",
+        "startInStreamSecs": 12361.0,
+        "stopInStreamSecs": 12597.0,
+        "timesAreVideoRelative": false
+      }
+    },
+    {
+      "parliament": "DE-NI",
+      "electoralPeriod": {
+        "number": 19
+      },
+      "session": {
+        "number": 79,
+        "dateStart": "2025-12-15T12:32:48Z",
+        "dateEnd": "2025-12-15T16:48:03Z"
+      },
+      "dateStart": "2025-12-15T15:57:09Z",
+      "dateEnd": "2025-12-15T16:03:02Z",
+      "speechIndex": 52,
+      "originID": "21ad7b13-4ecf-419f-a540-2683547f9d06",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 9: Verbesserung von Mobilfunkversorgung und regionalem Roaming in Niedersachsen",
+        "title": "Verbesserung von Mobilfunkversorgung und regionalem Roaming in Niedersachsen",
+        "id": "TOP-9-1",
+        "nativeType": "DE-NI-antrag",
+        "type": "regular"
+      },
+      "people": [
+        {
+          "label": "Christoph Willeke",
+          "context": "main-speaker",
+          "firstname": "Christoph",
+          "lastname": "Willeke",
+          "faction": {
+            "label": "SPD",
+            "wid": "Q49768"
+          },
+          "originPersonID": "203259",
+          "wid": "Q114564292",
+          "wtype": "PERSON"
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://vod.plenartv.de/stream/session30_meeting79_132650/index.m3u8?start=12619&end=12972",
+        "sourcePage": "https://plenartv.de/tagungsabschnitt/19-30?sitzung=79#rede-21ad7b13-4ecf-419f-a540-2683547f9d06",
+        "creator": "Niedersächsischer Landtag",
+        "license": "Niedersächsischer Landtag – Plenar-TV. Die Aufzeichnungen dürfen unter Angabe der Quelle \"Niedersächsischer Landtag\" genutzt werden; Nutzungsbedingungen: https://www.landtag-niedersachsen.de/plenar-tv-nutzungsbedingungen/",
+        "originMediaID": "21ad7b13-4ecf-419f-a540-2683547f9d06",
+        "additionalInformation": {
+          "startInStreamSecs": 12619.0,
+          "stopInStreamSecs": 12972.0,
+          "streamFileName": "session30_meeting79_132650",
+          "subtitleVttURI": "https://api.plenartv.de/vtt/d5dc553e-2d5a-419a-b7de-67c114410f5d"
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "plenartv-api",
+        "tagungsabschnitt": 30,
+        "subjectId": "d5dc553e-2d5a-419a-b7de-67c114410f5d",
+        "subjectNumber": 1,
+        "itemNumber": 9.0,
+        "abgId": 203259,
+        "speechType": "RZ",
+        "rednerRaw": "Christoph Willeke",
+        "fraktionRaw": "SPD",
+        "streamFileName": "session30_meeting79_132650",
+        "startInStreamSecs": 12619.0,
+        "stopInStreamSecs": 12972.0,
+        "timesAreVideoRelative": false
+      }
+    },
+    {
+      "parliament": "DE-NI",
+      "electoralPeriod": {
+        "number": 19
+      },
+      "session": {
+        "number": 79,
+        "dateStart": "2025-12-15T12:32:48Z",
+        "dateEnd": "2025-12-15T16:48:03Z"
+      },
+      "dateStart": "2025-12-15T16:03:14Z",
+      "dateEnd": "2025-12-15T16:05:04Z",
+      "speechIndex": 53,
+      "originID": "1f973eb2-427a-4a77-b34c-283f28021369",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 9: Verbesserung von Mobilfunkversorgung und regionalem Roaming in Niedersachsen",
+        "title": "Verbesserung von Mobilfunkversorgung und regionalem Roaming in Niedersachsen",
+        "id": "TOP-9-1",
+        "nativeType": "DE-NI-antrag",
+        "type": "regular"
+      },
+      "people": [
+        {
+          "label": "Omid Najafi",
+          "context": "speaker",
+          "firstname": "Omid",
+          "lastname": "Najafi",
+          "faction": {
+            "label": "AfD",
+            "wid": "Q6721203"
+          },
+          "originPersonID": "203275",
+          "wid": "Q114637308",
+          "wtype": "PERSON"
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://vod.plenartv.de/stream/session30_meeting79_132650/index.m3u8?start=12984&end=13094",
+        "sourcePage": "https://plenartv.de/tagungsabschnitt/19-30?sitzung=79#rede-1f973eb2-427a-4a77-b34c-283f28021369",
+        "creator": "Niedersächsischer Landtag",
+        "license": "Niedersächsischer Landtag – Plenar-TV. Die Aufzeichnungen dürfen unter Angabe der Quelle \"Niedersächsischer Landtag\" genutzt werden; Nutzungsbedingungen: https://www.landtag-niedersachsen.de/plenar-tv-nutzungsbedingungen/",
+        "originMediaID": "1f973eb2-427a-4a77-b34c-283f28021369",
+        "additionalInformation": {
+          "startInStreamSecs": 12984.0,
+          "stopInStreamSecs": 13094.0,
+          "streamFileName": "session30_meeting79_132650",
+          "subtitleVttURI": "https://api.plenartv.de/vtt/d5dc553e-2d5a-419a-b7de-67c114410f5d"
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "plenartv-api",
+        "tagungsabschnitt": 30,
+        "subjectId": "d5dc553e-2d5a-419a-b7de-67c114410f5d",
+        "subjectNumber": 1,
+        "itemNumber": 9.0,
+        "abgId": 203275,
+        "speechType": "KI",
+        "rednerRaw": "Omid Najafi",
+        "fraktionRaw": "AfD",
+        "streamFileName": "session30_meeting79_132650",
+        "startInStreamSecs": 12984.0,
+        "stopInStreamSecs": 13094.0,
+        "timesAreVideoRelative": false
+      }
+    },
+    {
+      "parliament": "DE-NI",
+      "electoralPeriod": {
+        "number": 19
+      },
+      "session": {
+        "number": 79,
+        "dateStart": "2025-12-15T12:32:48Z",
+        "dateEnd": "2025-12-15T16:48:03Z"
+      },
+      "dateStart": "2025-12-15T16:05:06Z",
+      "dateEnd": "2025-12-15T16:06:39Z",
+      "speechIndex": 54,
+      "originID": "73eb60b3-8b91-46bf-a8c2-cbe6d721ecbd",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 9: Verbesserung von Mobilfunkversorgung und regionalem Roaming in Niedersachsen",
+        "title": "Verbesserung von Mobilfunkversorgung und regionalem Roaming in Niedersachsen",
+        "id": "TOP-9-1",
+        "nativeType": "DE-NI-antrag",
+        "type": "regular"
+      },
+      "people": [
+        {
+          "label": "Christoph Willeke",
+          "context": "speaker",
+          "firstname": "Christoph",
+          "lastname": "Willeke",
+          "faction": {
+            "label": "SPD",
+            "wid": "Q49768"
+          },
+          "originPersonID": "203259",
+          "wid": "Q114564292",
+          "wtype": "PERSON"
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://vod.plenartv.de/stream/session30_meeting79_132650/index.m3u8?start=13096&end=13189",
+        "sourcePage": "https://plenartv.de/tagungsabschnitt/19-30?sitzung=79#rede-73eb60b3-8b91-46bf-a8c2-cbe6d721ecbd",
+        "creator": "Niedersächsischer Landtag",
+        "license": "Niedersächsischer Landtag – Plenar-TV. Die Aufzeichnungen dürfen unter Angabe der Quelle \"Niedersächsischer Landtag\" genutzt werden; Nutzungsbedingungen: https://www.landtag-niedersachsen.de/plenar-tv-nutzungsbedingungen/",
+        "originMediaID": "73eb60b3-8b91-46bf-a8c2-cbe6d721ecbd",
+        "additionalInformation": {
+          "startInStreamSecs": 13096.0,
+          "stopInStreamSecs": 13189.0,
+          "streamFileName": "session30_meeting79_132650",
+          "subtitleVttURI": "https://api.plenartv.de/vtt/d5dc553e-2d5a-419a-b7de-67c114410f5d"
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "plenartv-api",
+        "tagungsabschnitt": 30,
+        "subjectId": "d5dc553e-2d5a-419a-b7de-67c114410f5d",
+        "subjectNumber": 1,
+        "itemNumber": 9.0,
+        "abgId": 203259,
+        "speechType": "KI",
+        "rednerRaw": "Christoph Willeke",
+        "fraktionRaw": "SPD",
+        "streamFileName": "session30_meeting79_132650",
+        "startInStreamSecs": 13096.0,
+        "stopInStreamSecs": 13189.0,
+        "timesAreVideoRelative": false
+      }
+    },
+    {
+      "parliament": "DE-NI",
+      "electoralPeriod": {
+        "number": 19
+      },
+      "session": {
+        "number": 79,
+        "dateStart": "2025-12-15T12:32:48Z",
+        "dateEnd": "2025-12-15T16:48:03Z"
+      },
+      "dateStart": "2025-12-15T16:06:55Z",
+      "dateEnd": "2025-12-15T16:13:14Z",
+      "speechIndex": 55,
+      "originID": "f4a34cdf-3c17-47dc-a86a-0239390d6cd9",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 9: Verbesserung von Mobilfunkversorgung und regionalem Roaming in Niedersachsen",
+        "title": "Verbesserung von Mobilfunkversorgung und regionalem Roaming in Niedersachsen",
+        "id": "TOP-9-1",
+        "nativeType": "DE-NI-antrag",
+        "type": "regular"
+      },
+      "people": [
+        {
+          "label": "Colette Thiemann",
+          "context": "main-speaker",
+          "firstname": "Colette",
+          "lastname": "Thiemann",
+          "faction": {
+            "label": "CDU",
+            "wid": "Q49762"
+          },
+          "originPersonID": "203159",
+          "wid": "Q109513160",
+          "wtype": "PERSON"
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://vod.plenartv.de/stream/session30_meeting79_132650/index.m3u8?start=13205&end=13584",
+        "sourcePage": "https://plenartv.de/tagungsabschnitt/19-30?sitzung=79#rede-f4a34cdf-3c17-47dc-a86a-0239390d6cd9",
+        "creator": "Niedersächsischer Landtag",
+        "license": "Niedersächsischer Landtag – Plenar-TV. Die Aufzeichnungen dürfen unter Angabe der Quelle \"Niedersächsischer Landtag\" genutzt werden; Nutzungsbedingungen: https://www.landtag-niedersachsen.de/plenar-tv-nutzungsbedingungen/",
+        "originMediaID": "f4a34cdf-3c17-47dc-a86a-0239390d6cd9",
+        "additionalInformation": {
+          "startInStreamSecs": 13205.0,
+          "stopInStreamSecs": 13584.0,
+          "streamFileName": "session30_meeting79_132650",
+          "subtitleVttURI": "https://api.plenartv.de/vtt/d5dc553e-2d5a-419a-b7de-67c114410f5d"
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "plenartv-api",
+        "tagungsabschnitt": 30,
+        "subjectId": "d5dc553e-2d5a-419a-b7de-67c114410f5d",
+        "subjectNumber": 1,
+        "itemNumber": 9.0,
+        "abgId": 203159,
+        "speechType": "RZ",
+        "rednerRaw": "Colette Thiemann",
+        "fraktionRaw": "CDU",
+        "streamFileName": "session30_meeting79_132650",
+        "startInStreamSecs": 13205.0,
+        "stopInStreamSecs": 13584.0,
+        "timesAreVideoRelative": false
+      }
+    },
+    {
+      "parliament": "DE-NI",
+      "electoralPeriod": {
+        "number": 19
+      },
+      "session": {
+        "number": 79,
+        "dateStart": "2025-12-15T12:32:48Z",
+        "dateEnd": "2025-12-15T16:48:03Z"
+      },
+      "dateStart": "2025-12-15T16:13:29Z",
+      "dateEnd": "2025-12-15T16:14:19Z",
+      "speechIndex": 56,
+      "originID": "5ec4336a-6c1c-4d66-95de-bddc1419629e",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 9: Verbesserung von Mobilfunkversorgung und regionalem Roaming in Niedersachsen",
+        "title": "Verbesserung von Mobilfunkversorgung und regionalem Roaming in Niedersachsen",
+        "id": "TOP-9-1",
+        "nativeType": "DE-NI-antrag",
+        "type": "regular"
+      },
+      "people": [
+        {
+          "label": "Sina Maria Beckmann",
+          "context": "main-speaker",
+          "firstname": "Sina Maria",
+          "lastname": "Beckmann",
+          "faction": {
+            "label": "Bündnis 90/Die Grünen",
+            "wid": "Q49766"
+          },
+          "originPersonID": "203240"
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://vod.plenartv.de/stream/session30_meeting79_132650/index.m3u8?start=13599&end=13649",
+        "sourcePage": "https://plenartv.de/tagungsabschnitt/19-30?sitzung=79#rede-5ec4336a-6c1c-4d66-95de-bddc1419629e",
+        "creator": "Niedersächsischer Landtag",
+        "license": "Niedersächsischer Landtag – Plenar-TV. Die Aufzeichnungen dürfen unter Angabe der Quelle \"Niedersächsischer Landtag\" genutzt werden; Nutzungsbedingungen: https://www.landtag-niedersachsen.de/plenar-tv-nutzungsbedingungen/",
+        "originMediaID": "5ec4336a-6c1c-4d66-95de-bddc1419629e",
+        "additionalInformation": {
+          "startInStreamSecs": 13599.0,
+          "stopInStreamSecs": 13649.0,
+          "streamFileName": "session30_meeting79_132650",
+          "subtitleVttURI": "https://api.plenartv.de/vtt/d5dc553e-2d5a-419a-b7de-67c114410f5d"
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "plenartv-api",
+        "tagungsabschnitt": 30,
+        "subjectId": "d5dc553e-2d5a-419a-b7de-67c114410f5d",
+        "subjectNumber": 1,
+        "itemNumber": 9.0,
+        "abgId": 203240,
+        "speechType": "RZ",
+        "rednerRaw": "Sina Maria Beckmann",
+        "fraktionRaw": "Bündnis 90/Die Grünen",
+        "streamFileName": "session30_meeting79_132650",
+        "startInStreamSecs": 13599.0,
+        "stopInStreamSecs": 13649.0,
+        "timesAreVideoRelative": false
+      }
+    },
+    {
+      "parliament": "DE-NI",
+      "electoralPeriod": {
+        "number": 19
+      },
+      "session": {
+        "number": 79,
+        "dateStart": "2025-12-15T12:32:48Z",
+        "dateEnd": "2025-12-15T16:48:03Z"
+      },
+      "dateStart": "2025-12-15T16:14:28Z",
+      "dateEnd": "2025-12-15T16:18:56Z",
+      "speechIndex": 57,
+      "originID": "b9b501f4-081c-4b58-885b-fbb3ebac9af3",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 9: Verbesserung von Mobilfunkversorgung und regionalem Roaming in Niedersachsen",
+        "title": "Verbesserung von Mobilfunkversorgung und regionalem Roaming in Niedersachsen",
+        "id": "TOP-9-1",
+        "nativeType": "DE-NI-antrag",
+        "type": "regular"
+      },
+      "people": [
+        {
+          "label": "Grant Hendrik Tonne",
+          "context": "main-speaker",
+          "firstname": "Grant Hendrik",
+          "lastname": "Tonne",
+          "faction": {
+            "label": "SPD",
+            "wid": "Q49768"
+          },
+          "originPersonID": "202229",
+          "wid": "Q998585",
+          "wtype": "PERSON"
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://vod.plenartv.de/stream/session30_meeting79_132650/index.m3u8?start=13658&end=13926",
+        "sourcePage": "https://plenartv.de/tagungsabschnitt/19-30?sitzung=79#rede-b9b501f4-081c-4b58-885b-fbb3ebac9af3",
+        "creator": "Niedersächsischer Landtag",
+        "license": "Niedersächsischer Landtag – Plenar-TV. Die Aufzeichnungen dürfen unter Angabe der Quelle \"Niedersächsischer Landtag\" genutzt werden; Nutzungsbedingungen: https://www.landtag-niedersachsen.de/plenar-tv-nutzungsbedingungen/",
+        "originMediaID": "b9b501f4-081c-4b58-885b-fbb3ebac9af3",
+        "additionalInformation": {
+          "startInStreamSecs": 13658.0,
+          "stopInStreamSecs": 13926.0,
+          "streamFileName": "session30_meeting79_132650",
+          "subtitleVttURI": "https://api.plenartv.de/vtt/d5dc553e-2d5a-419a-b7de-67c114410f5d"
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "plenartv-api",
+        "tagungsabschnitt": 30,
+        "subjectId": "d5dc553e-2d5a-419a-b7de-67c114410f5d",
+        "subjectNumber": 1,
+        "itemNumber": 9.0,
+        "abgId": 202229,
+        "speechType": "RZ",
+        "rednerRaw": "Grant Hendrik Tonne",
+        "fraktionRaw": "SPD",
+        "streamFileName": "session30_meeting79_132650",
+        "startInStreamSecs": 13658.0,
+        "stopInStreamSecs": 13926.0,
+        "timesAreVideoRelative": false
+      }
+    },
+    {
+      "parliament": "DE-NI",
+      "electoralPeriod": {
+        "number": 19
+      },
+      "session": {
+        "number": 79,
+        "dateStart": "2025-12-15T12:32:48Z",
+        "dateEnd": "2025-12-15T16:48:03Z"
+      },
+      "dateStart": "2025-12-15T16:20:29Z",
+      "dateEnd": "2025-12-15T16:24:18Z",
+      "speechIndex": 58,
+      "originID": "f46c0f90-7146-40ad-9013-1f9bee8f231f",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 10: Verlässliche Arzneimittelversorgung in Niedersachsen endlich herstellen",
+        "title": "Verlässliche Arzneimittelversorgung in Niedersachsen endlich herstellen",
+        "id": "TOP-10-1",
+        "nativeType": "DE-NI-antrag",
+        "type": "regular"
+      },
+      "people": [
+        {
+          "label": "Delia Klages",
+          "context": "main-speaker",
+          "firstname": "Delia",
+          "lastname": "Klages",
+          "faction": {
+            "label": "AfD",
+            "wid": "Q6721203"
+          },
+          "originPersonID": "203214",
+          "wid": "Q115216160",
+          "wtype": "PERSON"
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://vod.plenartv.de/stream/session30_meeting79_132650/index.m3u8?start=14019&end=14248",
+        "sourcePage": "https://plenartv.de/tagungsabschnitt/19-30?sitzung=79#rede-f46c0f90-7146-40ad-9013-1f9bee8f231f",
+        "creator": "Niedersächsischer Landtag",
+        "license": "Niedersächsischer Landtag – Plenar-TV. Die Aufzeichnungen dürfen unter Angabe der Quelle \"Niedersächsischer Landtag\" genutzt werden; Nutzungsbedingungen: https://www.landtag-niedersachsen.de/plenar-tv-nutzungsbedingungen/",
+        "originMediaID": "f46c0f90-7146-40ad-9013-1f9bee8f231f",
+        "additionalInformation": {
+          "startInStreamSecs": 14019.0,
+          "stopInStreamSecs": 14248.0,
+          "streamFileName": "session30_meeting79_132650",
+          "subtitleVttURI": "https://api.plenartv.de/vtt/cfa7f36e-d236-413e-af24-7027928b8d78"
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "plenartv-api",
+        "tagungsabschnitt": 30,
+        "subjectId": "cfa7f36e-d236-413e-af24-7027928b8d78",
+        "subjectNumber": 1,
+        "itemNumber": 10.0,
+        "abgId": 203214,
+        "speechType": "RZ",
+        "rednerRaw": "Delia Klages",
+        "fraktionRaw": "AfD",
+        "streamFileName": "session30_meeting79_132650",
+        "startInStreamSecs": 14019.0,
+        "stopInStreamSecs": 14248.0,
+        "timesAreVideoRelative": false
+      }
+    },
+    {
+      "parliament": "DE-NI",
+      "electoralPeriod": {
+        "number": 19
+      },
+      "session": {
+        "number": 79,
+        "dateStart": "2025-12-15T12:32:48Z",
+        "dateEnd": "2025-12-15T16:48:03Z"
+      },
+      "dateStart": "2025-12-15T16:24:34Z",
+      "dateEnd": "2025-12-15T16:29:22Z",
+      "speechIndex": 59,
+      "originID": "fb864e62-32c8-47cb-91de-36864993a7de",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 10: Verlässliche Arzneimittelversorgung in Niedersachsen endlich herstellen",
+        "title": "Verlässliche Arzneimittelversorgung in Niedersachsen endlich herstellen",
+        "id": "TOP-10-1",
+        "nativeType": "DE-NI-antrag",
+        "type": "regular"
+      },
+      "people": [
+        {
+          "label": "Jan Bauer",
+          "context": "main-speaker",
+          "firstname": "Jan",
+          "lastname": "Bauer",
+          "faction": {
+            "label": "CDU",
+            "wid": "Q49762"
+          },
+          "originPersonID": "203219",
+          "wid": "Q115268084",
+          "wtype": "PERSON"
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://vod.plenartv.de/stream/session30_meeting79_132650/index.m3u8?start=14264&end=14552",
+        "sourcePage": "https://plenartv.de/tagungsabschnitt/19-30?sitzung=79#rede-fb864e62-32c8-47cb-91de-36864993a7de",
+        "creator": "Niedersächsischer Landtag",
+        "license": "Niedersächsischer Landtag – Plenar-TV. Die Aufzeichnungen dürfen unter Angabe der Quelle \"Niedersächsischer Landtag\" genutzt werden; Nutzungsbedingungen: https://www.landtag-niedersachsen.de/plenar-tv-nutzungsbedingungen/",
+        "originMediaID": "fb864e62-32c8-47cb-91de-36864993a7de",
+        "additionalInformation": {
+          "startInStreamSecs": 14264.0,
+          "stopInStreamSecs": 14552.0,
+          "streamFileName": "session30_meeting79_132650",
+          "subtitleVttURI": "https://api.plenartv.de/vtt/cfa7f36e-d236-413e-af24-7027928b8d78"
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "plenartv-api",
+        "tagungsabschnitt": 30,
+        "subjectId": "cfa7f36e-d236-413e-af24-7027928b8d78",
+        "subjectNumber": 1,
+        "itemNumber": 10.0,
+        "abgId": 203219,
+        "speechType": "RZ",
+        "rednerRaw": "Jan Bauer",
+        "fraktionRaw": "CDU",
+        "streamFileName": "session30_meeting79_132650",
+        "startInStreamSecs": 14264.0,
+        "stopInStreamSecs": 14552.0,
+        "timesAreVideoRelative": false
+      }
+    },
+    {
+      "parliament": "DE-NI",
+      "electoralPeriod": {
+        "number": 19
+      },
+      "session": {
+        "number": 79,
+        "dateStart": "2025-12-15T12:32:48Z",
+        "dateEnd": "2025-12-15T16:48:03Z"
+      },
+      "dateStart": "2025-12-15T16:29:47Z",
+      "dateEnd": "2025-12-15T16:36:11Z",
+      "speechIndex": 60,
+      "originID": "0bfd1c93-c238-4ef7-80dc-8d245a802c67",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 10: Verlässliche Arzneimittelversorgung in Niedersachsen endlich herstellen",
+        "title": "Verlässliche Arzneimittelversorgung in Niedersachsen endlich herstellen",
+        "id": "TOP-10-1",
+        "nativeType": "DE-NI-antrag",
+        "type": "regular"
+      },
+      "people": [
+        {
+          "label": "Andrea Prell",
+          "context": "main-speaker",
+          "firstname": "Andrea",
+          "lastname": "Prell",
+          "faction": {
+            "label": "SPD",
+            "wid": "Q49768"
+          },
+          "originPersonID": "203228",
+          "wid": "Q115270078",
+          "wtype": "PERSON"
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://vod.plenartv.de/stream/session30_meeting79_132650/index.m3u8?start=14577&end=14961",
+        "sourcePage": "https://plenartv.de/tagungsabschnitt/19-30?sitzung=79#rede-0bfd1c93-c238-4ef7-80dc-8d245a802c67",
+        "creator": "Niedersächsischer Landtag",
+        "license": "Niedersächsischer Landtag – Plenar-TV. Die Aufzeichnungen dürfen unter Angabe der Quelle \"Niedersächsischer Landtag\" genutzt werden; Nutzungsbedingungen: https://www.landtag-niedersachsen.de/plenar-tv-nutzungsbedingungen/",
+        "originMediaID": "0bfd1c93-c238-4ef7-80dc-8d245a802c67",
+        "additionalInformation": {
+          "startInStreamSecs": 14577.0,
+          "stopInStreamSecs": 14961.0,
+          "streamFileName": "session30_meeting79_132650",
+          "subtitleVttURI": "https://api.plenartv.de/vtt/cfa7f36e-d236-413e-af24-7027928b8d78"
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "plenartv-api",
+        "tagungsabschnitt": 30,
+        "subjectId": "cfa7f36e-d236-413e-af24-7027928b8d78",
+        "subjectNumber": 1,
+        "itemNumber": 10.0,
+        "abgId": 203228,
+        "speechType": "RZ",
+        "rednerRaw": "Andrea Prell",
+        "fraktionRaw": "SPD",
+        "streamFileName": "session30_meeting79_132650",
+        "startInStreamSecs": 14577.0,
+        "stopInStreamSecs": 14961.0,
+        "timesAreVideoRelative": false
+      }
+    },
+    {
+      "parliament": "DE-NI",
+      "electoralPeriod": {
+        "number": 19
+      },
+      "session": {
+        "number": 79,
+        "dateStart": "2025-12-15T12:32:48Z",
+        "dateEnd": "2025-12-15T16:48:03Z"
+      },
+      "dateStart": "2025-12-15T16:36:24Z",
+      "dateEnd": "2025-12-15T16:37:37Z",
+      "speechIndex": 61,
+      "originID": "2e68f601-7f84-49b2-be01-9374eef5e7c9",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 10: Verlässliche Arzneimittelversorgung in Niedersachsen endlich herstellen",
+        "title": "Verlässliche Arzneimittelversorgung in Niedersachsen endlich herstellen",
+        "id": "TOP-10-1",
+        "nativeType": "DE-NI-antrag",
+        "type": "regular"
+      },
+      "people": [
+        {
+          "label": "Delia Klages",
+          "context": "speaker",
+          "firstname": "Delia",
+          "lastname": "Klages",
+          "faction": {
+            "label": "AfD",
+            "wid": "Q6721203"
+          },
+          "originPersonID": "203214",
+          "wid": "Q115216160",
+          "wtype": "PERSON"
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://vod.plenartv.de/stream/session30_meeting79_132650/index.m3u8?start=14974&end=15047",
+        "sourcePage": "https://plenartv.de/tagungsabschnitt/19-30?sitzung=79#rede-2e68f601-7f84-49b2-be01-9374eef5e7c9",
+        "creator": "Niedersächsischer Landtag",
+        "license": "Niedersächsischer Landtag – Plenar-TV. Die Aufzeichnungen dürfen unter Angabe der Quelle \"Niedersächsischer Landtag\" genutzt werden; Nutzungsbedingungen: https://www.landtag-niedersachsen.de/plenar-tv-nutzungsbedingungen/",
+        "originMediaID": "2e68f601-7f84-49b2-be01-9374eef5e7c9",
+        "additionalInformation": {
+          "startInStreamSecs": 14974.0,
+          "stopInStreamSecs": 15047.0,
+          "streamFileName": "session30_meeting79_132650",
+          "subtitleVttURI": "https://api.plenartv.de/vtt/cfa7f36e-d236-413e-af24-7027928b8d78"
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "plenartv-api",
+        "tagungsabschnitt": 30,
+        "subjectId": "cfa7f36e-d236-413e-af24-7027928b8d78",
+        "subjectNumber": 1,
+        "itemNumber": 10.0,
+        "abgId": 203214,
+        "speechType": "KI",
+        "rednerRaw": "Delia Klages",
+        "fraktionRaw": "AfD",
+        "streamFileName": "session30_meeting79_132650",
+        "startInStreamSecs": 14974.0,
+        "stopInStreamSecs": 15047.0,
+        "timesAreVideoRelative": false
+      }
+    },
+    {
+      "parliament": "DE-NI",
+      "electoralPeriod": {
+        "number": 19
+      },
+      "session": {
+        "number": 79,
+        "dateStart": "2025-12-15T12:32:48Z",
+        "dateEnd": "2025-12-15T16:48:03Z"
+      },
+      "dateStart": "2025-12-15T16:37:44Z",
+      "dateEnd": "2025-12-15T16:38:38Z",
+      "speechIndex": 62,
+      "originID": "bd72628a-095e-46bd-b969-0bd16f122539",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 10: Verlässliche Arzneimittelversorgung in Niedersachsen endlich herstellen",
+        "title": "Verlässliche Arzneimittelversorgung in Niedersachsen endlich herstellen",
+        "id": "TOP-10-1",
+        "nativeType": "DE-NI-antrag",
+        "type": "regular"
+      },
+      "people": [
+        {
+          "label": "Andrea Prell",
+          "context": "speaker",
+          "firstname": "Andrea",
+          "lastname": "Prell",
+          "faction": {
+            "label": "SPD",
+            "wid": "Q49768"
+          },
+          "originPersonID": "203228",
+          "wid": "Q115270078",
+          "wtype": "PERSON"
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://vod.plenartv.de/stream/session30_meeting79_132650/index.m3u8?start=15054&end=15108",
+        "sourcePage": "https://plenartv.de/tagungsabschnitt/19-30?sitzung=79#rede-bd72628a-095e-46bd-b969-0bd16f122539",
+        "creator": "Niedersächsischer Landtag",
+        "license": "Niedersächsischer Landtag – Plenar-TV. Die Aufzeichnungen dürfen unter Angabe der Quelle \"Niedersächsischer Landtag\" genutzt werden; Nutzungsbedingungen: https://www.landtag-niedersachsen.de/plenar-tv-nutzungsbedingungen/",
+        "originMediaID": "bd72628a-095e-46bd-b969-0bd16f122539",
+        "additionalInformation": {
+          "startInStreamSecs": 15054.0,
+          "stopInStreamSecs": 15108.0,
+          "streamFileName": "session30_meeting79_132650",
+          "subtitleVttURI": "https://api.plenartv.de/vtt/cfa7f36e-d236-413e-af24-7027928b8d78"
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "plenartv-api",
+        "tagungsabschnitt": 30,
+        "subjectId": "cfa7f36e-d236-413e-af24-7027928b8d78",
+        "subjectNumber": 1,
+        "itemNumber": 10.0,
+        "abgId": 203228,
+        "speechType": "KI",
+        "rednerRaw": "Andrea Prell",
+        "fraktionRaw": "SPD",
+        "streamFileName": "session30_meeting79_132650",
+        "startInStreamSecs": 15054.0,
+        "stopInStreamSecs": 15108.0,
+        "timesAreVideoRelative": false
+      }
+    },
+    {
+      "parliament": "DE-NI",
+      "electoralPeriod": {
+        "number": 19
+      },
+      "session": {
+        "number": 79,
+        "dateStart": "2025-12-15T12:32:48Z",
+        "dateEnd": "2025-12-15T16:48:03Z"
+      },
+      "dateStart": "2025-12-15T16:38:58Z",
+      "dateEnd": "2025-12-15T16:41:26Z",
+      "speechIndex": 63,
+      "originID": "e91e795b-3caf-4b10-b5a9-eda717f51c24",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 10: Verlässliche Arzneimittelversorgung in Niedersachsen endlich herstellen",
+        "title": "Verlässliche Arzneimittelversorgung in Niedersachsen endlich herstellen",
+        "id": "TOP-10-1",
+        "nativeType": "DE-NI-antrag",
+        "type": "regular"
+      },
+      "people": [
+        {
+          "label": "Eva Viehoff",
+          "context": "main-speaker",
+          "firstname": "Eva",
+          "lastname": "Viehoff",
+          "faction": {
+            "label": "Bündnis 90/Die Grünen",
+            "wid": "Q49766"
+          },
+          "originPersonID": "202784",
+          "wid": "Q42401498",
+          "wtype": "PERSON"
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://vod.plenartv.de/stream/session30_meeting79_132650/index.m3u8?start=15128&end=15276",
+        "sourcePage": "https://plenartv.de/tagungsabschnitt/19-30?sitzung=79#rede-e91e795b-3caf-4b10-b5a9-eda717f51c24",
+        "creator": "Niedersächsischer Landtag",
+        "license": "Niedersächsischer Landtag – Plenar-TV. Die Aufzeichnungen dürfen unter Angabe der Quelle \"Niedersächsischer Landtag\" genutzt werden; Nutzungsbedingungen: https://www.landtag-niedersachsen.de/plenar-tv-nutzungsbedingungen/",
+        "originMediaID": "e91e795b-3caf-4b10-b5a9-eda717f51c24",
+        "additionalInformation": {
+          "startInStreamSecs": 15128.0,
+          "stopInStreamSecs": 15276.0,
+          "streamFileName": "session30_meeting79_132650",
+          "subtitleVttURI": "https://api.plenartv.de/vtt/cfa7f36e-d236-413e-af24-7027928b8d78"
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "plenartv-api",
+        "tagungsabschnitt": 30,
+        "subjectId": "cfa7f36e-d236-413e-af24-7027928b8d78",
+        "subjectNumber": 1,
+        "itemNumber": 10.0,
+        "abgId": 202784,
+        "speechType": "RZ",
+        "rednerRaw": "Eva Viehoff",
+        "fraktionRaw": "Bündnis 90/Die Grünen",
+        "streamFileName": "session30_meeting79_132650",
+        "startInStreamSecs": 15128.0,
+        "stopInStreamSecs": 15276.0,
+        "timesAreVideoRelative": false
+      }
+    },
+    {
+      "parliament": "DE-NI",
+      "electoralPeriod": {
+        "number": 19
+      },
+      "session": {
+        "number": 79,
+        "dateStart": "2025-12-15T12:32:48Z",
+        "dateEnd": "2025-12-15T16:48:03Z"
+      },
+      "dateStart": "2025-12-15T16:41:50Z",
+      "dateEnd": "2025-12-15T16:48:03Z",
+      "speechIndex": 64,
+      "originID": "806fff1e-c72a-4c2b-98a8-2df68330cd76",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 10: Verlässliche Arzneimittelversorgung in Niedersachsen endlich herstellen",
+        "title": "Verlässliche Arzneimittelversorgung in Niedersachsen endlich herstellen",
+        "id": "TOP-10-1",
+        "nativeType": "DE-NI-antrag",
+        "type": "regular"
+      },
+      "people": [
+        {
+          "label": "Andreas Philippi",
+          "context": "main-speaker",
+          "firstname": "Andreas",
+          "lastname": "Philippi",
+          "originPersonID": "203310"
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://vod.plenartv.de/stream/session30_meeting79_132650/index.m3u8?start=15300&end=15673",
+        "sourcePage": "https://plenartv.de/tagungsabschnitt/19-30?sitzung=79#rede-806fff1e-c72a-4c2b-98a8-2df68330cd76",
+        "creator": "Niedersächsischer Landtag",
+        "license": "Niedersächsischer Landtag – Plenar-TV. Die Aufzeichnungen dürfen unter Angabe der Quelle \"Niedersächsischer Landtag\" genutzt werden; Nutzungsbedingungen: https://www.landtag-niedersachsen.de/plenar-tv-nutzungsbedingungen/",
+        "originMediaID": "806fff1e-c72a-4c2b-98a8-2df68330cd76",
+        "additionalInformation": {
+          "startInStreamSecs": 15300.0,
+          "stopInStreamSecs": 15673.0,
+          "streamFileName": "session30_meeting79_132650",
+          "subtitleVttURI": "https://api.plenartv.de/vtt/cfa7f36e-d236-413e-af24-7027928b8d78"
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "plenartv-api",
+        "tagungsabschnitt": 30,
+        "subjectId": "cfa7f36e-d236-413e-af24-7027928b8d78",
+        "subjectNumber": 1,
+        "itemNumber": 10.0,
+        "abgId": 203310,
+        "speechType": "RZ",
+        "rednerRaw": "Andreas Philippi",
+        "fraktionRaw": "",
+        "streamFileName": "session30_meeting79_132650",
+        "startInStreamSecs": 15300.0,
+        "stopInStreamSecs": 15673.0,
+        "timesAreVideoRelative": false
+      }
+    }
+  ]
+}

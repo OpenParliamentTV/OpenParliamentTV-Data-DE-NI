@@ -1,0 +1,834 @@
+{
+  "session_id": "19079",
+  "period": 19,
+  "sitzung": 79,
+  "tagungsabschnitt": 30,
+  "date": "2025-12-15",
+  "meeting_id": "87c422d0-0d5f-42b1-906c-610af4b47741",
+  "session_page_url": "https://plenartv.de/tagungsabschnitt/19-30?sitzung=79",
+  "subjects": [
+    {
+      "subject_id": "81f07a54-95f6-4cb5-97e5-233c7cbc4952",
+      "subject_number": 1,
+      "item_number": 1.0,
+      "item_beginning": "13:32:19",
+      "title": "Mitteilungen der Präsidentin",
+      "subject_art": "",
+      "consultation_type": "Mitteilungen",
+      "applicant": "",
+      "incoming_print": "",
+      "incoming_print_link": "",
+      "stream_file_name": "session30_meeting79_132650",
+      "video_start_time": "2025-12-15T12:26:50.440000",
+      "video_offset": 0,
+      "vtt_offset": 1.0,
+      "speeches": [
+        {
+          "timing_id": "b2536ca5-fc47-4c19-a926-b30a22301ef0",
+          "abg_id": 202787,
+          "surname": "Naber",
+          "name": "Hanna",
+          "fraktion": "SPD",
+          "speech_type": "Mitteilungen",
+          "start_secs": 358.0,
+          "stop_secs": 692.0
+        }
+      ]
+    },
+    {
+      "subject_id": "c3999e3c-067f-43b1-8562-1e3950aada34",
+      "subject_number": 1,
+      "item_number": 4.0,
+      "item_beginning": "14:11:40",
+      "title": "Entwurf eines Gesetzes zur Einrichtung eines Parlamentarischen Kontrollgremiums in Angelegenheiten des Verfassungsschutzes",
+      "subject_art": "Gesetzentwurf",
+      "consultation_type": "Abschließende Beratung",
+      "applicant": "Fraktion der SPD, Fraktion der CDU, Fraktion Bündnis 90/Die Grünen",
+      "incoming_print": "19/7238",
+      "incoming_print_link": "https://www.landtag-niedersachsen.de/Drucksachen/Drucksachen_19_07500/07001-07500/19-07238.pdf",
+      "stream_file_name": "session30_meeting79_132650",
+      "video_start_time": "2025-12-15T12:26:50.440000",
+      "video_offset": 0,
+      "vtt_offset": 1.0,
+      "speeches": [
+        {
+          "timing_id": "51acdd31-45d7-47ba-a9d1-65f886091637",
+          "abg_id": 202808,
+          "surname": "Zinke",
+          "name": "Sebastian",
+          "fraktion": "SPD",
+          "speech_type": "RZ",
+          "start_secs": 2753.0,
+          "stop_secs": 3006.0
+        },
+        {
+          "timing_id": "e0247ea9-dd42-40b4-a17c-3c7e709cac4d",
+          "abg_id": 203223,
+          "surname": "Hermann",
+          "name": "Carina",
+          "fraktion": "CDU",
+          "speech_type": "RZ",
+          "start_secs": 3032.0,
+          "stop_secs": 3430.0
+        },
+        {
+          "timing_id": "3c9cdc50-e432-4ff5-8b94-959a74f9748e",
+          "abg_id": 202777,
+          "surname": "Wichmann",
+          "name": "Klaus",
+          "fraktion": "AfD",
+          "speech_type": "RZ",
+          "start_secs": 3448.0,
+          "stop_secs": 4029.0
+        },
+        {
+          "timing_id": "031c0ede-01aa-4422-8edf-57994579a15a",
+          "abg_id": 203264,
+          "surname": "Camuz",
+          "name": "Evrim",
+          "fraktion": "Bündnis 90/Die Grünen",
+          "speech_type": "RZ",
+          "start_secs": 4084.0,
+          "stop_secs": 4378.0
+        },
+        {
+          "timing_id": "85cab3b2-2f43-4562-ba79-cd444821bc6c",
+          "abg_id": 202808,
+          "surname": "Zinke",
+          "name": "Sebastian",
+          "fraktion": "SPD",
+          "speech_type": "RZ",
+          "start_secs": 4401.0,
+          "stop_secs": 4726.0
+        },
+        {
+          "timing_id": "8c8dcbcc-ed9b-4122-b5d9-0c63e5818581",
+          "abg_id": 202777,
+          "surname": "Wichmann",
+          "name": "Klaus",
+          "fraktion": "AfD",
+          "speech_type": "KI",
+          "start_secs": 4745.0,
+          "stop_secs": 4790.0
+        },
+        {
+          "timing_id": "08b36463-eb05-4779-a143-c97fd9fcfc45",
+          "abg_id": 202808,
+          "surname": "Zinke",
+          "name": "Sebastian",
+          "fraktion": "SPD",
+          "speech_type": "KI",
+          "start_secs": 4794.0,
+          "stop_secs": 4867.0
+        }
+      ]
+    },
+    {
+      "subject_id": "f218964c-ac95-4b85-a42f-bc6383f5bb91",
+      "subject_number": 1,
+      "item_number": 7.0,
+      "item_beginning": "15:40:29",
+      "title": "Entwurf eines Gesetzes zur Änderung des Niedersächsischen Wassergesetzes, anderer Gesetze und einer Verordnung",
+      "subject_art": "Gesetzentwurf",
+      "consultation_type": "Erste Beratung",
+      "applicant": "Landesregierung",
+      "incoming_print": "19/9248",
+      "incoming_print_link": "https://www.landtag-niedersachsen.de/Drucksachen/Drucksachen_19_10000/09001-09500/19-09248.pdf",
+      "stream_file_name": "session30_meeting79_132650",
+      "video_start_time": "2025-12-15T12:26:50.440000",
+      "video_offset": 0,
+      "vtt_offset": 1.0,
+      "speeches": [
+        {
+          "timing_id": "15061ad8-98dd-4205-9f64-e3d32b32760f",
+          "abg_id": 202209,
+          "surname": "Meyer",
+          "name": "Christian",
+          "fraktion": "",
+          "speech_type": "RZ",
+          "start_secs": 8041.0,
+          "stop_secs": 8436.0
+        },
+        {
+          "timing_id": "1dbde4e5-4b83-4404-aaba-752f0e80a1e2",
+          "abg_id": 203213,
+          "surname": "Schledde",
+          "name": "Ansgar Georg",
+          "fraktion": "AfD",
+          "speech_type": "RZ",
+          "start_secs": 8454.0,
+          "stop_secs": 8638.0
+        },
+        {
+          "timing_id": "aab25709-eae3-4f79-98dd-fc77c90ef635",
+          "abg_id": 202804,
+          "surname": "Hujahn",
+          "name": "Gerd",
+          "fraktion": "SPD",
+          "speech_type": "RZ",
+          "start_secs": 8654.0,
+          "stop_secs": 8825.0
+        },
+        {
+          "timing_id": "23acee10-5bf2-4937-b14c-bb500904a11e",
+          "abg_id": 202763,
+          "surname": "Schmädeke",
+          "name": "Frank",
+          "fraktion": "CDU",
+          "speech_type": "RZ",
+          "start_secs": 8850.0,
+          "stop_secs": 9313.0
+        },
+        {
+          "timing_id": "cea4692e-e84b-480c-86f8-fb5fb3db0ea5",
+          "abg_id": 203301,
+          "surname": "Kellermann",
+          "name": "Britta",
+          "fraktion": "Bündnis 90/Die Grünen",
+          "speech_type": "RZ",
+          "start_secs": 9333.0,
+          "stop_secs": 9536.0
+        }
+      ]
+    },
+    {
+      "subject_id": "35415765-f25c-4998-a21b-c217d93efbf8",
+      "subject_number": 1,
+      "item_number": 5.0,
+      "item_beginning": "15:01:40",
+      "title": "Entwurf eines Gesetzes zur Änderung des Niedersächsischen Gesetzes über den Finanzausgleich",
+      "subject_art": "Gesetzentwurf",
+      "consultation_type": "Abschließende Beratung",
+      "applicant": "Landesregierung",
+      "incoming_print": "19/8503",
+      "incoming_print_link": "https://www.landtag-niedersachsen.de/Drucksachen/Drucksachen_19_10000/08501-09000/19-08503.pdf",
+      "stream_file_name": "session30_meeting79_132650",
+      "video_start_time": "2025-12-15T12:26:50.440000",
+      "video_offset": 0,
+      "vtt_offset": 1.0,
+      "speeches": [
+        {
+          "timing_id": "494527d5-6384-4781-9dae-a8f771f7bfc6",
+          "abg_id": 203199,
+          "surname": "Schneider",
+          "name": "Julius",
+          "fraktion": "SPD",
+          "speech_type": "RZ",
+          "start_secs": 5745.0,
+          "stop_secs": 6006.0
+        },
+        {
+          "timing_id": "621ff632-a2c4-4c2a-932e-b7ff5acf3b57",
+          "abg_id": 203273,
+          "surname": "Marzischewski-Drewes",
+          "name": "Stefan",
+          "fraktion": "AfD",
+          "speech_type": "RZ",
+          "start_secs": 6021.0,
+          "stop_secs": 6195.0
+        },
+        {
+          "timing_id": "38f84198-704e-478b-af03-22d58f9e5097",
+          "abg_id": 203270,
+          "surname": "Weippert",
+          "name": "Nadja",
+          "fraktion": "Bündnis 90/Die Grünen",
+          "speech_type": "RZ",
+          "start_secs": 6231.0,
+          "stop_secs": 6440.0
+        },
+        {
+          "timing_id": "a031ba9a-54c8-44b8-8908-45df986cc443",
+          "abg_id": 203234,
+          "surname": "Butter",
+          "name": "Birgit",
+          "fraktion": "CDU",
+          "speech_type": "RZ",
+          "start_secs": 6461.0,
+          "stop_secs": 6797.0
+        },
+        {
+          "timing_id": "91bd4fcd-ec8c-4ce8-9ac0-4de2ca118845",
+          "abg_id": 202134,
+          "surname": "Behrens",
+          "name": "Daniela",
+          "fraktion": "SPD",
+          "speech_type": "RZ",
+          "start_secs": 6810.0,
+          "stop_secs": 7092.0
+        }
+      ]
+    },
+    {
+      "subject_id": "b8da85a6-c67e-4839-97ed-b76061cc75fa",
+      "subject_number": 1,
+      "item_number": 8.0,
+      "item_beginning": "16:06:18",
+      "title": "Entwurf eines Gesetzes zur Änderung des Niedersächsischen Spielhallengesetzes",
+      "subject_art": "Gesetzentwurf",
+      "consultation_type": "Erste Beratung",
+      "applicant": "Fraktion der CDU",
+      "incoming_print": "19/9260",
+      "incoming_print_link": "https://www.landtag-niedersachsen.de/Drucksachen/Drucksachen_19_10000/09001-09500/19-09260.pdf",
+      "stream_file_name": "session30_meeting79_132650",
+      "video_start_time": "2025-12-15T12:26:50.440000",
+      "video_offset": 0,
+      "vtt_offset": 1.0,
+      "speeches": [
+        {
+          "timing_id": "3d7d35ba-0945-481d-93ec-bc2c5dee75b0",
+          "abg_id": 202767,
+          "surname": "Dorendorf",
+          "name": "Uwe",
+          "fraktion": "CDU",
+          "speech_type": "RZ",
+          "start_secs": 9617.0,
+          "stop_secs": 9963.0
+        },
+        {
+          "timing_id": "a3f6070b-458c-4048-9059-a6848bf20899",
+          "abg_id": 202221,
+          "surname": "Siebels",
+          "name": "Wiard",
+          "fraktion": "SPD",
+          "speech_type": "Zwischenfrage",
+          "start_secs": 9962.0,
+          "stop_secs": 9999.0
+        },
+        {
+          "timing_id": "48593fb2-4afc-40e2-96f2-55fc7ae09c12",
+          "abg_id": 202767,
+          "surname": "Dorendorf",
+          "name": "Uwe",
+          "fraktion": "CDU",
+          "speech_type": "Antwort",
+          "start_secs": 9992.0,
+          "stop_secs": 10026.0
+        },
+        {
+          "timing_id": "018829c7-783f-4a82-aaf5-536b9da7bc2f",
+          "abg_id": 202767,
+          "surname": "Dorendorf",
+          "name": "Uwe",
+          "fraktion": "CDU",
+          "speech_type": "RZ",
+          "start_secs": 10018.0,
+          "stop_secs": 10301.0
+        },
+        {
+          "timing_id": "8ac90039-b0af-4b73-b597-ecab753a66c4",
+          "abg_id": 203225,
+          "surname": "Sachtleben",
+          "name": "Heiko",
+          "fraktion": "Bündnis 90/Die Grünen",
+          "speech_type": "RZ",
+          "start_secs": 10327.0,
+          "stop_secs": 10565.0
+        },
+        {
+          "timing_id": "8d730613-5438-4e2e-8aed-2e1fa462a143",
+          "abg_id": 202767,
+          "surname": "Dorendorf",
+          "name": "Uwe",
+          "fraktion": "CDU",
+          "speech_type": "KI",
+          "start_secs": 10577.0,
+          "stop_secs": 10671.0
+        },
+        {
+          "timing_id": "a076df1d-c209-414d-ac87-e975bfb5bd2c",
+          "abg_id": 203209,
+          "surname": "Ebken",
+          "name": "Oliver",
+          "fraktion": "SPD",
+          "speech_type": "RZ",
+          "start_secs": 10701.0,
+          "stop_secs": 11110.0
+        },
+        {
+          "timing_id": "3010e4c1-5e91-420e-8042-48e9363a6ce1",
+          "abg_id": 202767,
+          "surname": "Dorendorf",
+          "name": "Uwe",
+          "fraktion": "CDU",
+          "speech_type": "KI",
+          "start_secs": 11121.0,
+          "stop_secs": 11206.0
+        },
+        {
+          "timing_id": "48bc51f8-879c-47b4-b767-37a1910f4340",
+          "abg_id": 203209,
+          "surname": "Ebken",
+          "name": "Oliver",
+          "fraktion": "SPD",
+          "speech_type": "KI",
+          "start_secs": 11211.0,
+          "stop_secs": 11264.0
+        },
+        {
+          "timing_id": "ec75ac5e-be3b-40c2-8c2e-a6c06f229c75",
+          "abg_id": 203275,
+          "surname": "Najafi",
+          "name": "Omid",
+          "fraktion": "AfD",
+          "speech_type": "RZ",
+          "start_secs": 11277.0,
+          "stop_secs": 11353.0
+        },
+        {
+          "timing_id": "1600770c-be01-4564-8539-d2ce857f99cd",
+          "abg_id": 203225,
+          "surname": "Sachtleben",
+          "name": "Heiko",
+          "fraktion": "Bündnis 90/Die Grünen",
+          "speech_type": "KI",
+          "start_secs": 11371.0,
+          "stop_secs": 11436.0
+        },
+        {
+          "timing_id": "2a84e23f-703e-466f-a536-0405aa5d3d9a",
+          "abg_id": 203275,
+          "surname": "Najafi",
+          "name": "Omid",
+          "fraktion": "AfD",
+          "speech_type": "KI",
+          "start_secs": 11447.0,
+          "stop_secs": 11487.0
+        },
+        {
+          "timing_id": "e929d8c5-1e17-4112-a7eb-57ae36ef5a80",
+          "abg_id": 202229,
+          "surname": "Tonne",
+          "name": "Grant Hendrik",
+          "fraktion": "SPD",
+          "speech_type": "RZ",
+          "start_secs": 11507.0,
+          "stop_secs": 11650.0
+        },
+        {
+          "timing_id": "14dd6479-bcb1-40e7-96ed-7172ddf4c4ef",
+          "abg_id": 202769,
+          "surname": "Scharrelmann",
+          "name": "Marcel",
+          "fraktion": "CDU",
+          "speech_type": "Zwischenfrage",
+          "start_secs": 11650.0,
+          "stop_secs": 11703.0
+        },
+        {
+          "timing_id": "eadb9952-5848-48cf-80a1-dcaa10eebae9",
+          "abg_id": 202229,
+          "surname": "Tonne",
+          "name": "Grant Hendrik",
+          "fraktion": "SPD",
+          "speech_type": "Antwort",
+          "start_secs": 11699.0,
+          "stop_secs": 11732.0
+        },
+        {
+          "timing_id": "807acca2-9fed-4970-8deb-2c6dd84f5cef",
+          "abg_id": 1091,
+          "surname": "Nacke",
+          "name": "Jens",
+          "fraktion": "CDU",
+          "speech_type": "Zwischenfrage",
+          "start_secs": 11948.0,
+          "stop_secs": 11982.0
+        },
+        {
+          "timing_id": "89c18672-366c-4323-971e-8ff3ddc95283",
+          "abg_id": 202229,
+          "surname": "Tonne",
+          "name": "Grant Hendrik",
+          "fraktion": "SPD",
+          "speech_type": "Antwort",
+          "start_secs": 11976.0,
+          "stop_secs": 12035.0
+        },
+        {
+          "timing_id": "df9a1c01-4bdc-46a6-ac28-2cc5fab0657b",
+          "abg_id": 203223,
+          "surname": "Hermann",
+          "name": "Carina",
+          "fraktion": "CDU",
+          "speech_type": "Zwischenfrage",
+          "start_secs": 12034.0,
+          "stop_secs": 12063.0
+        },
+        {
+          "timing_id": "035d463c-5bc9-4a7c-96d9-9a536dcb1466",
+          "abg_id": 202229,
+          "surname": "Tonne",
+          "name": "Grant Hendrik",
+          "fraktion": "SPD",
+          "speech_type": "Antwort",
+          "start_secs": 12057.0,
+          "stop_secs": 12081.0
+        },
+        {
+          "timing_id": "cf5bf516-0755-4b7b-a16c-4f8983d98432",
+          "abg_id": 202229,
+          "surname": "Tonne",
+          "name": "Grant Hendrik",
+          "fraktion": "SPD",
+          "speech_type": "RZ",
+          "start_secs": 12073.0,
+          "stop_secs": 12114.0
+        }
+      ]
+    },
+    {
+      "subject_id": "fd50368c-e0f1-416a-bf31-cb7f81289269",
+      "subject_number": 1,
+      "item_number": 6.0,
+      "item_beginning": "15:26:08",
+      "title": "Änderung der Geschäftsordnung des Niedersächsischen Landtages",
+      "subject_art": "Antrag",
+      "consultation_type": "Abschließende Beratung",
+      "applicant": "Fraktion der SPD, Fraktion Bündnis 90/Die Grünen",
+      "incoming_print": "19/9259",
+      "incoming_print_link": "https://www.landtag-niedersachsen.de/Drucksachen/Drucksachen_19_10000/09001-09500/19-09259.pdf",
+      "stream_file_name": "session30_meeting79_132650",
+      "video_start_time": "2025-12-15T12:26:50.440000",
+      "video_offset": 0,
+      "vtt_offset": 1.0,
+      "speeches": [
+        {
+          "timing_id": "65baf9db-49c8-4d8e-9eb5-6e2699837fb4",
+          "abg_id": 202221,
+          "surname": "Siebels",
+          "name": "Wiard",
+          "fraktion": "SPD",
+          "speech_type": "RZ",
+          "start_secs": 7219.0,
+          "stop_secs": 7331.0
+        },
+        {
+          "timing_id": "8677fd36-7e3f-45b2-afb3-99b81978c5d7",
+          "abg_id": 203223,
+          "surname": "Hermann",
+          "name": "Carina",
+          "fraktion": "CDU",
+          "speech_type": "RZ",
+          "start_secs": 7339.0,
+          "stop_secs": 7482.0
+        },
+        {
+          "timing_id": "06390bf9-d276-4238-b7a4-a75c0dddffeb",
+          "abg_id": 202301,
+          "surname": "Bajus",
+          "name": "Volker",
+          "fraktion": "Bündnis 90/Die Grünen",
+          "speech_type": "RZ",
+          "start_secs": 7496.0,
+          "stop_secs": 7629.0
+        },
+        {
+          "timing_id": "81960094-1fbd-4290-817e-e1a21c626d7b",
+          "abg_id": 203241,
+          "surname": "Brockmann",
+          "name": "Jens-Christoph",
+          "fraktion": "AfD",
+          "speech_type": "RZ",
+          "start_secs": 7641.0,
+          "stop_secs": 7754.0
+        },
+        {
+          "timing_id": "a1d2e6ca-3e7b-44cc-b6b3-87f5818e6f24",
+          "abg_id": 202221,
+          "surname": "Siebels",
+          "name": "Wiard",
+          "fraktion": "SPD",
+          "speech_type": "RZ",
+          "start_secs": 7775.0,
+          "stop_secs": 7836.0
+        },
+        {
+          "timing_id": "7b734657-74c6-4819-88c2-a41dc89491d6",
+          "abg_id": 203241,
+          "surname": "Brockmann",
+          "name": "Jens-Christoph",
+          "fraktion": "AfD",
+          "speech_type": "KI",
+          "start_secs": 7853.0,
+          "stop_secs": 7932.0
+        },
+        {
+          "timing_id": "b11410c4-39c6-4530-a736-666812ee9aae",
+          "abg_id": 202221,
+          "surname": "Siebels",
+          "name": "Wiard",
+          "fraktion": "SPD",
+          "speech_type": "KI",
+          "start_secs": 7935.0,
+          "stop_secs": 7983.0
+        }
+      ]
+    },
+    {
+      "subject_id": "c0d462b8-a6fe-4d1b-9a38-071d1b23e389",
+      "subject_number": 1,
+      "item_number": 3.0,
+      "item_beginning": "13:38:21",
+      "title": "Handlungsfähigkeit des Verfassungsschutzes stärken - Verfassungsschutzgesetz grundlegend reformieren",
+      "subject_art": "Antrag",
+      "consultation_type": "Abschließende Beratung",
+      "applicant": "Fraktion der CDU",
+      "incoming_print": "19/5071",
+      "incoming_print_link": "https://www.landtag-niedersachsen.de/Drucksachen/Drucksachen_19_07500/05001-05500/19-05071.pdf",
+      "stream_file_name": "session30_meeting79_132650",
+      "video_start_time": "2025-12-15T12:26:50.440000",
+      "video_offset": 0,
+      "vtt_offset": 1.0,
+      "speeches": [
+        {
+          "timing_id": "7a96d844-1cb1-45f9-bdca-9bcb2907877d",
+          "abg_id": 202808,
+          "surname": "Zinke",
+          "name": "Sebastian",
+          "fraktion": "SPD",
+          "speech_type": "RZ",
+          "start_secs": 782.0,
+          "stop_secs": 1265.0
+        },
+        {
+          "timing_id": "ac285e47-0530-4b14-a327-c5cccce08fae",
+          "abg_id": 202760,
+          "surname": "Plett",
+          "name": "Christoph",
+          "fraktion": "CDU",
+          "speech_type": "RZ",
+          "start_secs": 1301.0,
+          "stop_secs": 1788.0
+        },
+        {
+          "timing_id": "00263a84-4859-4e63-bd49-6f69a00878e6",
+          "abg_id": 203264,
+          "surname": "Camuz",
+          "name": "Evrim",
+          "fraktion": "Bündnis 90/Die Grünen",
+          "speech_type": "RZ",
+          "start_secs": 1826.0,
+          "stop_secs": 2104.0
+        },
+        {
+          "timing_id": "ae506b05-274f-4625-b9f0-13a507bed4de",
+          "abg_id": 202777,
+          "surname": "Wichmann",
+          "name": "Klaus",
+          "fraktion": "AfD",
+          "speech_type": "RZ",
+          "start_secs": 2121.0,
+          "stop_secs": 2203.0
+        },
+        {
+          "timing_id": "a90fd2e5-a360-4fad-aebc-ae65977708c5",
+          "abg_id": 202134,
+          "surname": "Behrens",
+          "name": "Daniela",
+          "fraktion": "SPD",
+          "speech_type": "RZ",
+          "start_secs": 2214.0,
+          "stop_secs": 2577.0
+        }
+      ]
+    },
+    {
+      "subject_id": "d8aae062-7f4a-47ac-abd2-b7a314d566af",
+      "subject_number": 1,
+      "item_number": 2.0,
+      "item_beginning": "13:38:21",
+      "title": "Entwurf eines Gesetzes zur Änderung nachrichtendienstlicher Bestimmungen",
+      "subject_art": "Gesetzentwurf",
+      "consultation_type": "Abschließende Beratung",
+      "applicant": "Landesregierung",
+      "incoming_print": "19/5930",
+      "incoming_print_link": "https://www.landtag-niedersachsen.de/Drucksachen/Drucksachen_19_07500/05501-06000/19-05930.pdf",
+      "stream_file_name": "session30_meeting79_132650",
+      "video_start_time": "2025-12-15T12:26:50.440000",
+      "video_offset": 0,
+      "vtt_offset": 1.0,
+      "speeches": []
+    },
+    {
+      "subject_id": "cfa7f36e-d236-413e-af24-7027928b8d78",
+      "subject_number": 1,
+      "item_number": 10.0,
+      "item_beginning": "17:19:45",
+      "title": "Verlässliche Arzneimittelversorgung in Niedersachsen endlich herstellen",
+      "subject_art": "Antrag",
+      "consultation_type": "Abschließende Beratung",
+      "applicant": "Fraktion der AfD",
+      "incoming_print": "19/6276",
+      "incoming_print_link": "https://www.landtag-niedersachsen.de/Drucksachen/Drucksachen_19_07500/06001-06500/19-06276.pdf",
+      "stream_file_name": "session30_meeting79_132650",
+      "video_start_time": "2025-12-15T12:26:50.440000",
+      "video_offset": 0,
+      "vtt_offset": 1.0,
+      "speeches": [
+        {
+          "timing_id": "f46c0f90-7146-40ad-9013-1f9bee8f231f",
+          "abg_id": 203214,
+          "surname": "Klages",
+          "name": "Delia",
+          "fraktion": "AfD",
+          "speech_type": "RZ",
+          "start_secs": 14019.0,
+          "stop_secs": 14248.0
+        },
+        {
+          "timing_id": "fb864e62-32c8-47cb-91de-36864993a7de",
+          "abg_id": 203219,
+          "surname": "Bauer",
+          "name": "Jan",
+          "fraktion": "CDU",
+          "speech_type": "RZ",
+          "start_secs": 14264.0,
+          "stop_secs": 14552.0
+        },
+        {
+          "timing_id": "0bfd1c93-c238-4ef7-80dc-8d245a802c67",
+          "abg_id": 203228,
+          "surname": "Prell",
+          "name": "Andrea",
+          "fraktion": "SPD",
+          "speech_type": "RZ",
+          "start_secs": 14577.0,
+          "stop_secs": 14961.0
+        },
+        {
+          "timing_id": "2e68f601-7f84-49b2-be01-9374eef5e7c9",
+          "abg_id": 203214,
+          "surname": "Klages",
+          "name": "Delia",
+          "fraktion": "AfD",
+          "speech_type": "KI",
+          "start_secs": 14974.0,
+          "stop_secs": 15047.0
+        },
+        {
+          "timing_id": "bd72628a-095e-46bd-b969-0bd16f122539",
+          "abg_id": 203228,
+          "surname": "Prell",
+          "name": "Andrea",
+          "fraktion": "SPD",
+          "speech_type": "KI",
+          "start_secs": 15054.0,
+          "stop_secs": 15108.0
+        },
+        {
+          "timing_id": "e91e795b-3caf-4b10-b5a9-eda717f51c24",
+          "abg_id": 202784,
+          "surname": "Viehoff",
+          "name": "Eva",
+          "fraktion": "Bündnis 90/Die Grünen",
+          "speech_type": "RZ",
+          "start_secs": 15128.0,
+          "stop_secs": 15276.0
+        },
+        {
+          "timing_id": "806fff1e-c72a-4c2b-98a8-2df68330cd76",
+          "abg_id": 203310,
+          "surname": "Philippi",
+          "name": "Andreas",
+          "fraktion": "",
+          "speech_type": "RZ",
+          "start_secs": 15300.0,
+          "stop_secs": 15673.0
+        }
+      ]
+    },
+    {
+      "subject_id": "d5dc553e-2d5a-419a-b7de-67c114410f5d",
+      "subject_number": 1,
+      "item_number": 9.0,
+      "item_beginning": "16:52:07",
+      "title": "Verbesserung von Mobilfunkversorgung und regionalem Roaming in Niedersachsen",
+      "subject_art": "Antrag",
+      "consultation_type": "Abschließende Beratung",
+      "applicant": "Fraktion der AfD",
+      "incoming_print": "19/7481",
+      "incoming_print_link": "https://www.landtag-niedersachsen.de/Drucksachen/Drucksachen_19_07500/07001-07500/19-07481.pdf",
+      "stream_file_name": "session30_meeting79_132650",
+      "video_start_time": "2025-12-15T12:26:50.440000",
+      "video_offset": 0,
+      "vtt_offset": 1.0,
+      "speeches": [
+        {
+          "timing_id": "16802736-4106-43d3-9757-f713e4d61829",
+          "abg_id": 203275,
+          "surname": "Najafi",
+          "name": "Omid",
+          "fraktion": "AfD",
+          "speech_type": "RZ",
+          "start_secs": 12361.0,
+          "stop_secs": 12597.0
+        },
+        {
+          "timing_id": "21ad7b13-4ecf-419f-a540-2683547f9d06",
+          "abg_id": 203259,
+          "surname": "Willeke",
+          "name": "Christoph",
+          "fraktion": "SPD",
+          "speech_type": "RZ",
+          "start_secs": 12619.0,
+          "stop_secs": 12972.0
+        },
+        {
+          "timing_id": "1f973eb2-427a-4a77-b34c-283f28021369",
+          "abg_id": 203275,
+          "surname": "Najafi",
+          "name": "Omid",
+          "fraktion": "AfD",
+          "speech_type": "KI",
+          "start_secs": 12984.0,
+          "stop_secs": 13094.0
+        },
+        {
+          "timing_id": "73eb60b3-8b91-46bf-a8c2-cbe6d721ecbd",
+          "abg_id": 203259,
+          "surname": "Willeke",
+          "name": "Christoph",
+          "fraktion": "SPD",
+          "speech_type": "KI",
+          "start_secs": 13096.0,
+          "stop_secs": 13189.0
+        },
+        {
+          "timing_id": "f4a34cdf-3c17-47dc-a86a-0239390d6cd9",
+          "abg_id": 203159,
+          "surname": "Thiemann",
+          "name": "Colette",
+          "fraktion": "CDU",
+          "speech_type": "RZ",
+          "start_secs": 13205.0,
+          "stop_secs": 13584.0
+        },
+        {
+          "timing_id": "5ec4336a-6c1c-4d66-95de-bddc1419629e",
+          "abg_id": 203240,
+          "surname": "Beckmann",
+          "name": "Sina Maria",
+          "fraktion": "Bündnis 90/Die Grünen",
+          "speech_type": "RZ",
+          "start_secs": 13599.0,
+          "stop_secs": 13649.0
+        },
+        {
+          "timing_id": "b9b501f4-081c-4b58-885b-fbb3ebac9af3",
+          "abg_id": 202229,
+          "surname": "Tonne",
+          "name": "Grant Hendrik",
+          "fraktion": "SPD",
+          "speech_type": "RZ",
+          "start_secs": 13658.0,
+          "stop_secs": 13926.0
+        }
+      ]
+    }
+  ],
+  "_counts": {
+    "subjects": 10,
+    "speeches": 64
+  }
+}

@@ -1,0 +1,1358 @@
+{
+  "session_id": "19080",
+  "period": 19,
+  "sitzung": 80,
+  "tagungsabschnitt": 30,
+  "date": "2025-12-16",
+  "meeting_id": "0362a4dd-b619-4ea0-9add-0233cf437284",
+  "session_page_url": "https://plenartv.de/tagungsabschnitt/19-30?sitzung=80",
+  "subjects": [
+    {
+      "subject_id": "b401374a-395c-4207-a77b-5f48b25d917f",
+      "subject_number": 1,
+      "item_number": 13.0,
+      "item_beginning": "10:20:53",
+      "title": "Entwurf eines Gesetzes über die Feststellung des Haushaltsplans für das Haushaltsjahr 2026 (Haushaltsgesetz 2026 - HG 2026 -)",
+      "subject_art": "Gesetzentwurf",
+      "consultation_type": "Abschließende Beratung",
+      "applicant": "Landesregierung",
+      "incoming_print": "19/7910 neu",
+      "incoming_print_link": "https://www.landtag-niedersachsen.de/Drucksachen/Drucksachen_19_10000/07501-08000/19-07910.pdf",
+      "stream_file_name": "session30_meeting80_85516",
+      "video_start_time": "2025-12-16T07:55:16.638000",
+      "video_offset": 0,
+      "vtt_offset": 0,
+      "speeches": []
+    },
+    {
+      "subject_id": "4d8f4381-9584-430b-b685-ce438ad47983",
+      "subject_number": 1,
+      "item_number": 22.0,
+      "item_beginning": "16:20:25",
+      "title": "Haushaltsberatungen 2026 - Haushaltsschwerpunkt: Soziales, Arbeit, Gesundheit und Gleichstellung",
+      "subject_art": "",
+      "consultation_type": "Erste Beratung",
+      "applicant": "",
+      "incoming_print": "",
+      "incoming_print_link": "",
+      "stream_file_name": "session30_meeting80_141032",
+      "video_start_time": "2025-12-16T12:10:32.147000",
+      "video_offset": 0,
+      "vtt_offset": 1.0,
+      "speeches": [
+        {
+          "timing_id": "fdf7afcb-3d1a-4d5c-b4fe-d3f5d750d39a",
+          "abg_id": 202766,
+          "surname": "Holsten",
+          "name": "Eike",
+          "fraktion": "CDU",
+          "speech_type": "RZ",
+          "start_secs": 7812.0,
+          "stop_secs": 8663.0
+        },
+        {
+          "timing_id": "b8d1f12c-a809-438b-87ed-e86b633b834a",
+          "abg_id": 203271,
+          "surname": "Schendel",
+          "name": "Swantje",
+          "fraktion": "Bündnis 90/Die Grünen",
+          "speech_type": "RZ",
+          "start_secs": 8700.0,
+          "stop_secs": 8789.0
+        },
+        {
+          "timing_id": "2891392d-caf7-4fce-8a89-4f0ab023fc5b",
+          "abg_id": 202766,
+          "surname": "Holsten",
+          "name": "Eike",
+          "fraktion": "CDU",
+          "speech_type": "Zwischenfrage",
+          "start_secs": 8786.0,
+          "stop_secs": 8811.0
+        },
+        {
+          "timing_id": "7d1300b5-8e1d-4915-ab2a-3cadb875352f",
+          "abg_id": 203271,
+          "surname": "Schendel",
+          "name": "Swantje",
+          "fraktion": "Bündnis 90/Die Grünen",
+          "speech_type": "Antwort",
+          "start_secs": 8806.0,
+          "stop_secs": 8862.0
+        },
+        {
+          "timing_id": "bffdc173-9ffa-4c20-ac1f-a3ba6473bd29",
+          "abg_id": 203271,
+          "surname": "Schendel",
+          "name": "Swantje",
+          "fraktion": "Bündnis 90/Die Grünen",
+          "speech_type": "RZ",
+          "start_secs": 8857.0,
+          "stop_secs": 9032.0
+        },
+        {
+          "timing_id": "5eb9833a-f8a6-4792-b282-5a76946814cf",
+          "abg_id": 202784,
+          "surname": "Viehoff",
+          "name": "Eva",
+          "fraktion": "Bündnis 90/Die Grünen",
+          "speech_type": "RZ",
+          "start_secs": 9056.0,
+          "stop_secs": 9349.0
+        },
+        {
+          "timing_id": "e982beb0-7ef0-449f-b672-21b23e5ea7af",
+          "abg_id": 203277,
+          "surname": "Behrendt",
+          "name": "Vanessa",
+          "fraktion": "AfD",
+          "speech_type": "RZ",
+          "start_secs": 9362.0,
+          "stop_secs": 9599.0
+        },
+        {
+          "timing_id": "c2f089f8-f788-44b8-a090-6b2eeaa157c3",
+          "abg_id": 203214,
+          "surname": "Klages",
+          "name": "Delia",
+          "fraktion": "AfD",
+          "speech_type": "RZ",
+          "start_secs": 9620.0,
+          "stop_secs": 10027.0
+        },
+        {
+          "timing_id": "3eb5d618-4b57-4e10-b02d-1dc2a0f6605e",
+          "abg_id": 202792,
+          "surname": "Schüßler",
+          "name": "Claudia",
+          "fraktion": "SPD",
+          "speech_type": "RZ",
+          "start_secs": 10043.0,
+          "stop_secs": 10810.0
+        },
+        {
+          "timing_id": "d9ca5299-cfb8-4428-97f0-47f3380907db",
+          "abg_id": 203221,
+          "surname": "Retzlaff",
+          "name": "Julia",
+          "fraktion": "SPD",
+          "speech_type": "RZ",
+          "start_secs": 10825.0,
+          "stop_secs": 11111.0
+        },
+        {
+          "timing_id": "0adc9cf8-b521-4d22-8b37-5dff7d0f460a",
+          "abg_id": 203237,
+          "surname": "Rakicky",
+          "name": "Jozef",
+          "fraktion": "Fraktionslos",
+          "speech_type": "RZ",
+          "start_secs": 11187.0,
+          "stop_secs": 11415.0
+        },
+        {
+          "timing_id": "ee775278-0b6f-47d5-aa7e-fd6fbcb586c2",
+          "abg_id": 203310,
+          "surname": "Philippi",
+          "name": "Andreas",
+          "fraktion": "",
+          "speech_type": "RZ",
+          "start_secs": 11433.0,
+          "stop_secs": 11996.0
+        }
+      ]
+    },
+    {
+      "subject_id": "524204c0-d6cb-430f-bd22-2273c19cc067",
+      "subject_number": 1,
+      "item_number": 23.0,
+      "item_beginning": "17:30:46",
+      "title": "Haushaltsberatungen 2026 - Haushaltsschwerpunkt: Wissenschaft und Kultur",
+      "subject_art": "",
+      "consultation_type": "Erste Beratung",
+      "applicant": "",
+      "incoming_print": "",
+      "incoming_print_link": "",
+      "stream_file_name": "session30_meeting80_141032",
+      "video_start_time": "2025-12-16T12:10:32.147000",
+      "video_offset": 0,
+      "vtt_offset": 1.0,
+      "speeches": [
+        {
+          "timing_id": "9e7619ad-5f3a-475e-8046-1886bad806b6",
+          "abg_id": 203232,
+          "surname": "Lutz",
+          "name": "Cindy",
+          "fraktion": "CDU",
+          "speech_type": "RZ",
+          "start_secs": 12051.0,
+          "stop_secs": 12664.0
+        },
+        {
+          "timing_id": "1aa08312-a967-4513-bda6-738be811481b",
+          "abg_id": 202206,
+          "surname": "Lesemann",
+          "name": "Silke",
+          "fraktion": "SPD",
+          "speech_type": "RZ",
+          "start_secs": 12679.0,
+          "stop_secs": 13136.0
+        },
+        {
+          "timing_id": "38fec114-060f-45a2-a7ca-8d5747572aa7",
+          "abg_id": 203276,
+          "surname": "Schülke",
+          "name": "Jessica Miriam",
+          "fraktion": "AfD",
+          "speech_type": "RZ",
+          "start_secs": 13174.0,
+          "stop_secs": 13680.0
+        },
+        {
+          "timing_id": "8377c3ab-f263-4aad-be11-6eb650c58175",
+          "abg_id": 203244,
+          "surname": "Kämmerling",
+          "name": "Verena",
+          "fraktion": "CDU",
+          "speech_type": "KI",
+          "start_secs": 13700.0,
+          "stop_secs": 13798.0
+        },
+        {
+          "timing_id": "68de474c-c6f3-421e-839d-a2adc32e6d45",
+          "abg_id": 203276,
+          "surname": "Schülke",
+          "name": "Jessica Miriam",
+          "fraktion": "AfD",
+          "speech_type": "KI",
+          "start_secs": 13810.0,
+          "stop_secs": 13873.0
+        },
+        {
+          "timing_id": "392c9313-9393-4f51-a93b-a8069f3a972a",
+          "abg_id": 203266,
+          "surname": "Schneider",
+          "name": "Pippa",
+          "fraktion": "Bündnis 90/Die Grünen",
+          "speech_type": "RZ",
+          "start_secs": 13908.0,
+          "stop_secs": 14180.0
+        },
+        {
+          "timing_id": "457f5a41-90d9-4915-83f6-4225ef810f09",
+          "abg_id": 203217,
+          "surname": "Machulla",
+          "name": "Martina",
+          "fraktion": "CDU",
+          "speech_type": "RZ",
+          "start_secs": 14205.0,
+          "stop_secs": 14553.0
+        },
+        {
+          "timing_id": "97d660ce-5191-4473-b1d6-30064c3b0558",
+          "abg_id": 202334,
+          "surname": "Prange",
+          "name": "Ulf",
+          "fraktion": "SPD",
+          "speech_type": "RZ",
+          "start_secs": 14570.0,
+          "stop_secs": 15063.0
+        },
+        {
+          "timing_id": "f29b436e-042e-4acd-9ee5-bbc2b47f9ec4",
+          "abg_id": 202784,
+          "surname": "Viehoff",
+          "name": "Eva",
+          "fraktion": "Bündnis 90/Die Grünen",
+          "speech_type": "RZ",
+          "start_secs": 15090.0,
+          "stop_secs": 15341.0
+        },
+        {
+          "timing_id": "cfada202-8b03-457a-bbb6-d38a369b2c0a",
+          "abg_id": 203284,
+          "surname": "Mohrs",
+          "name": "Falko",
+          "fraktion": "",
+          "speech_type": "RZ",
+          "start_secs": 15360.0,
+          "stop_secs": 15922.0
+        }
+      ]
+    },
+    {
+      "subject_id": "b053a409-d39c-4337-8340-afe672841850",
+      "subject_number": 1,
+      "item_number": 24.0,
+      "item_beginning": "18:36:12",
+      "title": "Haushaltsberatungen 2026 - Haushaltsschwerpunkt: Kultus",
+      "subject_art": "",
+      "consultation_type": "Erste Beratung",
+      "applicant": "",
+      "incoming_print": "",
+      "incoming_print_link": "",
+      "stream_file_name": "session30_meeting80_141032",
+      "video_start_time": "2025-12-16T12:10:32.147000",
+      "video_offset": 0,
+      "vtt_offset": 1.0,
+      "speeches": [
+        {
+          "timing_id": "91959161-55ff-4481-956e-bbdf49c30359",
+          "abg_id": 202810,
+          "surname": "Fühner",
+          "name": "Christian",
+          "fraktion": "CDU",
+          "speech_type": "RZ",
+          "start_secs": 16004.0,
+          "stop_secs": 16876.0
+        },
+        {
+          "timing_id": "381d686f-7863-4e11-9ae4-158a844fcdb6",
+          "abg_id": 203200,
+          "surname": "Lansmann",
+          "name": "Kirsikka",
+          "fraktion": "SPD",
+          "speech_type": "RZ",
+          "start_secs": 16902.0,
+          "stop_secs": 17101.0
+        },
+        {
+          "timing_id": "601af73c-7f10-40d1-b458-3a4afaa6b3e0",
+          "abg_id": 202810,
+          "surname": "Fühner",
+          "name": "Christian",
+          "fraktion": "CDU",
+          "speech_type": "Zwischenfrage",
+          "start_secs": 17096.0,
+          "stop_secs": 17122.0
+        },
+        {
+          "timing_id": "ffc8a0b5-8aee-443b-962b-c1d34b1fea64",
+          "abg_id": 203200,
+          "surname": "Lansmann",
+          "name": "Kirsikka",
+          "fraktion": "SPD",
+          "speech_type": "Antwort",
+          "start_secs": 17114.0,
+          "stop_secs": 17142.0
+        },
+        {
+          "timing_id": "1287b9d1-a5ec-4fd4-9553-7d5470d0b766",
+          "abg_id": 203200,
+          "surname": "Lansmann",
+          "name": "Kirsikka",
+          "fraktion": "SPD",
+          "speech_type": "RZ",
+          "start_secs": 17138.0,
+          "stop_secs": 17465.0
+        },
+        {
+          "timing_id": "e60c6b67-5d47-4ef2-a3d8-925aa778370d",
+          "abg_id": 203258,
+          "surname": "Lange",
+          "name": "Corinna",
+          "fraktion": "SPD",
+          "speech_type": "RZ",
+          "start_secs": 17485.0,
+          "stop_secs": 17916.0
+        },
+        {
+          "timing_id": "613c8d7a-52de-4ba3-ba44-61cdeb128355",
+          "abg_id": 202781,
+          "surname": "Rykena",
+          "name": "Harm",
+          "fraktion": "AfD",
+          "speech_type": "RZ",
+          "start_secs": 17944.0,
+          "stop_secs": 18542.0
+        },
+        {
+          "timing_id": "03deecc2-ee71-4f97-a4e9-938bf5c0b8d9",
+          "abg_id": 203258,
+          "surname": "Lange",
+          "name": "Corinna",
+          "fraktion": "SPD",
+          "speech_type": "KI",
+          "start_secs": 18566.0,
+          "stop_secs": 18612.0
+        },
+        {
+          "timing_id": "d2739a0c-8bf8-4228-93b3-4049dfc5a644",
+          "abg_id": 202781,
+          "surname": "Rykena",
+          "name": "Harm",
+          "fraktion": "AfD",
+          "speech_type": "KI",
+          "start_secs": 18619.0,
+          "stop_secs": 18648.0
+        },
+        {
+          "timing_id": "2a581deb-8efa-4f11-b38c-e514ebf2c9d5",
+          "abg_id": 203206,
+          "surname": "Mennen",
+          "name": "Pascal",
+          "fraktion": "Bündnis 90/Die Grünen",
+          "speech_type": "RZ",
+          "start_secs": 18660.0,
+          "stop_secs": 19078.0
+        },
+        {
+          "timing_id": "381cc4e5-14b4-430b-8329-cf85f283da8b",
+          "abg_id": 203268,
+          "surname": "Nzume",
+          "name": "Lena",
+          "fraktion": "Bündnis 90/Die Grünen",
+          "speech_type": "RZ",
+          "start_secs": 19090.0,
+          "stop_secs": 19367.0
+        },
+        {
+          "timing_id": "b2a31f44-ed34-4a62-95d8-2100314469f5",
+          "abg_id": 202300,
+          "surname": "Hamburg",
+          "name": "Julia Willie",
+          "fraktion": "Bündnis 90/Die Grünen",
+          "speech_type": "RZ",
+          "start_secs": 19379.0,
+          "stop_secs": 20100.0
+        }
+      ]
+    },
+    {
+      "subject_id": "a9c376c9-020c-4bb1-81e0-a02e1fe813ef",
+      "subject_number": 1,
+      "item_number": 11.0,
+      "item_beginning": "09:01:26",
+      "title": "Mitteilungen der Präsidentin",
+      "subject_art": "",
+      "consultation_type": "Mitteilungen",
+      "applicant": "",
+      "incoming_print": "",
+      "incoming_print_link": "",
+      "stream_file_name": "session30_meeting80_85516",
+      "video_start_time": "2025-12-16T07:55:16.638000",
+      "video_offset": 0,
+      "vtt_offset": 1.0,
+      "speeches": [
+        {
+          "timing_id": "1b5d6fde-12b1-4bfa-9363-5eded793c32c",
+          "abg_id": 202835,
+          "surname": "Otte-Kinast",
+          "name": "Barbara",
+          "fraktion": "CDU",
+          "speech_type": "Mitteilungen",
+          "start_secs": 382.0,
+          "stop_secs": 505.0
+        }
+      ]
+    },
+    {
+      "subject_id": "b6d296bf-42fe-4d42-bce7-91c401840a81",
+      "subject_number": 1,
+      "item_number": 17.0,
+      "item_beginning": "10:20:53",
+      "title": "Nicht für die Schule, sondern für das Leben lernen wir: Alltagskompetenzen junger Menschen durch schulische Bildungsangebote stärken!",
+      "subject_art": "Antrag",
+      "consultation_type": "Abschließende Beratung",
+      "applicant": "Fraktion der CDU",
+      "incoming_print": "19/5649",
+      "incoming_print_link": "https://www.landtag-niedersachsen.de/Drucksachen/Drucksachen_19_07500/05501-06000/19-05649.pdf",
+      "stream_file_name": "session30_meeting80_85516",
+      "video_start_time": "2025-12-16T07:55:16.638000",
+      "video_offset": 0,
+      "vtt_offset": 1.0,
+      "speeches": []
+    },
+    {
+      "subject_id": "b8b1816e-2198-45c7-b382-1725a50539d1",
+      "subject_number": 1,
+      "item_number": 25.0,
+      "item_beginning": "19:46:05",
+      "title": "Haushaltsberatungen 2026 - Haushaltsschwerpunkt: Europa und Regionale Landesentwicklung",
+      "subject_art": "",
+      "consultation_type": "Erste Beratung",
+      "applicant": "",
+      "incoming_print": "",
+      "incoming_print_link": "",
+      "stream_file_name": "session30_meeting80_141032",
+      "video_start_time": "2025-12-16T12:10:32.147000",
+      "video_offset": 0,
+      "vtt_offset": 1.0,
+      "speeches": [
+        {
+          "timing_id": "441a5f10-be32-430c-9b80-790c2c251ecc",
+          "abg_id": 202809,
+          "surname": "Eilers",
+          "name": "Christoph",
+          "fraktion": "CDU",
+          "speech_type": "RZ",
+          "start_secs": 20155.0,
+          "stop_secs": 20744.0
+        },
+        {
+          "timing_id": "2c289467-4c1a-4fe5-b70a-73e5744392f7",
+          "abg_id": 203222,
+          "surname": "Reinecke",
+          "name": "Melanie",
+          "fraktion": "CDU",
+          "speech_type": "RZ",
+          "start_secs": 20774.0,
+          "stop_secs": 21068.0
+        },
+        {
+          "timing_id": "1dac0cd7-cac5-441b-a895-b8f06bfe71c5",
+          "abg_id": 202322,
+          "surname": "Glosemeyer",
+          "name": "Immacolata",
+          "fraktion": "SPD",
+          "speech_type": "RZ",
+          "start_secs": 21085.0,
+          "stop_secs": 21605.0
+        },
+        {
+          "timing_id": "5739918a-8efd-4820-8b8e-3e610d3da51f",
+          "abg_id": 203278,
+          "surname": "Jahn",
+          "name": "Dennis",
+          "fraktion": "AfD",
+          "speech_type": "RZ",
+          "start_secs": 21631.0,
+          "stop_secs": 21906.0
+        },
+        {
+          "timing_id": "24c74843-951e-45dd-97d7-2b15636d6656",
+          "abg_id": 203263,
+          "surname": "Kura",
+          "name": "Anne",
+          "fraktion": "Bündnis 90/Die Grünen",
+          "speech_type": "RZ",
+          "start_secs": 21920.0,
+          "stop_secs": 22112.0
+        },
+        {
+          "timing_id": "df9e6537-4f5a-4ee0-8168-1efc4737d3d8",
+          "abg_id": 203402,
+          "surname": "Reinecke",
+          "name": "Tamina",
+          "fraktion": "Bündnis 90/Die Grünen",
+          "speech_type": "RZ",
+          "start_secs": 22124.0,
+          "stop_secs": 22305.0
+        },
+        {
+          "timing_id": "544b58b3-8381-40af-9d91-44081b6deed0",
+          "abg_id": 203421,
+          "surname": "Walter",
+          "name": "Melanie",
+          "fraktion": "",
+          "speech_type": "RZ",
+          "start_secs": 22326.0,
+          "stop_secs": 22996.0
+        }
+      ]
+    },
+    {
+      "subject_id": "271e34ba-e498-49fa-b975-f14fb108ec68",
+      "subject_number": 1,
+      "item_number": 12.0,
+      "item_beginning": "09:03:40",
+      "title": "Kinderschutz im Fokus - gemeinsam, verbindlich, wirksam!",
+      "subject_art": "Antrag",
+      "consultation_type": "Aktuelle Stunde",
+      "applicant": "Fraktion der SPD",
+      "incoming_print": "19/9284",
+      "incoming_print_link": "https://www.landtag-niedersachsen.de/Drucksachen/Drucksachen_19_10000/09001-09500/19-09284.pdf",
+      "stream_file_name": "session30_meeting80_85516",
+      "video_start_time": "2025-12-16T07:55:16.638000",
+      "video_offset": 0,
+      "vtt_offset": 1.0,
+      "speeches": [
+        {
+          "timing_id": "2b2e8700-618b-4ef9-b8c4-a87592b0b9bf",
+          "abg_id": 203218,
+          "surname": "Gäde",
+          "name": "Marten",
+          "fraktion": "SPD",
+          "speech_type": "RZ",
+          "start_secs": 575.0,
+          "stop_secs": 819.0
+        },
+        {
+          "timing_id": "b6c7f11e-2e56-4908-b11d-6efbe3f6fbdb",
+          "abg_id": 202766,
+          "surname": "Holsten",
+          "name": "Eike",
+          "fraktion": "CDU",
+          "speech_type": "Zwischenfrage",
+          "start_secs": 821.0,
+          "stop_secs": 853.0
+        },
+        {
+          "timing_id": "21a630af-6d43-4752-a25e-f5c9701bd2f3",
+          "abg_id": 203218,
+          "surname": "Gäde",
+          "name": "Marten",
+          "fraktion": "SPD",
+          "speech_type": "Antwort",
+          "start_secs": 849.0,
+          "stop_secs": 896.0
+        },
+        {
+          "timing_id": "292a5e2e-6211-46f3-8c5a-40e2b76e3b43",
+          "abg_id": 203218,
+          "surname": "Gäde",
+          "name": "Marten",
+          "fraktion": "SPD",
+          "speech_type": "RZ",
+          "start_secs": 890.0,
+          "stop_secs": 928.0
+        },
+        {
+          "timing_id": "5ab816d4-8044-4486-b993-f4de4ff2ee8e",
+          "abg_id": 203277,
+          "surname": "Behrendt",
+          "name": "Vanessa",
+          "fraktion": "AfD",
+          "speech_type": "RZ",
+          "start_secs": 951.0,
+          "stop_secs": 1322.0
+        },
+        {
+          "timing_id": "dd6fac60-3a40-4aab-90a8-396b4087cc01",
+          "abg_id": 203224,
+          "surname": "Ramdor",
+          "name": "Sophie",
+          "fraktion": "CDU",
+          "speech_type": "RZ",
+          "start_secs": 1343.0,
+          "stop_secs": 1433.0
+        },
+        {
+          "timing_id": "8937f587-be47-43ee-94a2-c5fce00a1082",
+          "abg_id": 203264,
+          "surname": "Camuz",
+          "name": "Evrim",
+          "fraktion": "Bündnis 90/Die Grünen",
+          "speech_type": "Zwischenfrage",
+          "start_secs": 1437.0,
+          "stop_secs": 1463.0
+        },
+        {
+          "timing_id": "b7772a8a-ac85-491f-b118-7574ae33eaa0",
+          "abg_id": 203224,
+          "surname": "Ramdor",
+          "name": "Sophie",
+          "fraktion": "CDU",
+          "speech_type": "Antwort",
+          "start_secs": 1466.0,
+          "stop_secs": 1486.0
+        },
+        {
+          "timing_id": "748e1287-224c-444f-89c9-e49385ebe5a2",
+          "abg_id": 203224,
+          "surname": "Ramdor",
+          "name": "Sophie",
+          "fraktion": "CDU",
+          "speech_type": "RZ",
+          "start_secs": 1500.0,
+          "stop_secs": 1662.0
+        },
+        {
+          "timing_id": "b0840e39-4a75-4895-8c61-9c7fb4e0facf",
+          "abg_id": 202808,
+          "surname": "Zinke",
+          "name": "Sebastian",
+          "fraktion": "SPD",
+          "speech_type": "pers. Bemerkung",
+          "start_secs": 1680.0,
+          "stop_secs": 1829.0
+        },
+        {
+          "timing_id": "87cc85fc-3540-4e49-be10-49867cb8b020",
+          "abg_id": 1276,
+          "surname": "Watermann",
+          "name": "Ulrich",
+          "fraktion": "SPD",
+          "speech_type": "pers. Bemerkung",
+          "start_secs": 1930.0,
+          "stop_secs": 2027.0
+        },
+        {
+          "timing_id": "46b69f67-b635-4326-ba74-903d73833339",
+          "abg_id": 203271,
+          "surname": "Schendel",
+          "name": "Swantje",
+          "fraktion": "Bündnis 90/Die Grünen",
+          "speech_type": "RZ",
+          "start_secs": 2047.0,
+          "stop_secs": 2280.0
+        },
+        {
+          "timing_id": "92a01aa0-085f-4e58-bba1-8d788a68be0a",
+          "abg_id": 202766,
+          "surname": "Holsten",
+          "name": "Eike",
+          "fraktion": "CDU",
+          "speech_type": "Zwischenfrage",
+          "start_secs": 2278.0,
+          "stop_secs": 2310.0
+        },
+        {
+          "timing_id": "52ee8ef0-055c-4182-b55c-12fbdae2bf8b",
+          "abg_id": 203271,
+          "surname": "Schendel",
+          "name": "Swantje",
+          "fraktion": "Bündnis 90/Die Grünen",
+          "speech_type": "Antwort",
+          "start_secs": 2306.0,
+          "stop_secs": 2360.0
+        },
+        {
+          "timing_id": "6915e41a-3cef-4cb9-822b-30f72bf9c663",
+          "abg_id": 203271,
+          "surname": "Schendel",
+          "name": "Swantje",
+          "fraktion": "Bündnis 90/Die Grünen",
+          "speech_type": "RZ",
+          "start_secs": 2356.0,
+          "stop_secs": 2438.0
+        },
+        {
+          "timing_id": "7d84bbb3-75aa-47f9-a9d1-7925c30d1619",
+          "abg_id": 203310,
+          "surname": "Philippi",
+          "name": "Andreas",
+          "fraktion": "",
+          "speech_type": "RZ",
+          "start_secs": 2457.0,
+          "stop_secs": 2901.0
+        },
+        {
+          "timing_id": "c6ab6748-851d-4720-95d4-04a435fe4443",
+          "abg_id": 203277,
+          "surname": "Behrendt",
+          "name": "Vanessa",
+          "fraktion": "AfD",
+          "speech_type": "pers. Bemerkung",
+          "start_secs": 2923.0,
+          "stop_secs": 2986.0
+        },
+        {
+          "timing_id": "d7ab7541-b636-4090-b010-3881f61207c6",
+          "abg_id": 203224,
+          "surname": "Ramdor",
+          "name": "Sophie",
+          "fraktion": "CDU",
+          "speech_type": "RZ",
+          "start_secs": 2999.0,
+          "stop_secs": 3083.0
+        }
+      ]
+    },
+    {
+      "subject_id": "c4546640-baef-4b30-b1ea-85163142ab31",
+      "subject_number": 2,
+      "item_number": 12.0,
+      "item_beginning": "09:03:40",
+      "title": "#nichtohnemeinehebamme - Beleghebammen in Niedersachsen unterstützen, Geburtshilfe in der Fläche sichern!",
+      "subject_art": "Antrag",
+      "consultation_type": "Aktuelle Stunde",
+      "applicant": "Fraktion der CDU",
+      "incoming_print": "19/9285",
+      "incoming_print_link": "https://www.landtag-niedersachsen.de/Drucksachen/Drucksachen_19_10000/09001-09500/19-09285.pdf",
+      "stream_file_name": "session30_meeting80_85516",
+      "video_start_time": "2025-12-16T07:55:16.638000",
+      "video_offset": 0,
+      "vtt_offset": 1.0,
+      "speeches": [
+        {
+          "timing_id": "ebe61271-b5e2-4109-81f1-92ed7bdae6f3",
+          "abg_id": 202758,
+          "surname": "Hopmann",
+          "name": "Laura",
+          "fraktion": "CDU",
+          "speech_type": "RZ",
+          "start_secs": 3129.0,
+          "stop_secs": 3474.0
+        },
+        {
+          "timing_id": "01119a6e-f313-43f9-87cc-2f37a3462a35",
+          "abg_id": 203231,
+          "surname": "Emken",
+          "name": "Karin",
+          "fraktion": "SPD",
+          "speech_type": "RZ",
+          "start_secs": 3490.0,
+          "stop_secs": 3828.0
+        },
+        {
+          "timing_id": "e5cf2e85-e4b8-4c99-ab35-320f24cfb7a0",
+          "abg_id": 202784,
+          "surname": "Viehoff",
+          "name": "Eva",
+          "fraktion": "Bündnis 90/Die Grünen",
+          "speech_type": "RZ",
+          "start_secs": 3850.0,
+          "stop_secs": 4198.0
+        },
+        {
+          "timing_id": "1de8f710-8151-48f1-a0cd-5c1af498e150",
+          "abg_id": 203214,
+          "surname": "Klages",
+          "name": "Delia",
+          "fraktion": "AfD",
+          "speech_type": "RZ",
+          "start_secs": 4219.0,
+          "stop_secs": 4532.0
+        },
+        {
+          "timing_id": "c6327528-8e2f-4062-ae9e-b47d189bcedc",
+          "abg_id": 203310,
+          "surname": "Philippi",
+          "name": "Andreas",
+          "fraktion": "",
+          "speech_type": "RZ",
+          "start_secs": 4530.0,
+          "stop_secs": 4900.0
+        },
+        {
+          "timing_id": "7906c0be-914b-43e8-8c6b-59a29c1a4894",
+          "abg_id": 202758,
+          "surname": "Hopmann",
+          "name": "Laura",
+          "fraktion": "CDU",
+          "speech_type": "RZ",
+          "start_secs": 4902.0,
+          "stop_secs": 5047.0
+        }
+      ]
+    },
+    {
+      "subject_id": "c5cf6d17-da68-4a06-9387-cc50f72cf4c9",
+      "subject_number": 1,
+      "item_number": 21.0,
+      "item_beginning": "15:27:08",
+      "title": "Haushaltsberatungen 2026 - Haushaltsschwerpunkt: Finanzen und Hochbau",
+      "subject_art": "",
+      "consultation_type": "Erste Beratung",
+      "applicant": "",
+      "incoming_print": "",
+      "incoming_print_link": "",
+      "stream_file_name": "session30_meeting80_141032",
+      "video_start_time": "2025-12-16T12:10:32.147000",
+      "video_offset": 0,
+      "vtt_offset": 1.0,
+      "speeches": [
+        {
+          "timing_id": "68f599f6-1926-47c3-932d-056081f5a069",
+          "abg_id": 202771,
+          "surname": "Schepelmann",
+          "name": "Jörn",
+          "fraktion": "CDU",
+          "speech_type": "RZ",
+          "start_secs": 4626.0,
+          "stop_secs": 5121.0
+        },
+        {
+          "timing_id": "9e7577d2-7f2a-4fd8-a1e3-855342d763be",
+          "abg_id": 203211,
+          "surname": "Meyer",
+          "name": "Björn",
+          "fraktion": "SPD",
+          "speech_type": "RZ",
+          "start_secs": 5148.0,
+          "stop_secs": 5752.0
+        },
+        {
+          "timing_id": "7bb0e0cc-ec3a-436f-bd70-22a95808e13c",
+          "abg_id": 202775,
+          "surname": "Lilienthal",
+          "name": "Peer",
+          "fraktion": "AfD",
+          "speech_type": "RZ",
+          "start_secs": 5810.0,
+          "stop_secs": 6085.0
+        },
+        {
+          "timing_id": "8a413212-50d9-43ce-ab1c-c868c328fc3a",
+          "abg_id": 203272,
+          "surname": "Hoffmann",
+          "name": "Andreas",
+          "fraktion": "Bündnis 90/Die Grünen",
+          "speech_type": "RZ",
+          "start_secs": 6106.0,
+          "stop_secs": 6452.0
+        },
+        {
+          "timing_id": "395433ed-970d-45b9-998c-b6de1d51e672",
+          "abg_id": 1242,
+          "surname": "Thiele",
+          "name": "Ulf",
+          "fraktion": "CDU",
+          "speech_type": "RZ",
+          "start_secs": 6469.0,
+          "stop_secs": 6760.0
+        },
+        {
+          "timing_id": "d7efdbc8-ddcc-4bff-9341-623b88dc3e04",
+          "abg_id": 203211,
+          "surname": "Meyer",
+          "name": "Björn",
+          "fraktion": "SPD",
+          "speech_type": "Zwischenfrage",
+          "start_secs": 6764.0,
+          "stop_secs": 6789.0
+        },
+        {
+          "timing_id": "afa2052d-d217-4972-8014-0b183f1057c1",
+          "abg_id": 1242,
+          "surname": "Thiele",
+          "name": "Ulf",
+          "fraktion": "CDU",
+          "speech_type": "Antwort",
+          "start_secs": 6781.0,
+          "stop_secs": 6885.0
+        },
+        {
+          "timing_id": "2b9265a8-70a8-4fa3-b411-d0724a74637d",
+          "abg_id": 1242,
+          "surname": "Thiele",
+          "name": "Ulf",
+          "fraktion": "CDU",
+          "speech_type": "RZ",
+          "start_secs": 6887.0,
+          "stop_secs": 7086.0
+        },
+        {
+          "timing_id": "c3e91bef-6dd6-48ad-beb4-e1febfd2b9d4",
+          "abg_id": 202304,
+          "surname": "Heere",
+          "name": "Gerald",
+          "fraktion": "",
+          "speech_type": "RZ",
+          "start_secs": 7100.0,
+          "stop_secs": 7422.0
+        },
+        {
+          "timing_id": "f65e8749-5619-46bf-a63b-ca89b775184e",
+          "abg_id": 202771,
+          "surname": "Schepelmann",
+          "name": "Jörn",
+          "fraktion": "CDU",
+          "speech_type": "Zwischenfrage",
+          "start_secs": 7420.0,
+          "stop_secs": 7456.0
+        },
+        {
+          "timing_id": "005a9633-8b46-44ce-8e6e-556d1860d0ae",
+          "abg_id": 202304,
+          "surname": "Heere",
+          "name": "Gerald",
+          "fraktion": "",
+          "speech_type": "Antwort",
+          "start_secs": 7449.0,
+          "stop_secs": 7549.0
+        },
+        {
+          "timing_id": "b9a00634-330f-484c-92cf-db6cf5a363ca",
+          "abg_id": 202304,
+          "surname": "Heere",
+          "name": "Gerald",
+          "fraktion": "",
+          "speech_type": "RZ",
+          "start_secs": 7534.0,
+          "stop_secs": 7782.0
+        }
+      ]
+    },
+    {
+      "subject_id": "8addadbf-3f0d-43f8-b0fd-75ede471e88c",
+      "subject_number": 1,
+      "item_number": 16.0,
+      "item_beginning": "10:20:53",
+      "title": "Initiative des Landes zur Magnetschwebebahn und zu entsprechender technologischer Forschung und Industrieansiedlung",
+      "subject_art": "Antrag",
+      "consultation_type": "Abschließende Beratung",
+      "applicant": "Fraktion der AfD",
+      "incoming_print": "19/4573",
+      "incoming_print_link": "https://www.landtag-niedersachsen.de/Drucksachen/Drucksachen_19_05000/04501-05000/19-04573.pdf",
+      "stream_file_name": "session30_meeting80_85516",
+      "video_start_time": "2025-12-16T07:55:16.638000",
+      "video_offset": 0,
+      "vtt_offset": 0,
+      "speeches": []
+    },
+    {
+      "subject_id": "ac38ca5a-6c85-4786-8699-5bcfb1ae1905",
+      "subject_number": 1,
+      "item_number": 15.0,
+      "item_beginning": "10:20:53",
+      "title": "Extremismusvorfälle an niedersächsischen Schulen effektiv nachverfolgen - allen Formen von Extremismus entschieden entgegentreten!",
+      "subject_art": "Antrag",
+      "consultation_type": "Abschließende Beratung",
+      "applicant": "Fraktion der CDU",
+      "incoming_print": "19/3033",
+      "incoming_print_link": "https://www.landtag-niedersachsen.de/Drucksachen/Drucksachen_19_05000/03001-03500/19-03033.pdf",
+      "stream_file_name": "session30_meeting80_85516",
+      "video_start_time": "2025-12-16T07:55:16.638000",
+      "video_offset": 0,
+      "vtt_offset": 0,
+      "speeches": []
+    },
+    {
+      "subject_id": "ff739e73-bf30-49fe-a321-5cf3f9696def",
+      "subject_number": 1,
+      "item_number": 14.0,
+      "item_beginning": "10:20:53",
+      "title": "Entwurf eines Haushaltsbegleitgesetzes 2026",
+      "subject_art": "Gesetzentwurf",
+      "consultation_type": "Abschließende Beratung",
+      "applicant": "Fraktion der SPD, Fraktion Bündnis 90/Die Grünen",
+      "incoming_print": "19/8220",
+      "incoming_print_link": "https://www.landtag-niedersachsen.de/Drucksachen/Drucksachen_19_10000/08001-08500/19-08220.pdf",
+      "stream_file_name": "session30_meeting80_85516",
+      "video_start_time": "2025-12-16T07:55:16.638000",
+      "video_offset": 0,
+      "vtt_offset": 0,
+      "speeches": []
+    },
+    {
+      "subject_id": "bf13ebf7-3625-46bb-b1a4-7277b1c6cab5",
+      "subject_number": 1,
+      "item_number": 20.0,
+      "item_beginning": "14:16:29",
+      "title": "Haushaltsberatungen 2026 - Haushaltsschwerpunkt: Inneres, Sport und Digitalisierung",
+      "subject_art": "",
+      "consultation_type": "Erste Beratung",
+      "applicant": "",
+      "incoming_print": "",
+      "incoming_print_link": "",
+      "stream_file_name": "session30_meeting80_141032",
+      "video_start_time": "2025-12-16T12:10:32.147000",
+      "video_offset": 0,
+      "vtt_offset": 1.0,
+      "speeches": [
+        {
+          "timing_id": "ea635c9b-8ad8-44bf-aff0-237d7c5a2448",
+          "abg_id": 202314,
+          "surname": "Bock",
+          "name": "André",
+          "fraktion": "CDU",
+          "speech_type": "RZ",
+          "start_secs": 430.0,
+          "stop_secs": 1084.0
+        },
+        {
+          "timing_id": "00451ca4-2539-49f3-be49-9ad061159335",
+          "abg_id": 203234,
+          "surname": "Butter",
+          "name": "Birgit",
+          "fraktion": "CDU",
+          "speech_type": "RZ",
+          "start_secs": 1105.0,
+          "stop_secs": 1400.0
+        },
+        {
+          "timing_id": "b6b0c18c-6541-49a6-9dc0-3aeca59688e3",
+          "abg_id": 1276,
+          "surname": "Watermann",
+          "name": "Ulrich",
+          "fraktion": "SPD",
+          "speech_type": "RZ",
+          "start_secs": 1415.0,
+          "stop_secs": 1610.0
+        },
+        {
+          "timing_id": "7c67bdf5-92ad-43ec-bbea-77d00d17e278",
+          "abg_id": 202798,
+          "surname": "Kauroff",
+          "name": "Rüdiger",
+          "fraktion": "SPD",
+          "speech_type": "RZ",
+          "start_secs": 1627.0,
+          "stop_secs": 1833.0
+        },
+        {
+          "timing_id": "5649e35d-ea1b-4732-b35c-20a134608f20",
+          "abg_id": 203236,
+          "surname": "Saade",
+          "name": "Alexander",
+          "fraktion": "SPD",
+          "speech_type": "RZ",
+          "start_secs": 1864.0,
+          "stop_secs": 2128.0
+        },
+        {
+          "timing_id": "5d96941b-683a-4240-bc72-acc2c2e4b747",
+          "abg_id": 203199,
+          "surname": "Schneider",
+          "name": "Julius",
+          "fraktion": "SPD",
+          "speech_type": "RZ",
+          "start_secs": 2157.0,
+          "stop_secs": 2448.0
+        },
+        {
+          "timing_id": "53652ff6-494a-4514-92af-1b2dd506b81e",
+          "abg_id": 202774,
+          "surname": "Bothe",
+          "name": "Stephan",
+          "fraktion": "AfD",
+          "speech_type": "RZ",
+          "start_secs": 2467.0,
+          "stop_secs": 3002.0
+        },
+        {
+          "timing_id": "e1b46853-573a-4c7d-8827-0e75b6cc93db",
+          "abg_id": 202134,
+          "surname": "Behrens",
+          "name": "Daniela",
+          "fraktion": "SPD",
+          "speech_type": "RZ",
+          "start_secs": 3015.0,
+          "stop_secs": 3094.0
+        },
+        {
+          "timing_id": "addc7c41-475a-4072-befb-6530a5416c8b",
+          "abg_id": 202774,
+          "surname": "Bothe",
+          "name": "Stephan",
+          "fraktion": "AfD",
+          "speech_type": "RZ",
+          "start_secs": 3105.0,
+          "stop_secs": 3159.0
+        },
+        {
+          "timing_id": "2dd092d5-f177-48c0-9f63-e7b5b1d5b54b",
+          "abg_id": 203267,
+          "surname": "Diallo Hartmann",
+          "name": "Djenabou",
+          "fraktion": "Bündnis 90/Die Grünen",
+          "speech_type": "RZ",
+          "start_secs": 3176.0,
+          "stop_secs": 3386.0
+        },
+        {
+          "timing_id": "3d41b1c9-9967-47ee-b129-66ad291c2320",
+          "abg_id": 203270,
+          "surname": "Weippert",
+          "name": "Nadja",
+          "fraktion": "Bündnis 90/Die Grünen",
+          "speech_type": "RZ",
+          "start_secs": 3406.0,
+          "stop_secs": 3667.0
+        },
+        {
+          "timing_id": "6a2ba829-5a39-49bd-b299-9e33e8daf983",
+          "abg_id": 203202,
+          "surname": "Lühmann",
+          "name": "Michael",
+          "fraktion": "Bündnis 90/Die Grünen",
+          "speech_type": "RZ",
+          "start_secs": 3681.0,
+          "stop_secs": 3987.0
+        },
+        {
+          "timing_id": "385630ff-4d3b-406b-adda-a82919ef9e59",
+          "abg_id": 202134,
+          "surname": "Behrens",
+          "name": "Daniela",
+          "fraktion": "SPD",
+          "speech_type": "RZ",
+          "start_secs": 4008.0,
+          "stop_secs": 4581.0
+        }
+      ]
+    },
+    {
+      "subject_id": "435316d3-3ace-4aee-b8db-6fd37311d47c",
+      "subject_number": 1,
+      "item_number": 19.0,
+      "item_beginning": "10:39:57",
+      "title": "Haushaltsberatungen 2026 - Allgemeinpolitische Debatte",
+      "subject_art": "",
+      "consultation_type": "Erste Beratung",
+      "applicant": "",
+      "incoming_print": "",
+      "incoming_print_link": "",
+      "stream_file_name": "session30_meeting80_85516",
+      "video_start_time": "2025-12-16T07:55:16.638000",
+      "video_offset": 0,
+      "vtt_offset": 1.0,
+      "speeches": [
+        {
+          "timing_id": "36e4c505-8744-4c57-959b-27e26f7b2d1f",
+          "abg_id": 202309,
+          "surname": "Lechner",
+          "name": "Sebastian",
+          "fraktion": "CDU",
+          "speech_type": "RZ",
+          "start_secs": 6326.0,
+          "stop_secs": 7737.0
+        },
+        {
+          "timing_id": "69d9fed7-0548-45cd-a69b-424a223b7650",
+          "abg_id": 202215,
+          "surname": "Politze",
+          "name": "Stefan",
+          "fraktion": "SPD",
+          "speech_type": "RZ",
+          "start_secs": 7798.0,
+          "stop_secs": 9116.0
+        },
+        {
+          "timing_id": "9f056e49-2123-450a-912b-358024e18e4c",
+          "abg_id": 1242,
+          "surname": "Thiele",
+          "name": "Ulf",
+          "fraktion": "CDU",
+          "speech_type": "KI",
+          "start_secs": 9181.0,
+          "stop_secs": 9294.0
+        },
+        {
+          "timing_id": "7f8742fd-f2ad-43d8-9494-4ab75e77af08",
+          "abg_id": 202215,
+          "surname": "Politze",
+          "name": "Stefan",
+          "fraktion": "SPD",
+          "speech_type": "KI",
+          "start_secs": 9317.0,
+          "stop_secs": 9383.0
+        },
+        {
+          "timing_id": "8039e83e-bf74-48d0-9fb0-5016f7e8d4ae",
+          "abg_id": 202777,
+          "surname": "Wichmann",
+          "name": "Klaus",
+          "fraktion": "AfD",
+          "speech_type": "RZ",
+          "start_secs": 9470.0,
+          "stop_secs": 10175.0
+        },
+        {
+          "timing_id": "bec1a5e6-bc7a-4fb6-b192-48b6e07bf147",
+          "abg_id": 203263,
+          "surname": "Kura",
+          "name": "Anne",
+          "fraktion": "Bündnis 90/Die Grünen",
+          "speech_type": "RZ",
+          "start_secs": 10200.0,
+          "stop_secs": 10812.0
+        },
+        {
+          "timing_id": "35683c02-4749-4583-b3df-3a23bb4db16c",
+          "abg_id": 203237,
+          "surname": "Rakicky",
+          "name": "Jozef",
+          "fraktion": "Fraktionslos",
+          "speech_type": "RZ",
+          "start_secs": 10864.0,
+          "stop_secs": 10966.0
+        },
+        {
+          "timing_id": "daff881f-adda-45dc-b0ad-ad46bfb7230b",
+          "abg_id": 202304,
+          "surname": "Heere",
+          "name": "Gerald",
+          "fraktion": "",
+          "speech_type": "RZ",
+          "start_secs": 11014.0,
+          "stop_secs": 11548.0
+        },
+        {
+          "timing_id": "2338ef22-6473-4443-9f11-f29ff422aa23",
+          "abg_id": 967,
+          "surname": "Hilbers",
+          "name": "Reinhold",
+          "fraktion": "CDU",
+          "speech_type": "Zwischenfrage",
+          "start_secs": 11545.0,
+          "stop_secs": 11582.0
+        },
+        {
+          "timing_id": "fb3faa48-8dc5-4984-88ee-47e81d49e829",
+          "abg_id": 202304,
+          "surname": "Heere",
+          "name": "Gerald",
+          "fraktion": "",
+          "speech_type": "Antwort",
+          "start_secs": 11579.0,
+          "stop_secs": 11628.0
+        },
+        {
+          "timing_id": "98f55f7a-1619-4e38-94a7-4f8d4f7539b4",
+          "abg_id": 202304,
+          "surname": "Heere",
+          "name": "Gerald",
+          "fraktion": "",
+          "speech_type": "RZ",
+          "start_secs": 11624.0,
+          "stop_secs": 11938.0
+        },
+        {
+          "timing_id": "aa17c327-11ca-4ed0-a1cc-f122d2ec00cc",
+          "abg_id": 1242,
+          "surname": "Thiele",
+          "name": "Ulf",
+          "fraktion": "CDU",
+          "speech_type": "RZ",
+          "start_secs": 11985.0,
+          "stop_secs": 12295.0
+        },
+        {
+          "timing_id": "88ea453e-3bd3-45b9-b5a0-5fbadb0a5221",
+          "abg_id": 203257,
+          "surname": "Beck",
+          "name": "Jan-Philipp",
+          "fraktion": "SPD",
+          "speech_type": "RZ",
+          "start_secs": 12310.0,
+          "stop_secs": 12589.0
+        },
+        {
+          "timing_id": "42773ad3-62a4-4696-a71f-7c3631880fc4",
+          "abg_id": 203272,
+          "surname": "Hoffmann",
+          "name": "Andreas",
+          "fraktion": "Bündnis 90/Die Grünen",
+          "speech_type": "RZ",
+          "start_secs": 12614.0,
+          "stop_secs": 12789.0
+        }
+      ]
+    },
+    {
+      "subject_id": "40a4dc9c-9988-4d6e-a6b7-d077ad2d5816",
+      "subject_number": 1,
+      "item_number": 18.0,
+      "item_beginning": "10:24:21",
+      "title": "Berichterstattung zum\r\n- Entwurf eines Haushaltsgesetzes 2026\r\n- Entwurf eines Haushaltsbegleitgesetzes 2026",
+      "subject_art": "",
+      "consultation_type": "Erste Beratung",
+      "applicant": "",
+      "incoming_print": "",
+      "incoming_print_link": "",
+      "stream_file_name": "session30_meeting80_85516",
+      "video_start_time": "2025-12-16T07:55:16.638000",
+      "video_offset": 0,
+      "vtt_offset": 1.0,
+      "speeches": [
+        {
+          "timing_id": "9457f733-42ce-46b9-bc8d-72da88ffafe6",
+          "abg_id": 1247,
+          "surname": "Thümler",
+          "name": "Björn",
+          "fraktion": "CDU",
+          "speech_type": "BE",
+          "start_secs": 5395.0,
+          "stop_secs": 6255.0
+        }
+      ]
+    }
+  ],
+  "_counts": {
+    "subjects": 16,
+    "speeches": 106
+  }
+}

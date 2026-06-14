@@ -11,10 +11,10 @@
     "dateEnd": "2025-12-16T18:33:48Z",
     "sourceURI": "https://plenartv.de/tagungsabschnitt/19-30?sitzung=80",
     "processing": {
-      "parse_media": "2026-06-12T14:11:00",
-      "merge": "2026-06-12T14:11:07"
+      "parse_media": "2026-06-13T16:25:26",
+      "merge": "2026-06-13T16:25:26"
     },
-    "lastUpdate": "2026-06-12T14:11:07"
+    "lastUpdate": "2026-06-13T16:25:26"
   },
   "data": [
     {
@@ -258,7 +258,8 @@
         "startInStreamSecs": 382.0,
         "stopInStreamSecs": 505.0,
         "timesAreVideoRelative": false,
-        "proceedingIndex": 1
+        "proceedingIndex": 1,
+        "confidence": 1.0
       }
     },
     {
@@ -1502,7 +1503,8 @@
         "startInStreamSecs": 430.0,
         "stopInStreamSecs": 1084.0,
         "timesAreVideoRelative": false,
-        "proceedingIndex": 2
+        "proceedingIndex": 2,
+        "confidence": 1.0
       }
     },
     {
@@ -1946,7 +1948,8 @@
         "startInStreamSecs": 575.0,
         "stopInStreamSecs": 819.0,
         "timesAreVideoRelative": false,
-        "proceedingIndex": 3
+        "proceedingIndex": 3,
+        "confidence": 1.0
       }
     },
     {
@@ -2080,7 +2083,8 @@
         "startInStreamSecs": 821.0,
         "stopInStreamSecs": 853.0,
         "timesAreVideoRelative": false,
-        "proceedingIndex": 4
+        "proceedingIndex": 4,
+        "confidence": 1.0
       }
     },
     {
@@ -2239,7 +2243,8 @@
         "startInStreamSecs": 849.0,
         "stopInStreamSecs": 896.0,
         "timesAreVideoRelative": false,
-        "proceedingIndex": 5
+        "proceedingIndex": 5,
+        "confidence": 1.0
       }
     },
     {
@@ -2373,7 +2378,8 @@
         "startInStreamSecs": 890.0,
         "stopInStreamSecs": 928.0,
         "timesAreVideoRelative": false,
-        "proceedingIndex": 6
+        "proceedingIndex": 6,
+        "confidence": 1.0
       }
     },
     {
@@ -3102,7 +3108,8 @@
         "startInStreamSecs": 951.0,
         "stopInStreamSecs": 1322.0,
         "timesAreVideoRelative": false,
-        "proceedingIndex": 7
+        "proceedingIndex": 7,
+        "confidence": 1.0
       }
     },
     {
@@ -3671,7 +3678,8 @@
         "startInStreamSecs": 1105.0,
         "stopInStreamSecs": 1400.0,
         "timesAreVideoRelative": false,
-        "proceedingIndex": 8
+        "proceedingIndex": 8,
+        "confidence": 1.0
       }
     },
     {
@@ -3910,7 +3918,8 @@
         "startInStreamSecs": 1343.0,
         "stopInStreamSecs": 1433.0,
         "timesAreVideoRelative": false,
-        "proceedingIndex": 9
+        "proceedingIndex": 9,
+        "confidence": 1.0
       }
     },
     {
@@ -4369,7 +4378,8 @@
         "startInStreamSecs": 1415.0,
         "stopInStreamSecs": 1610.0,
         "timesAreVideoRelative": false,
-        "proceedingIndex": 10
+        "proceedingIndex": 10,
+        "confidence": 1.0
       }
     },
     {
@@ -4473,7 +4483,8 @@
         "startInStreamSecs": 1437.0,
         "stopInStreamSecs": 1463.0,
         "timesAreVideoRelative": false,
-        "proceedingIndex": 11
+        "proceedingIndex": 11,
+        "confidence": 1.0
       }
     },
     {
@@ -4582,7 +4593,8 @@
         "startInStreamSecs": 1466.0,
         "stopInStreamSecs": 1486.0,
         "timesAreVideoRelative": false,
-        "proceedingIndex": 12
+        "proceedingIndex": 12,
+        "confidence": 1.0
       }
     },
     {
@@ -4901,7 +4913,8 @@
         "startInStreamSecs": 1500.0,
         "stopInStreamSecs": 1662.0,
         "timesAreVideoRelative": false,
-        "proceedingIndex": 13
+        "proceedingIndex": 13,
+        "confidence": 1.0
       }
     },
     {
@@ -5290,7 +5303,8 @@
         "startInStreamSecs": 1627.0,
         "stopInStreamSecs": 1833.0,
         "timesAreVideoRelative": false,
-        "proceedingIndex": 14
+        "proceedingIndex": 14,
+        "confidence": 1.0
       }
     },
     {
@@ -5579,7 +5593,8 @@
         "startInStreamSecs": 1680.0,
         "stopInStreamSecs": 1829.0,
         "timesAreVideoRelative": false,
-        "proceedingIndex": 15
+        "proceedingIndex": 15,
+        "confidence": 1.0
       }
     },
     {
@@ -6103,7 +6118,8 @@
         "startInStreamSecs": 1864.0,
         "stopInStreamSecs": 2128.0,
         "timesAreVideoRelative": false,
-        "proceedingIndex": 16
+        "proceedingIndex": 16,
+        "confidence": 1.0
       }
     },
     {
@@ -6292,7 +6308,8 @@
         "startInStreamSecs": 1930.0,
         "stopInStreamSecs": 2027.0,
         "timesAreVideoRelative": false,
-        "proceedingIndex": 17
+        "proceedingIndex": 17,
+        "confidence": 1.0
       }
     },
     {
@@ -6796,7 +6813,8 @@
         "startInStreamSecs": 2047.0,
         "stopInStreamSecs": 2280.0,
         "timesAreVideoRelative": false,
-        "proceedingIndex": 18
+        "proceedingIndex": 18,
+        "confidence": 1.0
       }
     },
     {
@@ -7330,7 +7348,8 @@
         "startInStreamSecs": 2157.0,
         "stopInStreamSecs": 2448.0,
         "timesAreVideoRelative": false,
-        "proceedingIndex": 19
+        "proceedingIndex": 19,
+        "confidence": 1.0
       }
     },
     {
@@ -7474,7 +7493,8 @@
         "startInStreamSecs": 2278.0,
         "stopInStreamSecs": 2310.0,
         "timesAreVideoRelative": false,
-        "proceedingIndex": 20
+        "proceedingIndex": 20,
+        "confidence": 1.0
       }
     },
     {
@@ -7643,7 +7663,8 @@
         "startInStreamSecs": 2306.0,
         "stopInStreamSecs": 2360.0,
         "timesAreVideoRelative": false,
-        "proceedingIndex": 21
+        "proceedingIndex": 21,
+        "confidence": 1.0
       }
     },
     {
@@ -7847,7 +7868,8 @@
         "startInStreamSecs": 2356.0,
         "stopInStreamSecs": 2438.0,
         "timesAreVideoRelative": false,
-        "proceedingIndex": 22
+        "proceedingIndex": 22,
+        "confidence": 1.0
       }
     },
     {
@@ -8470,7 +8492,8 @@
         "startInStreamSecs": 2457.0,
         "stopInStreamSecs": 2901.0,
         "timesAreVideoRelative": false,
-        "proceedingIndex": 23
+        "proceedingIndex": 23,
+        "confidence": 1.0
       }
     },
     {
@@ -9314,7 +9337,8 @@
         "startInStreamSecs": 2467.0,
         "stopInStreamSecs": 3002.0,
         "timesAreVideoRelative": false,
-        "proceedingIndex": 24
+        "proceedingIndex": 24,
+        "confidence": 1.0
       }
     },
     {
@@ -9488,7 +9512,8 @@
         "startInStreamSecs": 2923.0,
         "stopInStreamSecs": 2986.0,
         "timesAreVideoRelative": false,
-        "proceedingIndex": 25
+        "proceedingIndex": 25,
+        "confidence": 1.0
       }
     },
     {
@@ -9712,7 +9737,8 @@
         "startInStreamSecs": 2999.0,
         "stopInStreamSecs": 3083.0,
         "timesAreVideoRelative": false,
-        "proceedingIndex": 26
+        "proceedingIndex": 26,
+        "confidence": 1.0
       }
     },
     {
@@ -9926,7 +9952,8 @@
         "startInStreamSecs": 3015.0,
         "stopInStreamSecs": 3094.0,
         "timesAreVideoRelative": false,
-        "proceedingIndex": 27
+        "proceedingIndex": 27,
+        "confidence": 1.0
       }
     },
     {
@@ -10090,7 +10117,8 @@
         "startInStreamSecs": 3105.0,
         "stopInStreamSecs": 3159.0,
         "timesAreVideoRelative": false,
-        "proceedingIndex": 28
+        "proceedingIndex": 28,
+        "confidence": 1.0
       }
     },
     {
@@ -10674,7 +10702,8 @@
         "startInStreamSecs": 3129.0,
         "stopInStreamSecs": 3474.0,
         "timesAreVideoRelative": false,
-        "proceedingIndex": 29
+        "proceedingIndex": 29,
+        "confidence": 1.0
       }
     },
     {
@@ -11053,7 +11082,8 @@
         "startInStreamSecs": 3176.0,
         "stopInStreamSecs": 3386.0,
         "timesAreVideoRelative": false,
-        "proceedingIndex": 30
+        "proceedingIndex": 30,
+        "confidence": 1.0
       }
     },
     {
@@ -11512,7 +11542,8 @@
         "startInStreamSecs": 3406.0,
         "stopInStreamSecs": 3667.0,
         "timesAreVideoRelative": false,
-        "proceedingIndex": 31
+        "proceedingIndex": 31,
+        "confidence": 1.0
       }
     },
     {
@@ -12076,7 +12107,8 @@
         "startInStreamSecs": 3490.0,
         "stopInStreamSecs": 3828.0,
         "timesAreVideoRelative": false,
-        "proceedingIndex": 32
+        "proceedingIndex": 32,
+        "confidence": 1.0
       }
     },
     {
@@ -12695,7 +12727,8 @@
         "startInStreamSecs": 3681.0,
         "stopInStreamSecs": 3987.0,
         "timesAreVideoRelative": false,
-        "proceedingIndex": 33
+        "proceedingIndex": 33,
+        "confidence": 1.0
       }
     },
     {
@@ -13229,7 +13262,8 @@
         "startInStreamSecs": 3850.0,
         "stopInStreamSecs": 4198.0,
         "timesAreVideoRelative": false,
-        "proceedingIndex": 34
+        "proceedingIndex": 34,
+        "confidence": 1.0
       }
     },
     {
@@ -14243,7 +14277,8 @@
         "startInStreamSecs": 4008.0,
         "stopInStreamSecs": 4581.0,
         "timesAreVideoRelative": false,
-        "proceedingIndex": 35
+        "proceedingIndex": 35,
+        "confidence": 1.0
       }
     },
     {
@@ -14757,7 +14792,8 @@
         "startInStreamSecs": 4219.0,
         "stopInStreamSecs": 4532.0,
         "timesAreVideoRelative": false,
-        "proceedingIndex": 36
+        "proceedingIndex": 36,
+        "confidence": 1.0
       }
     },
     {
@@ -15385,7 +15421,8 @@
         "startInStreamSecs": 4530.0,
         "stopInStreamSecs": 4900.0,
         "timesAreVideoRelative": false,
-        "proceedingIndex": 37
+        "proceedingIndex": 37,
+        "confidence": 1.0
       }
     },
     {
@@ -16339,7 +16376,8 @@
         "startInStreamSecs": 4626.0,
         "stopInStreamSecs": 5121.0,
         "timesAreVideoRelative": false,
-        "proceedingIndex": 38
+        "proceedingIndex": 38,
+        "confidence": 1.0
       }
     },
     {
@@ -16528,7 +16566,8 @@
         "startInStreamSecs": 4902.0,
         "stopInStreamSecs": 5047.0,
         "timesAreVideoRelative": false,
-        "proceedingIndex": 39
+        "proceedingIndex": 39,
+        "confidence": 1.0
       }
     },
     {
@@ -17617,7 +17656,8 @@
         "startInStreamSecs": 5148.0,
         "stopInStreamSecs": 5752.0,
         "timesAreVideoRelative": false,
-        "proceedingIndex": 40
+        "proceedingIndex": 40,
+        "confidence": 1.0
       }
     },
     {
@@ -18935,7 +18975,8 @@
         "startInStreamSecs": 5395.0,
         "stopInStreamSecs": 6255.0,
         "timesAreVideoRelative": false,
-        "proceedingIndex": 41
+        "proceedingIndex": 41,
+        "confidence": 1.0
       }
     },
     {
@@ -19559,7 +19600,8 @@
         "startInStreamSecs": 5810.0,
         "stopInStreamSecs": 6085.0,
         "timesAreVideoRelative": false,
-        "proceedingIndex": 42
+        "proceedingIndex": 42,
+        "confidence": 1.0
       }
     },
     {
@@ -20223,7 +20265,8 @@
         "startInStreamSecs": 6106.0,
         "stopInStreamSecs": 6452.0,
         "timesAreVideoRelative": false,
-        "proceedingIndex": 43
+        "proceedingIndex": 43,
+        "confidence": 1.0
       }
     },
     {
@@ -22397,7 +22440,8 @@
         "startInStreamSecs": 6326.0,
         "stopInStreamSecs": 7737.0,
         "timesAreVideoRelative": false,
-        "proceedingIndex": 44
+        "proceedingIndex": 44,
+        "confidence": 1.0
       }
     },
     {
@@ -22986,7 +23030,8 @@
         "startInStreamSecs": 6469.0,
         "stopInStreamSecs": 6760.0,
         "timesAreVideoRelative": false,
-        "proceedingIndex": 45
+        "proceedingIndex": 45,
+        "confidence": 1.0
       }
     },
     {
@@ -23110,7 +23155,8 @@
         "startInStreamSecs": 6764.0,
         "stopInStreamSecs": 6789.0,
         "timesAreVideoRelative": false,
-        "proceedingIndex": 46
+        "proceedingIndex": 46,
+        "confidence": 1.0
       }
     },
     {
@@ -23384,7 +23430,8 @@
         "startInStreamSecs": 6781.0,
         "stopInStreamSecs": 6885.0,
         "timesAreVideoRelative": false,
-        "proceedingIndex": 47
+        "proceedingIndex": 47,
+        "confidence": 1.0
       }
     },
     {
@@ -23763,7 +23810,8 @@
         "startInStreamSecs": 6887.0,
         "stopInStreamSecs": 7086.0,
         "timesAreVideoRelative": false,
-        "proceedingIndex": 48
+        "proceedingIndex": 48,
+        "confidence": 1.0
       }
     },
     {
@@ -24413,7 +24461,8 @@
         "startInStreamSecs": 7100.0,
         "stopInStreamSecs": 7422.0,
         "timesAreVideoRelative": false,
-        "proceedingIndex": 49
+        "proceedingIndex": 49,
+        "confidence": 1.0
       }
     },
     {
@@ -24567,7 +24616,8 @@
         "startInStreamSecs": 7420.0,
         "stopInStreamSecs": 7456.0,
         "timesAreVideoRelative": false,
-        "proceedingIndex": 50
+        "proceedingIndex": 50,
+        "confidence": 1.0
       }
     },
     {
@@ -24827,7 +24877,8 @@
         "startInStreamSecs": 7449.0,
         "stopInStreamSecs": 7549.0,
         "timesAreVideoRelative": false,
-        "proceedingIndex": 51
+        "proceedingIndex": 51,
+        "confidence": 1.0
       }
     },
     {
@@ -25312,7 +25363,8 @@
         "startInStreamSecs": 7534.0,
         "stopInStreamSecs": 7782.0,
         "timesAreVideoRelative": false,
-        "proceedingIndex": 52
+        "proceedingIndex": 52,
+        "confidence": 1.0
       }
     },
     {
@@ -27451,7 +27503,8 @@
         "startInStreamSecs": 7798.0,
         "stopInStreamSecs": 9116.0,
         "timesAreVideoRelative": false,
-        "proceedingIndex": 53
+        "proceedingIndex": 53,
+        "confidence": 1.0
       }
     },
     {
@@ -28980,7 +29033,8 @@
         "startInStreamSecs": 7812.0,
         "stopInStreamSecs": 8663.0,
         "timesAreVideoRelative": false,
-        "proceedingIndex": 54
+        "proceedingIndex": 54,
+        "confidence": 1.0
       }
     },
     {
@@ -29234,7 +29288,8 @@
         "startInStreamSecs": 8700.0,
         "stopInStreamSecs": 8789.0,
         "timesAreVideoRelative": false,
-        "proceedingIndex": 55
+        "proceedingIndex": 55,
+        "confidence": 1.0
       }
     },
     {
@@ -29353,7 +29408,8 @@
         "startInStreamSecs": 8786.0,
         "stopInStreamSecs": 8811.0,
         "timesAreVideoRelative": false,
-        "proceedingIndex": 56
+        "proceedingIndex": 56,
+        "confidence": 1.0
       }
     },
     {
@@ -29542,7 +29598,8 @@
         "startInStreamSecs": 8806.0,
         "stopInStreamSecs": 8862.0,
         "timesAreVideoRelative": false,
-        "proceedingIndex": 57
+        "proceedingIndex": 57,
+        "confidence": 1.0
       }
     },
     {
@@ -29886,7 +29943,8 @@
         "startInStreamSecs": 8857.0,
         "stopInStreamSecs": 9032.0,
         "timesAreVideoRelative": false,
-        "proceedingIndex": 58
+        "proceedingIndex": 58,
+        "confidence": 1.0
       }
     },
     {
@@ -30325,7 +30383,8 @@
         "startInStreamSecs": 9056.0,
         "stopInStreamSecs": 9349.0,
         "timesAreVideoRelative": false,
-        "proceedingIndex": 59
+        "proceedingIndex": 59,
+        "confidence": 1.0
       }
     },
     {
@@ -30524,7 +30583,8 @@
         "startInStreamSecs": 9181.0,
         "stopInStreamSecs": 9294.0,
         "timesAreVideoRelative": false,
-        "proceedingIndex": 60
+        "proceedingIndex": 60,
+        "confidence": 1.0
       }
     },
     {
@@ -30693,7 +30753,8 @@
         "startInStreamSecs": 9317.0,
         "stopInStreamSecs": 9383.0,
         "timesAreVideoRelative": false,
-        "proceedingIndex": 61
+        "proceedingIndex": 61,
+        "confidence": 1.0
       }
     },
     {
@@ -31177,7 +31238,8 @@
         "startInStreamSecs": 9362.0,
         "stopInStreamSecs": 9599.0,
         "timesAreVideoRelative": false,
-        "proceedingIndex": 62
+        "proceedingIndex": 62,
+        "confidence": 1.0
       }
     },
     {
@@ -32496,7 +32558,8 @@
         "startInStreamSecs": 9470.0,
         "stopInStreamSecs": 10175.0,
         "timesAreVideoRelative": false,
-        "proceedingIndex": 63
+        "proceedingIndex": 63,
+        "confidence": 1.0
       }
     },
     {
@@ -33160,7 +33223,8 @@
         "startInStreamSecs": 9620.0,
         "stopInStreamSecs": 10027.0,
         "timesAreVideoRelative": false,
-        "proceedingIndex": 64
+        "proceedingIndex": 64,
+        "confidence": 1.0
       }
     },
     {
@@ -34554,7 +34618,8 @@
         "startInStreamSecs": 10043.0,
         "stopInStreamSecs": 10810.0,
         "timesAreVideoRelative": false,
-        "proceedingIndex": 65
+        "proceedingIndex": 65,
+        "confidence": 1.0
       }
     },
     {
@@ -35508,7 +35573,8 @@
         "startInStreamSecs": 10200.0,
         "stopInStreamSecs": 10812.0,
         "timesAreVideoRelative": false,
-        "proceedingIndex": 66
+        "proceedingIndex": 66,
+        "confidence": 1.0
       }
     },
     {
@@ -36027,7 +36093,8 @@
         "startInStreamSecs": 10825.0,
         "stopInStreamSecs": 11111.0,
         "timesAreVideoRelative": false,
-        "proceedingIndex": 67
+        "proceedingIndex": 67,
+        "confidence": 1.0
       }
     },
     {
@@ -36245,7 +36312,8 @@
         "startInStreamSecs": 10864.0,
         "stopInStreamSecs": 10966.0,
         "timesAreVideoRelative": false,
-        "proceedingIndex": 68
+        "proceedingIndex": 68,
+        "confidence": 1.0
       }
     },
     {
@@ -37100,7 +37168,8 @@
         "startInStreamSecs": 11014.0,
         "stopInStreamSecs": 11548.0,
         "timesAreVideoRelative": false,
-        "proceedingIndex": 69
+        "proceedingIndex": 69,
+        "confidence": 1.0
       }
     },
     {
@@ -37533,7 +37602,8 @@
         "startInStreamSecs": 11187.0,
         "stopInStreamSecs": 11415.0,
         "timesAreVideoRelative": false,
-        "proceedingIndex": 70
+        "proceedingIndex": 70,
+        "confidence": 1.0
       }
     },
     {
@@ -38376,7 +38446,8 @@
         "startInStreamSecs": 11433.0,
         "stopInStreamSecs": 11996.0,
         "timesAreVideoRelative": false,
-        "proceedingIndex": 71
+        "proceedingIndex": 71,
+        "confidence": 1.0
       }
     },
     {
@@ -38500,7 +38571,8 @@
         "startInStreamSecs": 11545.0,
         "stopInStreamSecs": 11582.0,
         "timesAreVideoRelative": false,
-        "proceedingIndex": 72
+        "proceedingIndex": 72,
+        "confidence": 1.0
       }
     },
     {
@@ -38645,7 +38717,8 @@
         "startInStreamSecs": 11579.0,
         "stopInStreamSecs": 11628.0,
         "timesAreVideoRelative": false,
-        "proceedingIndex": 73
+        "proceedingIndex": 73,
+        "confidence": 1.0
       }
     },
     {
@@ -39205,7 +39278,8 @@
         "startInStreamSecs": 11624.0,
         "stopInStreamSecs": 11938.0,
         "timesAreVideoRelative": false,
-        "proceedingIndex": 74
+        "proceedingIndex": 74,
+        "confidence": 1.0
       }
     },
     {
@@ -39724,7 +39798,8 @@
         "startInStreamSecs": 11985.0,
         "stopInStreamSecs": 12295.0,
         "timesAreVideoRelative": false,
-        "proceedingIndex": 75
+        "proceedingIndex": 75,
+        "confidence": 1.0
       }
     },
     {
@@ -40608,7 +40683,8 @@
         "startInStreamSecs": 12051.0,
         "stopInStreamSecs": 12664.0,
         "timesAreVideoRelative": false,
-        "proceedingIndex": 76
+        "proceedingIndex": 76,
+        "confidence": 1.0
       }
     },
     {
@@ -41162,7 +41238,8 @@
         "startInStreamSecs": 12310.0,
         "stopInStreamSecs": 12589.0,
         "timesAreVideoRelative": false,
-        "proceedingIndex": 77
+        "proceedingIndex": 77,
+        "confidence": 1.0
       }
     },
     {
@@ -41501,7 +41578,8 @@
         "startInStreamSecs": 12614.0,
         "stopInStreamSecs": 12789.0,
         "timesAreVideoRelative": false,
-        "proceedingIndex": 78
+        "proceedingIndex": 78,
+        "confidence": 1.0
       }
     },
     {
@@ -42245,7 +42323,8 @@
         "startInStreamSecs": 12679.0,
         "stopInStreamSecs": 13136.0,
         "timesAreVideoRelative": false,
-        "proceedingIndex": 79
+        "proceedingIndex": 79,
+        "confidence": 1.0
       }
     },
     {
@@ -43041,7 +43120,8 @@
         "startInStreamSecs": 13174.0,
         "stopInStreamSecs": 13680.0,
         "timesAreVideoRelative": false,
-        "proceedingIndex": 80
+        "proceedingIndex": 80,
+        "confidence": 1.0
       }
     },
     {
@@ -43230,7 +43310,8 @@
         "startInStreamSecs": 13700.0,
         "stopInStreamSecs": 13798.0,
         "timesAreVideoRelative": false,
-        "proceedingIndex": 81
+        "proceedingIndex": 81,
+        "confidence": 1.0
       }
     },
     {
@@ -43381,7 +43462,8 @@
         "startInStreamSecs": 13810.0,
         "stopInStreamSecs": 13873.0,
         "timesAreVideoRelative": false,
-        "proceedingIndex": 82
+        "proceedingIndex": 82,
+        "confidence": 1.0
       }
     },
     {
@@ -43820,7 +43902,8 @@
         "startInStreamSecs": 13908.0,
         "stopInStreamSecs": 14180.0,
         "timesAreVideoRelative": false,
-        "proceedingIndex": 83
+        "proceedingIndex": 83,
+        "confidence": 1.0
       }
     },
     {
@@ -44344,7 +44427,8 @@
         "startInStreamSecs": 14205.0,
         "stopInStreamSecs": 14553.0,
         "timesAreVideoRelative": false,
-        "proceedingIndex": 84
+        "proceedingIndex": 84,
+        "confidence": 1.0
       }
     },
     {
@@ -45188,7 +45272,8 @@
         "startInStreamSecs": 14570.0,
         "stopInStreamSecs": 15063.0,
         "timesAreVideoRelative": false,
-        "proceedingIndex": 85
+        "proceedingIndex": 85,
+        "confidence": 1.0
       }
     },
     {
@@ -45602,7 +45687,8 @@
         "startInStreamSecs": 15090.0,
         "stopInStreamSecs": 15341.0,
         "timesAreVideoRelative": false,
-        "proceedingIndex": 86
+        "proceedingIndex": 86,
+        "confidence": 1.0
       }
     },
     {
@@ -46620,7 +46706,8 @@
         "startInStreamSecs": 15360.0,
         "stopInStreamSecs": 15922.0,
         "timesAreVideoRelative": false,
-        "proceedingIndex": 87
+        "proceedingIndex": 87,
+        "confidence": 1.0
       }
     },
     {
@@ -48164,7 +48251,8 @@
         "startInStreamSecs": 16004.0,
         "stopInStreamSecs": 16876.0,
         "timesAreVideoRelative": false,
-        "proceedingIndex": 88
+        "proceedingIndex": 88,
+        "confidence": 1.0
       }
     },
     {
@@ -48568,7 +48656,8 @@
         "startInStreamSecs": 16902.0,
         "stopInStreamSecs": 17101.0,
         "timesAreVideoRelative": false,
-        "proceedingIndex": 89
+        "proceedingIndex": 89,
+        "confidence": 1.0
       }
     },
     {
@@ -48702,7 +48791,8 @@
         "startInStreamSecs": 17096.0,
         "stopInStreamSecs": 17122.0,
         "timesAreVideoRelative": false,
-        "proceedingIndex": 90
+        "proceedingIndex": 90,
+        "confidence": 1.0
       }
     },
     {
@@ -48846,7 +48936,8 @@
         "startInStreamSecs": 17114.0,
         "stopInStreamSecs": 17142.0,
         "timesAreVideoRelative": false,
-        "proceedingIndex": 91
+        "proceedingIndex": 91,
+        "confidence": 1.0
       }
     },
     {
@@ -49455,7 +49546,8 @@
         "startInStreamSecs": 17138.0,
         "stopInStreamSecs": 17465.0,
         "timesAreVideoRelative": false,
-        "proceedingIndex": 92
+        "proceedingIndex": 92,
+        "confidence": 1.0
       }
     },
     {
@@ -50194,7 +50286,8 @@
         "startInStreamSecs": 17485.0,
         "stopInStreamSecs": 17916.0,
         "timesAreVideoRelative": false,
-        "proceedingIndex": 93
+        "proceedingIndex": 93,
+        "confidence": 1.0
       }
     },
     {
@@ -51103,7 +51196,8 @@
         "startInStreamSecs": 17944.0,
         "stopInStreamSecs": 18542.0,
         "timesAreVideoRelative": false,
-        "proceedingIndex": 94
+        "proceedingIndex": 94,
+        "confidence": 1.0
       }
     },
     {
@@ -51252,7 +51346,8 @@
         "startInStreamSecs": 18566.0,
         "stopInStreamSecs": 18612.0,
         "timesAreVideoRelative": false,
-        "proceedingIndex": 95
+        "proceedingIndex": 95,
+        "confidence": 1.0
       }
     },
     {
@@ -51376,7 +51471,8 @@
         "startInStreamSecs": 18619.0,
         "stopInStreamSecs": 18648.0,
         "timesAreVideoRelative": false,
-        "proceedingIndex": 96
+        "proceedingIndex": 96,
+        "confidence": 1.0
       }
     },
     {
@@ -52070,7 +52166,8 @@
         "startInStreamSecs": 18660.0,
         "stopInStreamSecs": 19078.0,
         "timesAreVideoRelative": false,
-        "proceedingIndex": 97
+        "proceedingIndex": 97,
+        "confidence": 1.0
       }
     },
     {
@@ -52569,7 +52666,8 @@
         "startInStreamSecs": 19090.0,
         "stopInStreamSecs": 19367.0,
         "timesAreVideoRelative": false,
-        "proceedingIndex": 98
+        "proceedingIndex": 98,
+        "confidence": 1.0
       }
     },
     {
@@ -53858,7 +53956,8 @@
         "startInStreamSecs": 19379.0,
         "stopInStreamSecs": 20100.0,
         "timesAreVideoRelative": false,
-        "proceedingIndex": 99
+        "proceedingIndex": 99,
+        "confidence": 1.0
       }
     },
     {
@@ -54742,7 +54841,8 @@
         "startInStreamSecs": 20155.0,
         "stopInStreamSecs": 20744.0,
         "timesAreVideoRelative": false,
-        "proceedingIndex": 100
+        "proceedingIndex": 100,
+        "confidence": 1.0
       }
     },
     {
@@ -55306,7 +55406,8 @@
         "startInStreamSecs": 20774.0,
         "stopInStreamSecs": 21068.0,
         "timesAreVideoRelative": false,
-        "proceedingIndex": 101
+        "proceedingIndex": 101,
+        "confidence": 1.0
       }
     },
     {
@@ -56115,7 +56216,8 @@
         "startInStreamSecs": 21085.0,
         "stopInStreamSecs": 21605.0,
         "timesAreVideoRelative": false,
-        "proceedingIndex": 102
+        "proceedingIndex": 102,
+        "confidence": 1.0
       }
     },
     {
@@ -56669,7 +56771,8 @@
         "startInStreamSecs": 21631.0,
         "stopInStreamSecs": 21906.0,
         "timesAreVideoRelative": false,
-        "proceedingIndex": 103
+        "proceedingIndex": 103,
+        "confidence": 1.0
       }
     },
     {
@@ -57038,7 +57141,8 @@
         "startInStreamSecs": 21920.0,
         "stopInStreamSecs": 22112.0,
         "timesAreVideoRelative": false,
-        "proceedingIndex": 104
+        "proceedingIndex": 104,
+        "confidence": 1.0
       }
     },
     {
@@ -57377,7 +57481,8 @@
         "startInStreamSecs": 22124.0,
         "stopInStreamSecs": 22305.0,
         "timesAreVideoRelative": false,
-        "proceedingIndex": 105
+        "proceedingIndex": 105,
+        "confidence": 1.0
       }
     },
     {
@@ -58410,7 +58515,8 @@
         "startInStreamSecs": 22326.0,
         "stopInStreamSecs": 22996.0,
         "timesAreVideoRelative": false,
-        "proceedingIndex": 106
+        "proceedingIndex": 106,
+        "confidence": 1.0
       }
     }
   ]

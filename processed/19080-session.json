@@ -1,20 +1,17 @@
 {
   "meta": {
     "schemaVersion": "1.0",
-    "parliament": "DE-NI",
-    "electoralPeriod": {
-      "number": 19
-    },
     "session": "19080",
-    "tagungsabschnitt": 30,
     "dateStart": "2025-12-16T08:01:38Z",
     "dateEnd": "2025-12-16T18:33:48Z",
-    "sourceURI": "https://plenartv.de/tagungsabschnitt/19-30?sitzung=80",
+    "lastProcessing": "parse_media",
+    "lastUpdate": "2026-06-13T16:25:26",
     "processing": {
       "parse_media": "2026-06-13T16:25:26",
       "merge": "2026-06-13T16:25:26"
     },
-    "lastUpdate": "2026-06-13T16:25:26"
+    "tagungsabschnitt": 30,
+    "sourceURI": "https://plenartv.de/tagungsabschnitt/19-30?sitzung=80"
   },
   "data": [
     {

@@ -1,20 +1,17 @@
 {
   "meta": {
     "schemaVersion": "1.0",
-    "parliament": "DE-NI",
-    "electoralPeriod": {
-      "number": 19
-    },
     "session": "19078",
-    "tagungsabschnitt": 29,
     "dateStart": "2025-11-20T08:01:47Z",
     "dateEnd": "2025-11-20T13:43:02Z",
-    "sourceURI": "https://plenartv.de/tagungsabschnitt/19-29?sitzung=78",
+    "lastProcessing": "parse_media",
+    "lastUpdate": "2026-06-13T16:25:26",
     "processing": {
       "parse_media": "2026-06-13T16:25:26",
       "merge": "2026-06-13T16:25:26"
     },
-    "lastUpdate": "2026-06-13T16:25:26"
+    "tagungsabschnitt": 29,
+    "sourceURI": "https://plenartv.de/tagungsabschnitt/19-29?sitzung=78"
   },
   "data": [
     {
@@ -845,7 +842,7 @@
         "timesAreVideoRelative": false,
         "proceedingIndex": 2,
         "confidence": 0.5,
-        "confidence_reason": "qa-agenda-type"
+        "confidenceReason": "qa-agenda-type"
       }
     },
     {
@@ -3612,7 +3609,7 @@
         "timesAreVideoRelative": false,
         "proceedingIndex": 3,
         "confidence": 0.5,
-        "confidence_reason": "qa-agenda-type"
+        "confidenceReason": "qa-agenda-type"
       }
     },
     {
@@ -3733,7 +3730,7 @@
         "timesAreVideoRelative": false,
         "proceedingIndex": 4,
         "confidence": 0.5,
-        "confidence_reason": "qa-agenda-type"
+        "confidenceReason": "qa-agenda-type"
       }
     },
     {
@@ -4115,7 +4112,7 @@
         "timesAreVideoRelative": false,
         "proceedingIndex": 5,
         "confidence": 0.5,
-        "confidence_reason": "qa-agenda-type"
+        "confidenceReason": "qa-agenda-type"
       }
     },
     {
@@ -4251,7 +4248,7 @@
         "timesAreVideoRelative": false,
         "proceedingIndex": 6,
         "confidence": 0.5,
-        "confidence_reason": "qa-agenda-type"
+        "confidenceReason": "qa-agenda-type"
       }
     },
     {
@@ -4688,7 +4685,7 @@
         "timesAreVideoRelative": false,
         "proceedingIndex": 7,
         "confidence": 0.5,
-        "confidence_reason": "qa-agenda-type"
+        "confidenceReason": "qa-agenda-type"
       }
     },
     {
@@ -4844,7 +4841,7 @@
         "timesAreVideoRelative": false,
         "proceedingIndex": 8,
         "confidence": 0.5,
-        "confidence_reason": "qa-agenda-type"
+        "confidenceReason": "qa-agenda-type"
       }
     },
     {
@@ -5221,7 +5218,7 @@
         "timesAreVideoRelative": false,
         "proceedingIndex": 9,
         "confidence": 0.5,
-        "confidence_reason": "qa-agenda-type"
+        "confidenceReason": "qa-agenda-type"
       }
     },
     {
@@ -5352,7 +5349,7 @@
         "timesAreVideoRelative": false,
         "proceedingIndex": 10,
         "confidence": 0.5,
-        "confidence_reason": "qa-agenda-type"
+        "confidenceReason": "qa-agenda-type"
       }
     },
     {
@@ -5504,7 +5501,7 @@
         "timesAreVideoRelative": false,
         "proceedingIndex": 11,
         "confidence": 0.5,
-        "confidence_reason": "qa-agenda-type"
+        "confidenceReason": "qa-agenda-type"
       }
     },
     {
@@ -5630,7 +5627,7 @@
         "timesAreVideoRelative": false,
         "proceedingIndex": 12,
         "confidence": 0.5,
-        "confidence_reason": "qa-agenda-type"
+        "confidenceReason": "qa-agenda-type"
       }
     },
     {
@@ -6047,7 +6044,7 @@
         "timesAreVideoRelative": false,
         "proceedingIndex": 13,
         "confidence": 0.5,
-        "confidence_reason": "qa-agenda-type"
+        "confidenceReason": "qa-agenda-type"
       }
     },
     {
@@ -6178,7 +6175,7 @@
         "timesAreVideoRelative": false,
         "proceedingIndex": 14,
         "confidence": 0.5,
-        "confidence_reason": "qa-agenda-type"
+        "confidenceReason": "qa-agenda-type"
       }
     },
     {
@@ -6565,7 +6562,7 @@
         "timesAreVideoRelative": false,
         "proceedingIndex": 15,
         "confidence": 0.5,
-        "confidence_reason": "qa-agenda-type"
+        "confidenceReason": "qa-agenda-type"
       }
     },
     {
@@ -6716,7 +6713,7 @@
         "timesAreVideoRelative": false,
         "proceedingIndex": 16,
         "confidence": 0.5,
-        "confidence_reason": "qa-agenda-type"
+        "confidenceReason": "qa-agenda-type"
       }
     },
     {
@@ -7078,7 +7075,7 @@
         "timesAreVideoRelative": false,
         "proceedingIndex": 17,
         "confidence": 0.5,
-        "confidence_reason": "qa-agenda-type"
+        "confidenceReason": "qa-agenda-type"
       }
     },
     {
@@ -7199,7 +7196,7 @@
         "timesAreVideoRelative": false,
         "proceedingIndex": 18,
         "confidence": 0.5,
-        "confidence_reason": "qa-agenda-type"
+        "confidenceReason": "qa-agenda-type"
       }
     },
     {
@@ -7436,7 +7433,7 @@
         "timesAreVideoRelative": false,
         "proceedingIndex": 19,
         "confidence": 0.5,
-        "confidence_reason": "qa-agenda-type"
+        "confidenceReason": "qa-agenda-type"
       }
     },
     {
@@ -8007,7 +8004,7 @@
         "timesAreVideoRelative": false,
         "proceedingIndex": 20,
         "confidence": 0.5,
-        "confidence_reason": "qa-agenda-type"
+        "confidenceReason": "qa-agenda-type"
       }
     },
     {
@@ -8643,7 +8640,7 @@
         "timesAreVideoRelative": false,
         "proceedingIndex": 21,
         "confidence": 0.5,
-        "confidence_reason": "qa-agenda-type"
+        "confidenceReason": "qa-agenda-type"
       }
     },
     {
@@ -8949,7 +8946,7 @@
         "timesAreVideoRelative": false,
         "proceedingIndex": 22,
         "confidence": 0.5,
-        "confidence_reason": "qa-agenda-type"
+        "confidenceReason": "qa-agenda-type"
       }
     },
     {
@@ -9645,7 +9642,7 @@
         "timesAreVideoRelative": false,
         "proceedingIndex": 23,
         "confidence": 0.5,
-        "confidence_reason": "qa-agenda-type"
+        "confidenceReason": "qa-agenda-type"
       }
     },
     {
@@ -9906,7 +9903,7 @@
         "timesAreVideoRelative": false,
         "proceedingIndex": 24,
         "confidence": 0.5,
-        "confidence_reason": "qa-agenda-type"
+        "confidenceReason": "qa-agenda-type"
       }
     },
     {
@@ -10902,7 +10899,7 @@
         "timesAreVideoRelative": false,
         "proceedingIndex": 25,
         "confidence": 0.5,
-        "confidence_reason": "qa-agenda-type"
+        "confidenceReason": "qa-agenda-type"
       }
     },
     {
@@ -11008,7 +11005,7 @@
         "timesAreVideoRelative": false,
         "proceedingIndex": 26,
         "confidence": 0.5,
-        "confidence_reason": "qa-agenda-type"
+        "confidenceReason": "qa-agenda-type"
       }
     },
     {
@@ -11164,7 +11161,7 @@
         "timesAreVideoRelative": false,
         "proceedingIndex": 27,
         "confidence": 0.5,
-        "confidence_reason": "qa-agenda-type"
+        "confidenceReason": "qa-agenda-type"
       }
     },
     {
@@ -11270,7 +11267,7 @@
         "timesAreVideoRelative": false,
         "proceedingIndex": 28,
         "confidence": 0.5,
-        "confidence_reason": "qa-agenda-type"
+        "confidenceReason": "qa-agenda-type"
       }
     },
     {
@@ -11401,7 +11398,7 @@
         "timesAreVideoRelative": false,
         "proceedingIndex": 29,
         "confidence": 0.5,
-        "confidence_reason": "qa-agenda-type"
+        "confidenceReason": "qa-agenda-type"
       }
     },
     {
@@ -11502,7 +11499,7 @@
         "timesAreVideoRelative": false,
         "proceedingIndex": 30,
         "confidence": 0.5,
-        "confidence_reason": "qa-agenda-type"
+        "confidenceReason": "qa-agenda-type"
       }
     },
     {
@@ -11628,7 +11625,7 @@
         "timesAreVideoRelative": false,
         "proceedingIndex": 31,
         "confidence": 0.5,
-        "confidence_reason": "qa-agenda-type"
+        "confidenceReason": "qa-agenda-type"
       }
     },
     {
@@ -11739,7 +11736,7 @@
         "timesAreVideoRelative": false,
         "proceedingIndex": 32,
         "confidence": 0.5,
-        "confidence_reason": "qa-agenda-type"
+        "confidenceReason": "qa-agenda-type"
       }
     },
     {
@@ -11925,7 +11922,7 @@
         "timesAreVideoRelative": false,
         "proceedingIndex": 33,
         "confidence": 0.5,
-        "confidence_reason": "qa-agenda-type"
+        "confidenceReason": "qa-agenda-type"
       }
     },
     {
@@ -12346,7 +12343,7 @@
         "timesAreVideoRelative": false,
         "proceedingIndex": 34,
         "confidence": 0.5,
-        "confidence_reason": "qa-agenda-type"
+        "confidenceReason": "qa-agenda-type"
       }
     },
     {
@@ -12777,7 +12774,7 @@
         "timesAreVideoRelative": false,
         "proceedingIndex": 35,
         "confidence": 0.5,
-        "confidence_reason": "qa-agenda-type"
+        "confidenceReason": "qa-agenda-type"
       }
     },
     {
@@ -13273,7 +13270,7 @@
         "timesAreVideoRelative": false,
         "proceedingIndex": 36,
         "confidence": 0.5,
-        "confidence_reason": "qa-agenda-type"
+        "confidenceReason": "qa-agenda-type"
       }
     },
     {
@@ -13794,7 +13791,7 @@
         "timesAreVideoRelative": false,
         "proceedingIndex": 37,
         "confidence": 0.5,
-        "confidence_reason": "qa-agenda-type"
+        "confidenceReason": "qa-agenda-type"
       }
     },
     {
